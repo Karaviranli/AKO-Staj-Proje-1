@@ -11,7 +11,9 @@ import type { User } from "./types";
 export const TOKEN_COOKIE = "df_token";
 export const USER_COOKIE = "df_user";
 
-export const BACKEND_URL = process.env.BACKEND_URL ?? "http://localhost:5080";
+// Windows'ta 'localhost' Node fetch tarafından ::1 olarak çözülüp backend'e
+// bağlanamayabiliyor; varsayılanı 127.0.0.1 tutuyoruz.
+export const BACKEND_URL = process.env.BACKEND_URL ?? "http://127.0.0.1:5080";
 
 export async function getToken(): Promise<string | null> {
   const store = await cookies();
