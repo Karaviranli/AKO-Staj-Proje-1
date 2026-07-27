@@ -1,0 +1,515 @@
+﻿SiparisNo;MusteriAdi;Sehir;SiparisTarihi;Tutar;KargoFirmasi;KargoUcreti;Durum;UrunAdedi;OdemeTipi
+SIP2026404;CAN ÇELIK;trabzon;03/03/2026;444.95;UPS;25,97;Hazırlanıyor;6;bilinmiyor
+SIP2026439;Seda Gül;Antalya;01.11.2025;?;Sürat;82,85;Teslim Edildi;NaN;Havale
+SIP2026081;Selin Öztürk;eskişehir;2026-12-26;9.828,98;Aras;91.47;İptal;16;Kapıda Kart
+SIP2026185;  Merve Ateş ;Adana;16/05/2026;13.235,43;Yurtiçi;200,15;Kargoda;19;Kapıda Nakit
+SIP2026240;BURAK DOĞAN;KAYSERI;2025-09-30;13595.96;UPS;94.96;Kargoda;25;Kapıda Nakit
+SIP2026390;Elif Uçar;Kocaeli;30.04.2025;12.523,29;Yurtiçi;46,16;Hazırlanıyor;7;Kapıda Nakit
+SIP2026125;gizem şahin;Bursa;2025-12-05;5.238,12;Yurtiçi;77.54;hazirlaniyor;19;Kredi Kartı
+SIP2026263;Onur Taş;samsun;06/03/2025;3871.80;Yurtiçi;235,45;Teslim Edildi;14;Kredi Kartı
+SIP2026047;Mustafa Özdemir;ADANA;29.03.2026;5.481,05;Aras;217.85;hazirlaniyor;21;Kapıda Nakit
+SIP2026388;Hüseyin Kaya;İstanbul;13.12.2026;13.507,97;UPS;48.11;Kargoda;6;Havale
+SIP2026294;Ece Bal;Gaziantep;12/06/2026;12270.94;yok;3.47;Kargoda;22;bilinmiyor
+SIP2026251;Hüseyin Aksoy;Antalya;2025-10-02;112,57;yok;135,21;İade;15;Havale
+SIP2026274;Seda Aksoy;İSTANBUL;25/02/2025;5347.15;Aras;114,69;KARGODA;N/A;Kapıda Kart
+SIP2026192;Hakan Çelik;antalya;2026-07-30;6975.70;Aras;155,42;KARGODA;22;Kapıda Nakit
+SIP2026463;Okan Arslan;Antalya;28/09/2025;abc;MNG;155.06;İptal;n/a;Kredi Kartı
+SIP2026347;seda çelik;adana;05/04/2027;8225.60;MNG;168,44;İade;25;Kredi Kartı
+SIP2026370;can şahin;Eskişehir;29/01/2025;14.201,44;Sürat;70,31;hazirlaniyor;12;Kredi Kartı
+SIP2026023;Serkan Aydın;Kayseri;27.11.2026;690,00;MNG;236.99;Teslim Edildi;7;Kapıda Nakit
+SIP2026460;  Volkan Aydın ;Konya;07/08/2025;8272.15;UPS;56,79;İptal;12;Kredi Kartı
+SIP2026122;HÜSEYIN ÖZTÜRK;KOCAELI;13/03/2026;1950.85;Yurtiçi;248,70;Kargoda;15;Havale
+SIP2026061;Gizem Aydın;Kocaeli;2025-05-12;4.792,14;Sürat;240,61;KARGODA;24;Kapıda Kart
+SIP2026469;Mehmet Ateş;i̇stanbul;21/06/2026;2.750,90;MNG;10,22;hazirlaniyor;11;Kapıda Kart
+SIP2026455;ONUR ATEŞ;kayseri;N/A;8.234,01;Aras;188.37;Hazırlanıyor;15;Kapıda Nakit
+SIP2026331;derya kurt;İstanbul;17.04.2026;3854.06;Yurtiçi;134,78;KARGODA;4;Havale
+SIP2026339;Fatma Taş;kocaeli;08.02.2027;12.744,49;Aras;227.38;İptal;25;Havale
+SIP2026256;Okan Aydın;  Kocaeli ;13.09.2026;6.021,74;Sürat;17.36;Kargoda;9;-
+SIP2026453;Burak Tan;bursa;2025-12-20;10225.02;UPS;112,31;hazirlaniyor;18;Havale
+SIP2026361;Seda Uçar;kocaeli;2027-02-11;13001.23;UPS;191,25;hazirlaniyor;7;Kredi Kartı
+SIP2026492;Mehmet Gül;GAZIANTEP;05.08.2026;8.323,00;UPS;51.60;Hazırlanıyor;12;Kapıda Nakit
+SIP2026183;Pınar Kurt;Antalya;22/06/2025;8275.89;MNG;16.40;Teslim Edildi;20;bilinmiyor
+SIP2026434;Hakan Uçar;ADANA;31.05.2027;2.139,39;Sürat;yaklasik 1000;İade;19;
+SIP2026066;AYLIN BAL;Adana;28.03.2027;10331.17;N/A;188,56;hazirlaniyor;1;Kredi Kartı
+SIP2026164;BURAK YILDIZ;gaziantep;2025-04-03;1.658,24;PTT;yaklasik 1000;İade;18;Kapıda Kart
+SIP2026199;zeynep öztürk;ADANA;2026-10-15;13323.79;UPS;65.27;hazirlaniyor;15;Havale
+SIP2026445;Ali Özdemir;Bursa;12.03.2025;5589.63;-;137.55;İade;8;Kredi Kartı
+SIP2026099;Barış Kaya;  Bursa ;04/08/2025;2121.11;MNG;43.81;Hazırlanıyor;8; 
+SIP2026491;Zeynep Tan;ankara;02/09/2025;4325.62;Aras;133.14;İptal;25;Kapıda Nakit
+SIP2026131;emine yılmaz;adana;15/04/2025;8.686,03;PTT;168.87;hazirlaniyor;19;Kapıda Nakit
+SIP2026398;  Nuray Aydın ;Kocaeli;2025-11-06;368,46;PTT;165.58;İade;9;Kredi Kartı
+SIP2026442;Kemal Çelik;gaziantep;30.03.2027;12.925,67;Aras;abc;Hazırlanıyor;23;Kapıda Kart
+SIP2026341;fatma aydın;ANTALYA;10/03/2026;4.202,64;UPS;190.16;İptal;15;Kapıda Kart
+SIP2026091;Fatma Aydın;MALATYA;2027-05-05;8.431,90;Sürat;184,45;Hazırlanıyor;18;Havale
+SIP2026223;GIZEM ÖZTÜRK;adana;18/05/2027;13025.17;Aras;234.52;hazirlaniyor;20;Havale
+SIP2026285;HAKAN ÖZTÜRK;Antalya;28/03/2025;5525.19;Aras;140.29;İptal; ;-
+SIP2026380;Gizem Bal;Malatya;09.07.2025;11890.34;PTT;59.00;hazirlaniyor;4;Kredi Kartı
+SIP2026406;MEHMET BAL;MALATYA;N/A;461.05;UPS;150.61;İade;11;Kapıda Nakit
+SIP2026297;ELIF ÖZTÜRK;Denizli;2026-11-20;1.423,54;n/a;49,75;Hazırlanıyor;;Havale
+SIP2026372;ALI AKSOY;i̇zmir;08/11/2025;13.741,97;Yurtiçi;186.75;hazirlaniyor;5;Kapıda Nakit
+SIP2026232;kemal ateş;ANKARA;07/06/2027;11115.87;UPS;175.04;KARGODA;13;Kapıda Kart
+SIP2026480;Merve Bal;  Konya ;18.01.2026;13.291,65;Sürat;198,67;Kargoda;13;Kredi Kartı
+SIP2026496;Hüseyin Kurt;İzmir;2026-02-13;1204.21;Aras;32.40;Hazırlanıyor;7;Havale
+SIP2026239;SEDA YILDIZ;denizli;2025-01-02;3026.62;Sürat;202.93;Teslim Edildi;3;Kapıda Kart
+SIP2026207;Mustafa Gül;Samsun;23.09.2026;7.300,64;NaN;32.27;hazirlaniyor;25;Kapıda Kart
+SIP2026002;GIZEM ŞAHIN;  Adana ;25/01/2025;3.894,07;Aras;38,46;KARGODA;9;Kapıda Nakit
+SIP2026227;Ali Yılmaz;Eskişehir;13.04.2026;1306.35;Sürat;233,68;İptal;2;Kredi Kartı
+SIP2026140;Derya Kaya;Trabzon;07.10.2026;420,67;Aras;209.67;Hazırlanıyor;25;Kapıda Kart
+SIP2026384;AYŞE KURT;adana;-;10611.95;Sürat;166,76;İade;22;Kapıda Kart
+SIP2026249;CAN ATEŞ;Malatya;26/09/2025;2832.09;MNG;133,92;Hazırlanıyor;7;Havale
+SIP2026023;Serkan Aydın;Kayseri;27.11.2026;690,00;MNG;236.99;Teslim Edildi;7;Kapıda Nakit
+SIP2026329;AHMET TAŞ;kayseri;27.05.2025;6.465,73;Aras;24.27;KARGODA;24;Kredi Kartı
+SIP2026244;Aylin Bal;İstanbul;04/02/2027;9.073,71;PTT;48.41;Teslim Edildi;4;Kredi Kartı
+SIP2026354;Serkan Çelik;trabzon;2026-10-17;9.100,01; ;84.64;Teslim Edildi;7;Kapıda Kart
+SIP2026050;Onur Yılmaz;TRABZON;null;2946.98;PTT;72.69;Teslim Edildi;22;Kapıda Nakit
+SIP2026303;Ece Aydın;ankara;22/11/2025;10.204,78;Aras;?;hazirlaniyor;yok;N/A
+SIP2026161;Ali Aksoy;Konya;2026-10-03;2044.35;MNG;213.73;Teslim Edildi;3;Havale
+SIP2026111;  Derya Koç ;İZMIR;02.04.2027;7.280,34;Aras;234,70;İptal;19;Kapıda Kart
+SIP2026335;Emre Aydın;ANTALYA;29/07/2026;1.585,20;PTT;213,09;KARGODA;18;Havale
+SIP2026264;  Hakan Yıldız ;antalya;15.08.2025;14.075,69;PTT;40.83;KARGODA;15;Kredi Kartı
+SIP2026400;nuray koç;  Bursa ;2026-07-18;13474.33;MNG;abc;İptal;8;Havale
+SIP2026044;mehmet doğan;samsun;18/05/2025;yaklasik 1000;yok;244.25;Teslim Edildi;20;Havale
+SIP2026063;Selin Gül;Kocaeli;2027-01-09;5.246,59;Sürat;1.60;KARGODA;14;Kapıda Kart
+SIP2026359;Can Arslan;Kayseri;2025-02-22;3.852,14;Yurtiçi;157.78;Hazırlanıyor;8;Havale
+SIP2026001;Can Ateş;Malatya;2025-09-02;6.441,50;n/a;174.35;KARGODA;3;Kapıda Nakit
+SIP2026257;ECE KOÇ;gaziantep;20/01/2027;11745.44;MNG;177.99;Teslim Edildi;15;-
+SIP2026128;Selin Öztürk;Trabzon;20/05/2026;4162.37;UPS;92.68;Teslim Edildi;;Kapıda Nakit
+SIP2026473;ZEYNEP ŞAHIN;ANTALYA;21.08.2026;11584.82;PTT;27,66;hazirlaniyor;12;Kapıda Nakit
+SIP2026054;Mustafa Doğan;MALATYA;2026-02-26;12528.72;PTT;122,19;İade;21;Havale
+SIP2026103;seda demir;TRABZON;2027-05-07;4.244,47;PTT;102,36;İptal;23;Kapıda Nakit
+SIP2026098;Serkan Yıldız;Denizli;03/03/2025;11.670,87;Yurtiçi;19,99;Kargoda;3;Kapıda Nakit
+SIP2026355;MERVE GÜL;Antalya;08/05/2025;5014.47;UPS;166,52;Kargoda;18;Kapıda Nakit
+SIP2026221;Serkan Kaya;KAYSERI;-;1.273,84;Yurtiçi;105,80;Teslim Edildi;9;Kapıda Nakit
+SIP2026215;Ali Aydın;Kayseri;09.10.2025;1.373,92;Aras;?;Kargoda;;Kapıda Kart
+SIP2026150;  Emine Gül ;ESKIŞEHIR;2026-09-12;13.674,85;PTT;74.21;İptal;;Kapıda Kart
+SIP2026275;  Fatma Kaya ;  Trabzon ;NaN;14245.72;MNG;59,37;KARGODA;NaN;Kredi Kartı
+SIP2026345;KEMAL ÖZDEMIR;malatya;10/06/2025;13177.85;PTT;57,61;İptal;13; 
+SIP2026343;DERYA YILMAZ;KOCAELI;17/09/2025;8.848,17;Sürat;yaklasik 1000;Hazırlanıyor;9;Kredi Kartı
+SIP2026107;pınar ateş;Trabzon;2026-07-05;3.242,71;UPS;212.33;Kargoda;13;Kredi Kartı
+SIP2026498;BARIŞ DEMIR;İSTANBUL;13/12/2026;5.328,95;Yurtiçi;yaklasik 1000;Teslim Edildi;3;Kredi Kartı
+SIP2026071;MUSTAFA BAL;  Kocaeli ;08/03/2027;3.277,13;Sürat;99,97;İade;7;Kapıda Kart
+SIP2026172;Hakan Yılmaz;  Kayseri ;04.01.2027;11.396,79;PTT;3,62;hazirlaniyor;5;Kredi Kartı
+SIP2026474;EMRE DOĞAN;i̇zmir;2025-06-08;12611.14;PTT;153,85;İade;23;Kredi Kartı
+SIP2026261;Deniz Bal;Samsun;NaN;13.953,52;Aras;168.69;Teslim Edildi;24;Kredi Kartı
+SIP2026228;merve arslan;ankara;2027-01-14;10.155,00;bilinmiyor;4.70;Teslim Edildi;23;Havale
+SIP2026362;Burak Şahin;  Ankara ;2025-04-22;9.712,60;Yurtiçi;116.02;Teslim Edildi;17;NaN
+SIP2026401;burak özdemir;  Gaziantep ;21.10.2026;9123.30;MNG;191.19;Kargoda;10;Kapıda Kart
+SIP2026213;Barış Şahin;Konya;07/01/2027;3145.85;MNG;82.87;İptal;18;Havale
+SIP2026472;Selin Ateş;  Konya ;2026-04-02;5.085,23;PTT;167,84;hazirlaniyor;20;Kredi Kartı
+SIP2026206;Kemal Uçar;SAMSUN;2027-01-30;7262.19;MNG;134,67;hazirlaniyor;11;Kapıda Nakit
+SIP2026435;kemal ateş;GAZIANTEP;30.01.2025;11.260,92;N/A;47.83;Kargoda;16;Kredi Kartı
+SIP2026417;hüseyin uçar;İstanbul;26/07/2025;12321.20;-;74,23;İptal;18;Kredi Kartı
+SIP2026226;Kemal Yıldız;  Antalya ;06.07.2026;12395.40;Aras;116,25;Kargoda;24;N/A
+SIP2026493;Ali Doğan;Ankara;2025-06-14;4.781,49;Aras;17,60;Teslim Edildi;2;Kapıda Nakit
+SIP2026137;Fatma Öztürk;DENIZLI;2027-05-12;2615.26;MNG;30,05;Kargoda;3;Kapıda Nakit
+SIP2026048;ECE TAŞ;Malatya;05/06/2027;7209.73;Sürat;70,95;hazirlaniyor; ;Kapıda Kart
+SIP2026142;  Fatma Gül ;  Eskişehir ;2027-01-03;12.663,28;UPS;248.62;İptal;11;Kredi Kartı
+SIP2026057;Fatma Çelik;Samsun;15/10/2026;14846.90;PTT;98,41;Teslim Edildi;15;Havale
+SIP2026055;DERYA GÜL;Ankara;;14465.73;PTT;yaklasik 1000;KARGODA;10;Havale
+SIP2026006;  Volkan Koç ;SAMSUN;20.01.2027;abc;Yurtiçi;183.18;Hazırlanıyor;18;Havale
+SIP2026160;Nuray Aksoy;Bursa;21/08/2026;4.005,10;MNG;233.60;Kargoda;14;Kapıda Kart
+SIP2026468;ECE UÇAR;Konya;2026-09-24;3.224,96;Yurtiçi;158,84;İade;8;Kapıda Kart
+SIP2026154;Selin Doğan;i̇stanbul;10.02.2026;8.846,48;-;1,24;İade;23;Kapıda Kart
+SIP2026170;Barış Kurt;Denizli;2025-04-03;12131.99;Yurtiçi;139.66;Hazırlanıyor;25;Kapıda Kart
+SIP2026151;Elif Arslan;ankara;27.06.2025;1.809,25;Aras;8,74;hazirlaniyor;14;Kapıda Nakit
+SIP2026287;okan kurt;İzmir;09/10/2025;12212.63;PTT;160,80;İptal;22;Kapıda Nakit
+SIP2026392;Ayşe Çelik;Kayseri;17.03.2025;13.962,76;MNG;66.11;Kargoda;20;Kapıda Kart
+SIP2026353;Onur Kurt;Gaziantep;04.01.2026;10754.47;MNG;64,79;İptal;7;Havale
+SIP2026105;mehmet arslan;Samsun;01/10/2025;8407.75;Sürat;139,25;Hazırlanıyor;14;Kapıda Nakit
+SIP2026238;merve ateş;Samsun;12/11/2026;3.780,12;PTT;203.15;KARGODA;7;Havale
+SIP2026374;AYLIN TAN;Kocaeli;31/01/2025;13.378,83;Aras;102,76;hazirlaniyor;22;Kapıda Nakit
+SIP2026191;FATMA KURT;  Eskişehir ;20/07/2026;85.81;Aras;197,99;hazirlaniyor;11;Havale
+SIP2026391;Ali Kaya;adana;N/A;?;PTT;69.46;İptal;13;Kredi Kartı
+SIP2026255;AYLIN YILMAZ;Ankara;2026-12-29;13.565,74;MNG;2,58;İptal;14;Kapıda Nakit
+SIP2026350;nuray arslan;ADANA;2027-01-13;5.483,55;PTT;137.24;İptal;5;Kredi Kartı
+SIP2026465;GIZEM ÖZTÜRK;kocaeli;31/01/2025;5.016,76;MNG;89.11;Kargoda;8;Kapıda Nakit
+SIP2026087;FATMA BAL;Antalya;2026-01-15;11484.95;PTT;217.02;Teslim Edildi;5;Kapıda Nakit
+SIP2026333;Ahmet Özdemir;Kayseri;2026-07-22;1.334,18;MNG;205.54;hazirlaniyor;10;Kapıda Nakit
+SIP2026292;Hakan Koç;gaziantep;22.10.2026;14907.25;yok;184,31;İptal;4;Kapıda Kart
+SIP2026086;Okan Öztürk;konya;2025-07-20;11065.49;UPS;141,27;İptal;14;Kredi Kartı
+SIP2026211;Burak Doğan;Kayseri;08.09.2025;3414.76;PTT;104,65;KARGODA;13;Havale
+SIP2026130;  Hakan Özdemir ;İstanbul;28/10/2025;6.698,52;PTT;188,17;Kargoda;22;Kredi Kartı
+SIP2026236;gizem öztürk;Malatya;08/11/2026;6.793,35;MNG;189.03;İptal;21;Havale
+SIP2026486;  Ali Aydın ;eskişehir;20/06/2026;14.691,33; ;yaklasik 1000;hazirlaniyor;n/a;Kapıda Kart
+SIP2026288;  Can Arslan ;eskişehir;05/09/2026;8.370,93;Aras;0,91;İptal;14;Havale
+SIP2026280;BURAK ÖZTÜRK;KOCAELI;13.09.2025;4137.52;PTT;56.88;Kargoda;6;Havale
+SIP2026189;fatma bal;Ankara;08/06/2027;14.988,92;Aras;238.83;hazirlaniyor;6;Kapıda Kart
+SIP2026378;NURAY KAYA;Antalya;n/a;8439.59;PTT;221,89;KARGODA;16;Kapıda Nakit
+SIP2026464;Hüseyin Aksoy;Malatya;2026-01-03;13.791,16;MNG;238,73;İade;7;bilinmiyor
+SIP2026245;onur tan;ADANA; ;13.479,52;UPS;161.52;İptal;6;Kapıda Kart
+SIP2026058;Gizem Şahin;İzmir;05.04.2026;3442.03;MNG;233,93;KARGODA;21;Kredi Kartı
+SIP2026234;Kemal Doğan;Samsun;2027-02-12;9.828,63;Aras;172.01;KARGODA;N/A;Kapıda Kart
+SIP2026454;Ayşe Aydın;  Trabzon ;15/05/2026;5136.47;UPS;191.38;İptal;21;NaN
+SIP2026116;Mustafa Uçar;İzmir;03.07.2025;358.61;PTT;152.83;hazirlaniyor;2;Kapıda Nakit
+SIP2026145;Seda Arslan;malatya;2025-08-12;5715.49;MNG;111,43;İade;14;Kapıda Kart
+SIP2026092;Ali Gül;KONYA;2027-03-25;2.049,79;Yurtiçi;20,93;İptal;5;Kredi Kartı
+SIP2026281;  Okan Kurt ;ANKARA;08/11/2025;9.779,01;Yurtiçi;158,97;hazirlaniyor;6;Kapıda Kart
+SIP2026065;Onur Şahin;DENIZLI;2025-07-05;11.533,45;Sürat;24.53;hazirlaniyor;7;Kredi Kartı
+SIP2026494;  Ali Koç ;konya;16.10.2026;14711.85;MNG;27.60;KARGODA;4;Havale
+SIP2026119;Hüseyin Tan;İSTANBUL;2026-09-05;13361.73;UPS;102.92;İade;N/A;Kapıda Nakit
+SIP2026143;Pınar Aydın;ESKIŞEHIR;2026-05-02;5.896,68;PTT;109,00;KARGODA;18;Kapıda Nakit
+SIP2026120;PINAR BAL;trabzon;13/03/2027;1940.64;Sürat;228.96;Teslim Edildi;24;Havale
+SIP2026412;aylin arslan;Denizli;31.07.2025;5772.51;MNG;161.16;KARGODA;21;Kredi Kartı
+SIP2026415;okan aydın;Trabzon;13.04.2026;?;MNG;101,62;İade;6;Havale
+SIP2026179;ELIF DOĞAN;  İstanbul ;2026-05-31;yaklasik 1000;Aras;125.04;Teslim Edildi;12;Kapıda Nakit
+SIP2026258;Mehmet Doğan;Samsun;2026-03-26;abc;MNG;152.75;İptal;15;Kapıda Nakit
+SIP2026420;kemal aksoy;Denizli;15.02.2027;1.454,45;PTT;83,54;İade;18;Havale
+SIP2026222;Emine Kaya;DENIZLI;26.06.2026;13.887,06;PTT;130.90;İptal;16;Kapıda Nakit
+SIP2026326;Ahmet Arslan;Gaziantep;2027-02-19;263.44;UPS;145,51;Hazırlanıyor;1;Kapıda Kart
+SIP2026014;Burak Koç;ESKIŞEHIR;21.11.2025;9.772,83;Sürat;208.80;İade;6;Kapıda Kart
+SIP2026159;ahmet tan;Adana;2025-12-28;abc;Yurtiçi;148.00;Teslim Edildi;17;Kapıda Nakit
+SIP2026085;Volkan Yılmaz;Denizli;20.04.2025;10655.08;PTT;210,86;KARGODA;12;Havale
+SIP2026386;Merve Doğan;bursa;2026-08-01;12853.19;Yurtiçi;61.59;KARGODA;17;Kapıda Nakit
+SIP2026148;Hüseyin Gül;  Antalya ;07.10.2025;8.180,66;Yurtiçi;72,39;İptal;14;Kapıda Kart
+SIP2026411;Seda Çelik;Kayseri;29/05/2026;5.342,86;UPS;33.51;Teslim Edildi;17;Kredi Kartı
+SIP2026247;Ahmet Arslan;Ankara;2025-06-17;3.166,40;UPS;164.19;İade;null;Kredi Kartı
+SIP2026298;  Ahmet Arslan ;Ankara;2026-02-18;7.334,79;UPS;188,54;Hazırlanıyor;6;Kapıda Kart
+SIP2026272;  Can Çelik ;i̇zmir;01.03.2025;4.246,49;PTT;37,22;İade;22;Kapıda Nakit
+SIP2026479;Derya Yıldız;Konya;2025-01-12;7.272,64;Yurtiçi;135.20;Teslim Edildi;2;Kredi Kartı
+SIP2026377;Selin Doğan;SAMSUN;27.02.2025;8632.43;Yurtiçi;122.11;hazirlaniyor;10;Kapıda Nakit
+SIP2026253;ali çelik;Gaziantep;25/09/2025;yaklasik 1000;Yurtiçi;33,35;İade;25;Kapıda Kart
+SIP2026009;  Ali Aydın ;samsun;bilinmiyor;1177.78;Aras;224,22;İptal;6;Kapıda Kart
+SIP2026183;Pınar Kurt;Antalya;22/06/2025;8275.89;MNG;16.40;Teslim Edildi;20;bilinmiyor
+SIP2026304;FATMA ŞAHIN;KAYSERI;07.08.2026;7.043,82;Aras;72,55;Teslim Edildi;null;Kredi Kartı
+SIP2026209;Onur Aydın;  İzmir ;2025-03-19;8942.64;UPS;17,79;KARGODA;9;Kapıda Nakit
+SIP2026478;DENIZ KOÇ;Bursa;28.12.2025;2171.95;Sürat;154.76;Hazırlanıyor;10;Kapıda Kart
+SIP2026208;  Merve Özdemir ;Kocaeli;01/01/2025;1.789,69;MNG;70.89;Kargoda;5; 
+SIP2026074;Hüseyin Ateş;ankara;27/07/2026;9.804,43;PTT;28.16;İade;22;Kapıda Nakit
+SIP2026266;MERVE KURT;İSTANBUL;2027-02-23;13.017,90;Sürat;67.58;Teslim Edildi;2;Kredi Kartı
+SIP2026419;selin yılmaz;antalya;04.12.2026;2285.13;Aras;102,75;İade;1;Kredi Kartı
+SIP2026324;HÜSEYIN GÜL;Konya;26/10/2026;146,40;Yurtiçi;62.89;KARGODA;10;Havale
+SIP2026278;Zeynep Aydın;Ankara;2025-09-10;12747.47;PTT;58,91;Kargoda;17;Kapıda Nakit
+SIP2026156;kemal şahin;adana;2025-06-17;557,73;MNG;120,18;İade;4;Kredi Kartı
+SIP2026216;Emre Taş;Kocaeli;;abc;MNG;63,70;Teslim Edildi;9;Havale
+SIP2026132;onur ateş;  Trabzon ;17.10.2026;11771.80;MNG;246,00;Kargoda;2;Havale
+SIP2026363;deniz doğan;Denizli;05.01.2027;1448.43;n/a;38,19;KARGODA;15;
+SIP2026319;Selin Bal;İZMIR;2025-12-04;9068.59;UPS;203,32;Teslim Edildi;8;Kapıda Kart
+SIP2026316;hüseyin koç;SAMSUN;28/07/2026;13143.41;MNG;yaklasik 1000;İade;8;Kapıda Kart
+SIP2026138;okan öztürk;SAMSUN;2025-12-06;2.803,20;Sürat;81,52;İade;12;Havale
+SIP2026348;  Kemal Demir ;İzmir;19/09/2026;12086.10;Yurtiçi;37,85;Kargoda;13;Kapıda Kart
+SIP2026022;Selin Aksoy;Kocaeli;07/03/2026;3.727,31;MNG;122,18;Kargoda;17;Kapıda Nakit
+SIP2026138;okan öztürk;SAMSUN;2025-12-06;2.803,20;Sürat;81,52;İade;12;Havale
+SIP2026452;MEHMET ŞAHIN;antalya;17/02/2027;10.471,99;Sürat;240.61;hazirlaniyor;22;Kredi Kartı
+SIP2026042;AYŞE KURT;SAMSUN;2025-03-09;14435.64;MNG;174.54;Kargoda;12;Kredi Kartı
+SIP2026129;GIZEM TAN;  Kayseri ;01.02.2027;4358.49;PTT;50.41;Hazırlanıyor;11;Kapıda Nakit
+SIP2026041;Zeynep Tan;DENIZLI;10.11.2026;2366.69;null;139.43;İade;25;Havale
+SIP2026016;Ece Demir;KONYA;30/08/2026;6.470,75;PTT;67,02;Hazırlanıyor;2;Kapıda Nakit
+SIP2026197;BARIŞ ÖZDEMIR;TRABZON;2027-02-23;9706.19;Aras;?;İade;24;Kapıda Kart
+SIP2026193;Zeynep Yıldız;İstanbul;27/08/2025;12.513,41;Yurtiçi;175,10;Hazırlanıyor;18;Kredi Kartı
+SIP2026007;  Fatma Kaya ;İZMIR;21/07/2026;9633.49;MNG;161.12;İptal;12;NaN
+SIP2026154;Selin Doğan;i̇stanbul;10.02.2026;8.846,48;-;1,24;İade;23;Kapıda Kart
+SIP2026123;ali doğan;İSTANBUL;06.03.2025;5062.99;Aras;1,09;Teslim Edildi;7;Kapıda Nakit
+SIP2026336;Pınar Özdemir;Malatya;04/03/2026;1812.22;Sürat;82,72;KARGODA;15;Kredi Kartı
+SIP2026485;Kemal Aksoy;ANKARA;2026-05-02;6968.16;Aras;68,62;İade;5;Kapıda Kart
+SIP2026146;  Burak Çelik ;ANKARA;10.05.2026;13843.33;yok;245,29;İptal;21;Kredi Kartı
+SIP2026318;Kemal Demir;ankara;30.08.2026;10.620,48;Yurtiçi;7,58;İptal; ;Kredi Kartı
+SIP2026422;  Serkan Taş ;  Denizli ;2027-06-07;11.846,58;PTT;29,49;İade;25;Kapıda Nakit
+SIP2026448;NURAY KOÇ;DENIZLI;29.05.2025;2.882,52;PTT;99.20;İptal;8;Kredi Kartı
+SIP2026379;Okan Aksoy;  Samsun ;01/12/2026;13338.82;Sürat;96,33;hazirlaniyor;5;Havale
+SIP2026488;VOLKAN ATEŞ;DENIZLI;15/02/2027;13147.69;UPS;244,98;İade;bilinmiyor;Kapıda Nakit
+SIP2026147;DERYA YILMAZ;GAZIANTEP;2027-04-25;9.543,66;Sürat;177.97;Kargoda;6;Kapıda Nakit
+SIP2026252;Elif Ateş;Samsun;19.05.2026;13368.80;Aras;95,67;Hazırlanıyor;12;Kapıda Nakit
+SIP2026037;Ahmet Aydın;ESKIŞEHIR;22/04/2026;5.192,09;MNG;yaklasik 1000;Teslim Edildi;15;Kapıda Nakit
+SIP2026018;Gizem Doğan;  Kocaeli ;18.12.2025;437.09;UPS;170,64;Teslim Edildi;4;Kapıda Kart
+SIP2026410;derya kurt;Malatya;18.07.2025;14.988,19;Sürat;136,17;Kargoda;9;Havale
+SIP2026095;Merve Gül;Konya;01.02.2025;7.260,03;;41.77;hazirlaniyor;21;Kapıda Nakit
+SIP2026334;HÜSEYIN AYDIN;Kayseri;24.03.2027;10.190,32;MNG;118,58;İptal;2;Kredi Kartı
+SIP2026109;Derya Tan;gaziantep;07.01.2025;7187.08;n/a;52,96;Hazırlanıyor;6;yok
+SIP2026437;Selin Arslan;Ankara;2027-02-27;12244.70;UPS;132,02;Kargoda;1;Kredi Kartı
+SIP2026270;okan arslan;eskişehir;2025-12-06;6.084,35;Yurtiçi;203,10;Hazırlanıyor;5;Kapıda Nakit
+SIP2026218;serkan arslan;  Samsun ;yok;9775.01;Sürat;74.91;İade;21;Havale
+SIP2026367;Serkan Ateş;Kocaeli;2026-06-16;6.828,87;Sürat;89,54;Teslim Edildi;14;Kredi Kartı
+SIP2026307;Hüseyin Aydın;Denizli;2026-09-07;11.014,42;UPS;83.65;KARGODA;15;Havale
+SIP2026008;emine bal;KONYA;2025-02-26;1045.28;MNG;?;Hazırlanıyor;14;Kapıda Kart
+SIP2026237;Deniz Özdemir;Ankara;24.02.2025;9158.55;MNG;70.65;Teslim Edildi;11;NaN
+SIP2026309;EMRE KURT;adana;11/02/2025;yaklasik 1000;Aras;36,38;hazirlaniyor;11;Havale
+SIP2026030;Gizem Arslan;İZMIR;24/03/2025;7.351,57;N/A;45.46;Teslim Edildi;23;Kredi Kartı
+SIP2026089;MERVE DOĞAN;  Konya ;2026-02-12;11.631,35;PTT;26.79;Teslim Edildi;-;Kapıda Kart
+SIP2026012;burak demir;kocaeli;2025-11-12;13.390,37;PTT;62,40;İptal;n/a;Kapıda Nakit
+SIP2026267;ONUR ÇELIK;ADANA;2026-12-08;8955.10;n/a;116.68;Kargoda;25;Kapıda Kart
+SIP2026440;HÜSEYIN BAL;Gaziantep;2026-10-02;2525.28;PTT;136,27;Hazırlanıyor;24;Kapıda Nakit
+SIP2026366;Hüseyin Özdemir;i̇stanbul;27/10/2026;12109.29;Yurtiçi;125,34;Kargoda;1;Kredi Kartı
+SIP2026414;OKAN UÇAR;ADANA;2027-02-03;859,42;n/a;abc;Teslim Edildi;17;Kapıda Nakit
+SIP2026097;Ayşe Gül;Kayseri;2027-05-16;10908.50;MNG;159.51;hazirlaniyor;3;Kapıda Nakit
+SIP2026332;FATMA ŞAHIN;İzmir;19/01/2025;13.343,96;MNG;95,14;KARGODA;5;null
+SIP2026025;KEMAL KOÇ;denizli;24/12/2025;10333.42;UPS;20,18;İptal;2;Havale
+SIP2026310;barış koç;Denizli;2026-11-29;13.035,10;PTT;179,64;hazirlaniyor;12;Kapıda Kart
+SIP2026005;volkan ateş;Malatya;02/05/2026;9126.87;UPS;79.03;Kargoda;2;Kapıda Nakit
+SIP2026032;Ahmet Yılmaz;Antalya;03/06/2025;12.544,49;Yurtiçi;217.99;Hazırlanıyor;20;Kredi Kartı
+SIP2026217;okan bal;Kayseri;15/08/2026;5.904,73;Aras;48,21;Kargoda;19;Kapıda Nakit
+SIP2026230;seda uçar;kocaeli;;5311.42;UPS;121.42;İptal;14;Kapıda Kart
+SIP2026052;  Nuray Ateş ;Antalya;03.01.2027;11.541,83;MNG;212,13;Kargoda;yok;
+SIP2026500;Seda Uçar;MALATYA;06/05/2027;3110.03;Sürat;211.31;KARGODA;9;Kapıda Kart
+SIP2026136;selin özdemir;Kocaeli;06/08/2026;6.515,85;Aras;114,51;İade;1;Kapıda Nakit
+SIP2026118;MUSTAFA AYDIN;  Konya ;27/07/2026;8.353,33;NaN;126,70;Kargoda;;Kapıda Kart
+SIP2026376;Ali Uçar;Denizli;2026-08-13;2.056,57;UPS;31,38;Teslim Edildi;1;Kapıda Nakit
+SIP2026254;FATMA GÜL;SAMSUN;17/12/2026;12591.73;Aras;1,96;İade;1;Kredi Kartı
+SIP2026385;Aylin Ateş;Kocaeli;15.08.2026;2.555,13;Yurtiçi;58.86;Kargoda;22;Kapıda Nakit
+SIP2026133;  Emine Aksoy ;kocaeli;2026-12-29;13534.20;Yurtiçi;7,65;KARGODA;4;Kapıda Nakit
+SIP2026286;Mustafa Şahin;Eskişehir;10/06/2026;10.748,18;UPS;113,90;Teslim Edildi;19;
+SIP2026426;  Pınar Gül ;eskişehir;19.10.2026;7994.35;Yurtiçi;211,12;İptal;14;Kapıda Nakit
+SIP2026271;emre aydın;KONYA;08/08/2026;7353.58;bilinmiyor;16.89;İptal;22;Kapıda Nakit
+SIP2026427;derya kaya;  Antalya ;17/04/2027;13.408,81;MNG;48.06;Kargoda;24;bilinmiyor
+SIP2026068;HÜSEYIN ARSLAN;antalya;2026-04-27;6141.39;MNG;5.25;İade;4;Kapıda Nakit
+SIP2026229;VOLKAN TAŞ;BURSA;2025-01-31;4.902,42;Aras;141.93;Kargoda;13;Kapıda Nakit
+SIP2026323;DENIZ GÜL;malatya;28.05.2025;142.58;Aras;69,38;İptal;22;Kapıda Kart
+SIP2026176;  Merve Taş ;antalya;09.02.2025;yaklasik 1000;Yurtiçi;207,09;Teslim Edildi;7;Kapıda Nakit
+SIP2026373;Onur Özdemir;ANKARA;15.07.2026;7.261,77;UPS;166,62;Hazırlanıyor;24;Havale
+SIP2026220;SERKAN ÇELIK;Ankara;18/11/2025;13.830,33;Sürat;115.50;KARGODA;14;-
+SIP2026475;Ece Bal;kayseri;17.03.2027;13215.14;PTT;123,97;Hazırlanıyor;24;Kapıda Nakit
+SIP2026101;Emre Yıldız;Antalya;26/05/2027;13967.18;Yurtiçi;119,52;Hazırlanıyor;5;Kapıda Kart
+SIP2026381;Selin Gül;  İstanbul ;2026-11-28;13.850,51;Yurtiçi;32.44;Teslim Edildi;12; 
+SIP2026399;NURAY DOĞAN;i̇stanbul;2027-05-21;12.024,62;MNG;217,14;Teslim Edildi;2;Kapıda Kart
+SIP2026046;Gizem Taş;kocaeli;08.03.2026;9.443,37;Sürat;58,46;Hazırlanıyor;9;Kapıda Nakit
+SIP2026184;Volkan Doğan;Gaziantep;2026-08-06;5.802,18;PTT;150,57;Kargoda;13;Kredi Kartı
+SIP2026265;Hakan Aydın;Adana;21.11.2026;8.458,88;Sürat;199,60;Hazırlanıyor;23;Havale
+SIP2026204;MUSTAFA ARSLAN;samsun;15.06.2027;12.927,58;MNG;136,90;Hazırlanıyor;9;Kapıda Nakit
+SIP2026134;Elif Yılmaz;Kocaeli;2026-05-11;14723.42;Sürat;22.08;İptal;16;Kapıda Nakit
+SIP2026358;ayşe arslan;denizli;17.01.2025;10.294,36;Sürat;212.76;İptal;17;null
+SIP2026409;barış öztürk;Antalya;null;7658.51;PTT;yaklasik 1000;Teslim Edildi;16;Kredi Kartı
+SIP2026293;AHMET ÖZDEMIR;SAMSUN;2026-12-23;13.860,65;UPS;4,34;KARGODA;25;Kapıda Nakit
+SIP2026108;Mustafa Doğan;konya;07/05/2027;3012.04;Sürat;222.72;İade;21;
+SIP2026110;Emre Yılmaz;İSTANBUL;03/09/2025;763,36;Aras;152,87;hazirlaniyor;19;Kapıda Kart
+SIP2026203;  Zeynep Uçar ;ESKIŞEHIR;03/07/2025;9460.46;PTT;78.63;Kargoda;11;Kapıda Kart
+SIP2026158;mehmet yılmaz;Konya;11/03/2026;11.286,33;Aras;195,45;İade;7;Havale
+SIP2026029;Hüseyin Öztürk;Ankara;2026-10-29;2.419,02;Aras;217,37;İptal;5;Kapıda Nakit
+SIP2026126;  Seda Aydın ;kayseri;22.12.2026;12.747,32;Aras;131,41;Hazırlanıyor;18;Havale
+SIP2026219;selin aksoy;  Bursa ;04/07/2026;3.645,39;Yurtiçi;108.61;İade;6;Havale
+SIP2026337;pınar taş;samsun;04.01.2027;7981.59;Sürat;110,69;Teslim Edildi;14;Havale
+SIP2026072;Emre Yıldız;Gaziantep;2026-07-25;4896.04;PTT;103,09;İptal;5;Kapıda Nakit
+SIP2026181;Elif Demir;konya;23.05.2027;4.136,02;PTT;120.78;Hazırlanıyor;11;Kapıda Kart
+SIP2026431;Deniz Özdemir;ANKARA;07.02.2027;9.769,59;MNG;101.76;İade;9;Havale
+SIP2026407;Ali Çelik;kayseri;26/05/2026;12.103,05;null;182,00;Kargoda;15;Kapıda Nakit
+SIP2026457;onur uçar;kocaeli;2026-12-20;10824.77;UPS;121.01;KARGODA;1;Kapıda Kart
+SIP2026349;Ece Kurt;ANTALYA;02.01.2025;13676.98;PTT;20,91;Kargoda;-;Kapıda Kart
+SIP2026375;BARIŞ KURT;Trabzon;20.08.2026;13.541,69;MNG;113.43;hazirlaniyor;12;Kapıda Kart
+SIP2026187;EMRE ÇELIK;Bursa;09/08/2025;3144.55;Aras;118.53;KARGODA;15;Kapıda Nakit
+SIP2026060;Burak Aksoy;Antalya;2027-03-27;49,56;Yurtiçi;164.34;KARGODA;4;Havale
+SIP2026077;Burak Bal;i̇stanbul;2025-03-09;3.131,31;MNG;133,24;KARGODA;20;Kapıda Kart
+SIP2026117;Zeynep Şahin;  Bursa ;08/06/2027;14508.43;MNG;14.19;İptal;12;Kapıda Nakit
+SIP2026352;Derya Yıldız;Bursa;25.04.2027;2974.89;Yurtiçi;yaklasik 1000;KARGODA;9;Havale
+SIP2026224;Volkan Ateş;Eskişehir;n/a;12029.11;MNG;200,81;İptal;1;Kredi Kartı
+SIP2026241;ELIF TAŞ;konya;n/a;1.048,72;Yurtiçi;0.35;KARGODA;19;Kapıda Kart
+SIP2026423;ONUR ÖZTÜRK;i̇stanbul;02/02/2027;13.961,56;MNG;179,95;İade;10;Kredi Kartı
+SIP2026064;Derya Özdemir;ESKIŞEHIR;19.09.2026;1128.13;UPS;214,71;Kargoda;3;
+SIP2026027;ELIF ARSLAN;Samsun;NaN;8.157,99;UPS;107.73;Kargoda;21;Kapıda Kart
+SIP2026102;Seda Bal;Kocaeli;2027-01-30;6888.06;Sürat;150,54;hazirlaniyor;3;Havale
+SIP2026059;Ali Ateş;Antalya;23/02/2027;1664.96;Aras;26.73;Teslim Edildi;20;Kredi Kartı
+SIP2026121;Barış Yılmaz;bursa;11.03.2027;4.596,81;Aras;108.15;İptal;N/A;Kapıda Nakit
+SIP2026162;nuray gül;ESKIŞEHIR;12/04/2025;13.379,77;UPS;174.33;İade;18;Kapıda Kart
+SIP2026259;volkan yıldız;Denizli;2025-10-18;5.757,24;MNG;81.45;Kargoda;24;Kapıda Kart
+SIP2026356;ONUR ARSLAN;Denizli;17.05.2025;12101.12;Aras;51,19;hazirlaniyor;1;Havale
+SIP2026495;Onur Tan;Eskişehir;16/09/2026;9.935,15;Sürat;56,44;İade;15;Kredi Kartı
+SIP2026340;Ahmet Aydın;MALATYA;2027-05-12;14.026,11;PTT;239.01;Kargoda;3;Kredi Kartı
+SIP2026233;can yılmaz;  Kayseri ;04/06/2026;712.89; ;180,91;hazirlaniyor;24;Kapıda Kart
+SIP2026084;SEDA DEMIR;samsun;23.04.2025;10.337,33;Yurtiçi;166.47;İade;12;Kredi Kartı
+SIP2026065;Onur Şahin;DENIZLI;2025-07-05;11.533,45;Sürat;24.53;hazirlaniyor;7;Kredi Kartı
+SIP2026079;MEHMET ATEŞ;Kocaeli;19.03.2026;2.750,79;UPS;26.78;hazirlaniyor;14;Kapıda Kart
+SIP2026020;seda aksoy;bursa;18.01.2026;14.214,43;Aras;abc;Kargoda;11;Kapıda Kart
+SIP2026153;Burak Şahin;Kayseri;09.06.2025;6.144,79;PTT;158.25;Hazırlanıyor;23;Havale
+SIP2026053;Emre Kaya;Kocaeli;04.04.2025;3362.22;Sürat;53.80;Hazırlanıyor;3;Kredi Kartı
+SIP2026058;Gizem Şahin;İzmir;05.04.2026;3442.03;MNG;233,93;KARGODA;21;Kredi Kartı
+SIP2026186;emine tan;i̇stanbul;2026-05-18;6.765,27;Yurtiçi;213,61;KARGODA;19;Kapıda Kart
+SIP2026080;Aylin Yılmaz;Antalya;10/06/2026;1.185,47;Aras;164.64;hazirlaniyor;6;Kredi Kartı
+SIP2026090;deniz yılmaz;Kocaeli;03/10/2026;1.110,42;UPS;188.46;Kargoda;24;Kapıda Kart
+SIP2026031;Ali Ateş;Kocaeli;20.10.2026;671,33;MNG;179,64;İptal;11;
+SIP2026277;VOLKAN AYDIN;GAZIANTEP;09/03/2025;11.539,85;Aras;39.11;hazirlaniyor;22;Kredi Kartı
+SIP2026467;Kemal Aydın;  Kocaeli ;24/02/2025;5.177,62;PTT;128,08;Kargoda;20;Kredi Kartı
+SIP2026402;onur yıldız;kocaeli;2027-01-03;9.908,14;MNG;232.09;Teslim Edildi;17;Kapıda Nakit
+SIP2026250;Can Kaya;Antalya;09/02/2027;12.662,92;UPS;74.65;İade;17;Kapıda Nakit
+SIP2026458;ece yılmaz;kocaeli;2025-04-03;3747.39;PTT;82,93;İade;25;Kapıda Nakit
+SIP2026433;Hakan Çelik;i̇stanbul;2025-09-08;13808.02;Aras;99.98;Hazırlanıyor;14;null
+SIP2026169;  Merve Tan ;Konya;09/09/2025;yaklasik 1000;Sürat;29.19;KARGODA;12;Havale
+SIP2026320;Zeynep Aksoy;ANKARA;09.05.2027;yaklasik 1000;UPS;75,92;Teslim Edildi;21;Kredi Kartı
+SIP2026424;Burak Koç;Denizli;01.07.2025;13.215,88;Sürat;180,55;Teslim Edildi;9;Kredi Kartı
+SIP2026117;Zeynep Şahin;  Bursa ;08/06/2027;14508.43;MNG;14.19;İptal;12;Kapıda Nakit
+SIP2026004;MERVE YILMAZ;DENIZLI;bilinmiyor;13.403,78;Yurtiçi;184.96;Teslim Edildi;22;Kapıda Kart
+SIP2026368;EMINE DEMIR;kocaeli;2025-02-12;3420.29;UPS;146,24;KARGODA;21;Kredi Kartı
+SIP2026177;onur kaya;Bursa;N/A;8363.27;Sürat;abc;İade;25; 
+SIP2026106;  Hüseyin Uçar ;ANTALYA;23.07.2026;2896.62;UPS;50,65;İade;1;Kapıda Kart
+SIP2026163;Derya Bal;Samsun;2026-07-04;8.838,24;Aras;183.77;Kargoda;1;Kapıda Kart
+SIP2026034;Merve Çelik;malatya;12.08.2026;5297.36;UPS;142.70;hazirlaniyor;4;Havale
+SIP2026174;BURAK TAN;gaziantep;08.12.2025;8929.75;Aras;167.01;Teslim Edildi;15;Kapıda Kart
+SIP2026351;AYLIN ARSLAN;ADANA;21.11.2026;?;UPS;240.07;Hazırlanıyor;bilinmiyor;Kapıda Kart
+SIP2026024;Can Gül;Ankara;2025-06-26;11258.54;PTT;76,66;İade;4;Havale
+SIP2026210;Okan Doğan;Bursa;yok;11.679,11;MNG;75,31;İade;20;Kredi Kartı
+SIP2026291;Seda Arslan;Trabzon;08.03.2026;6991.10;UPS;161,10;Hazırlanıyor;22;Kapıda Nakit
+SIP2026395;ELIF KAYA;İstanbul;28.08.2026;13017.39;Yurtiçi;15.82;KARGODA;7;Kapıda Nakit
+SIP2026028;FATMA DEMIR;KONYA;2026-09-18;abc;PTT;114.54;hazirlaniyor;19;Kapıda Kart
+SIP2026167;Aylin Öztürk;Malatya;11.04.2025;342,11;Sürat;12.39;KARGODA;24;Havale
+SIP2026260;Ece Arslan;i̇stanbul;2026-02-12;11.065,34;Aras;161.47;İptal;12;Havale
+SIP2026418;AYLIN ÖZDEMIR;Gaziantep;2025-03-23;7.230,38;Sürat;221,55;Hazırlanıyor;20;Havale
+SIP2026394;  Merve Aydın ;  Gaziantep ;null;8.930,90;MNG;7,82;İade;2;Kapıda Nakit
+SIP2026268;mustafa ateş;Antalya;17/02/2027;5.581,59;MNG;249.17;Hazırlanıyor;1;Kapıda Nakit
+SIP2026312;EMINE GÜL;Kocaeli;2026-01-23;4449.58;-;152,04;İade;17;Kapıda Kart
+SIP2026284;elif bal;İSTANBUL;04/02/2026;1.133,56;Sürat;32.25;hazirlaniyor;2;Kapıda Kart
+SIP2026045;Okan Aksoy;Bursa;26.03.2026;5.702,57;Aras;13,91;Kargoda;15;Havale
+SIP2026330;Fatma Yıldız;bursa;12/05/2027;11.833,16;Aras;79,63;hazirlaniyor;3;Kapıda Kart
+SIP2026276;ECE AYDIN;KAYSERI;2025-04-05;13774.01;Yurtiçi;127.77;hazirlaniyor;21;Havale
+SIP2026477;Zeynep Gül;i̇stanbul;22.01.2025;yaklasik 1000;MNG;50.27;Kargoda;20;Kredi Kartı
+SIP2026476;SELIN ATEŞ;Malatya;10.04.2025;730,44;;1,84;KARGODA;17;Havale
+SIP2026408;Onur Bal;kayseri;2026-01-09;6.778,34;PTT;67,00;hazirlaniyor;19;Kredi Kartı
+SIP2026490;pınar demir;i̇stanbul;2026-06-24;abc;Aras;41.03;Teslim Edildi;14;Havale
+SIP2026396;Nuray Şahin;Trabzon;12/06/2025;13.231,02;PTT;11.74;İade;6;Kapıda Nakit
+SIP2026483;Serkan Aksoy;Ankara;13.04.2026;8.225,68;Yurtiçi;143,18;Teslim Edildi;16;Kredi Kartı
+SIP2026289;Fatma Tan;İzmir;;12007.58;Yurtiçi;215,46;İade;14;null
+SIP2026484;Elif Ateş;Adana;19.01.2027;7149.31;Aras;28.10;İptal;9;N/A
+SIP2026225;CAN ŞAHIN;Eskişehir;2025-06-16;8.824,24;PTT;111.53;KARGODA;20;Kapıda Nakit
+SIP2026135;Barış Aksoy;konya;27/09/2025;5.779,38;UPS;79.10;KARGODA;25;Kredi Kartı
+SIP2026082;okan şahin;SAMSUN;null;13865.47;UPS;223.65;Hazırlanıyor;2;Kredi Kartı
+SIP2026076;  Ece Aksoy ;ADANA;17.10.2025;9.364,95;Sürat;76.40;İade;5;Kapıda Kart
+SIP2026242;  Mustafa Aksoy ;İstanbul;04/02/2026;6.617,93;MNG;248.93;İade;1;Havale
+SIP2026282;EMRE YILDIZ;  Malatya ;2025-12-07;5.660,51;Aras;223.75;Hazırlanıyor;11;Kapıda Kart
+SIP2026070;Ayşe Şahin;i̇zmir;14/03/2025;3.488,14;UPS;162.16;İade;22;Kredi Kartı
+SIP2026421;Aylin Koç;MALATYA;30.05.2025;8125.52;Aras;200,96;Hazırlanıyor;25;Kredi Kartı
+SIP2026188;Hakan Ateş;ANTALYA;2026-12-10;abc;UPS;yaklasik 1000;Hazırlanıyor;25;Kapıda Nakit
+SIP2026021;Mehmet Aksoy;Ankara;10/01/2025;11.356,57;UPS;127,10;KARGODA;25;Kapıda Kart
+SIP2026093;BURAK KOÇ;Bursa;2025-02-04;5459.11;Aras;189.85;İptal;4;Kapıda Kart
+SIP2026062;  Gizem Uçar ;KONYA;29.04.2027;12390.08;Aras;10,45;İade;5;Kredi Kartı
+SIP2026450;Burak Öztürk;Antalya;2026-10-04;3143.32;Yurtiçi;21,64;İptal;4;Kapıda Nakit
+SIP2026295;  Ahmet Öztürk ;ESKIŞEHIR;2025-09-14;419.85;Yurtiçi;110,27;İptal;12;Kredi Kartı
+SIP2026043;Mehmet Koç;MALATYA;18.08.2025;846,59;PTT;222.26;Teslim Edildi;10;Kapıda Nakit
+SIP2026205;mehmet koç;  Konya ;16.12.2026;13.584,61;UPS;115.35;Hazırlanıyor;3;Kapıda Nakit
+SIP2026296;Hakan Yıldız;Trabzon;23/03/2027;6.361,49;Aras;144.90;İptal;22;Kapıda Kart
+SIP2026314;VOLKAN AKSOY;Samsun;04/09/2026;883.36;MNG;149,21;Kargoda;18;Kapıda Kart
+SIP2026470;Ayşe Tan;Antalya;19/08/2025;1.494,15;-;124,01;Teslim Edildi;n/a;Kredi Kartı
+SIP2026497;emre kaya;GAZIANTEP;2026-09-06;3.986,73;UPS;170,93;İade;4;Havale
+SIP2026436;hakan şahin;samsun;16.05.2027;9402.14;Aras;47,23;İade;NaN;Kredi Kartı
+SIP2026317;CAN ŞAHIN;Konya;25/12/2025;2415.65;;158,54;KARGODA;17;Havale
+SIP2026201;ahmet çelik;İZMIR;2025-04-16;7.156,73;Yurtiçi;110.59;hazirlaniyor;3;Kapıda Kart
+SIP2026300;elif bal;adana;2026-09-05;?;UPS;107,66;İptal;9;Kapıda Nakit
+SIP2026429;fatma kurt;Denizli;2025-09-01;abc;Sürat;231,58;İptal;16;n/a
+SIP2026212;  Selin Aksoy ;SAMSUN;23/06/2025;10808.69;UPS;31,38;hazirlaniyor;13;N/A
+SIP2026073;Kemal Kaya;  Trabzon ;17.11.2025;7.665,92;Aras;98.35;Kargoda;16;Kredi Kartı
+SIP2026365;Selin Uçar;ESKIŞEHIR;23/07/2026;13.642,46; ;79.16;İptal;2;NaN
+SIP2026157;Ece Aksoy;MALATYA;16/10/2025;13.517,73;UPS;105,82;KARGODA;11;Kapıda Kart
+SIP2026015;ELIF BAL;adana;14.04.2027;5475.40;Aras;151,23;KARGODA;21;Kapıda Nakit
+SIP2026133;  Emine Aksoy ;kocaeli;2026-12-29;13534.20;Yurtiçi;7,65;KARGODA;4;Kapıda Nakit
+SIP2026428;Ayşe Özdemir;denizli;2026-04-17;14898.45;Sürat;yaklasik 1000;Teslim Edildi;9;Kapıda Nakit
+SIP2026094;Derya Doğan;Trabzon;13/03/2025;14.378,98;bilinmiyor;179.82;İade;20;Kapıda Nakit
+SIP2026306;Ahmet Gül;Antalya;2026-04-08;4.363,69;Aras;117.80;Hazırlanıyor;3;NaN
+SIP2026038;Pınar Doğan;İzmir;18.08.2026;6352.79;Aras;143,79;KARGODA;18; 
+SIP2026301;MUSTAFA TAN;adana;16.03.2027;11.878,82;Yurtiçi;185.16;Hazırlanıyor;14;Havale
+SIP2026100;SELIN ATEŞ;Bursa;11/03/2026;5.850,98;MNG;192,38;KARGODA;16;yok
+SIP2026037;Ahmet Aydın;ESKIŞEHIR;22/04/2026;5.192,09;MNG;yaklasik 1000;Teslim Edildi;15;Kapıda Nakit
+SIP2026290;Ayşe Aydın;  Malatya ;11.11.2025;12187.99;Yurtiçi;69,16;Kargoda;15;Kapıda Nakit
+SIP2026235;Volkan Kaya;Ankara;19/04/2027;13.649,85;UPS;203.07;Teslim Edildi;6;Kapıda Kart
+SIP2026195;  Deniz Demir ;  Kayseri ;27/05/2025;14.985,92;MNG;12,28;KARGODA;7;Kapıda Kart
+SIP2026279;Mehmet Doğan;Antalya;yok;5.860,02;PTT;4,16;Teslim Edildi;19;Kapıda Kart
+SIP2026387;AYLIN GÜL;İzmir;2025-05-01;3.555,65;PTT;224,11;Teslim Edildi;18;Havale
+SIP2026166;ahmet bal;Antalya;23/01/2027;10.704,06;MNG;?;hazirlaniyor;22;Kapıda Kart
+SIP2026196;OKAN TAŞ;Gaziantep;18.02.2027;3.823,12;Sürat;3,04;Teslim Edildi; ;Kapıda Kart
+SIP2026248;Hüseyin Aydın;i̇stanbul;17.12.2026;11369.04;Sürat;58,48;Teslim Edildi;20;Kredi Kartı
+SIP2026443;OKAN DEMIR;İstanbul;11/03/2025;7.338,22;MNG;69.13;hazirlaniyor;20;Kredi Kartı
+SIP2026088;OKAN ŞAHIN;GAZIANTEP;03/10/2026;9.578,41;Sürat;123,14;İade;24;Kapıda Kart
+SIP2026299;AHMET DEMIR;İstanbul;27/03/2026;yaklasik 1000;Aras;124.66;İade;15;Havale
+SIP2026262;AHMET ŞAHIN;denizli;29/06/2025;4.088,17;null;155.05;hazirlaniyor;19;Havale
+SIP2026397;  Emine Bal ;eskişehir;2027-03-27;3.898,36;Yurtiçi;59,78;İptal;3;Havale
+SIP2026069;ali gül;Adana;19/01/2026;13815.59;PTT;181.76;Hazırlanıyor;14;Kapıda Nakit
+SIP2026322;  Zeynep Demir ;Trabzon;13.01.2026;12.873,98;Yurtiçi;218,25;Hazırlanıyor;12;Kapıda Nakit
+SIP2026155;  Hüseyin Bal ;DENIZLI;08.12.2026;13493.60;Yurtiçi;199,90;Kargoda; ;Kapıda Nakit
+SIP2026489;ahmet uçar;Antalya;23.10.2026;4256.44;MNG;153,00;Hazırlanıyor;8;Kapıda Kart
+SIP2026124;selin doğan;Samsun;2026-06-09;492.99;PTT;35.49;KARGODA;4;Kapıda Nakit
+SIP2026202;Selin Gül;İZMIR;2025-01-01;12643.47;Aras;175,20;hazirlaniyor;19;Kapıda Nakit
+SIP2026344;Onur Koç;Malatya;23/07/2026;14471.60;PTT;27,90;Hazırlanıyor;14;Kredi Kartı
+SIP2026013;  Mehmet Şahin ;Samsun;2027-01-31;8657.44;Yurtiçi;178.28;KARGODA;9;-
+SIP2026451;Mehmet Çelik;bursa;2026-03-17;2.503,96;;160.90;hazirlaniyor;18;Havale
+SIP2026178;burak taş;malatya;06.06.2026;6.707,79;MNG;10.68;Kargoda;NaN;Havale
+SIP2026283;Barış Yılmaz;DENIZLI;2026-03-06;2090.74;Yurtiçi;3,11;İade;19;Kapıda Nakit
+SIP2026438;Burak Kurt;Denizli;17/01/2026;1842.23;MNG;91.11;Teslim Edildi;7;Kredi Kartı
+SIP2026011;SERKAN UÇAR;Kocaeli;26/12/2026;4827.31;Sürat;182.61;İptal;25;Havale
+SIP2026182;Elif Taş;KAYSERI;2026-06-26;14.610,89;Yurtiçi;134,80;Teslim Edildi;13;Kapıda Nakit
+SIP2026357;Zeynep Koç;bursa;2026-05-28;5.039,46;Sürat;164,48;Hazırlanıyor;3;Kapıda Nakit
+SIP2026346;selin tan;kayseri;2025-12-15;901.70;PTT;129,11;Hazırlanıyor;15;Kredi Kartı
+SIP2026243;Pınar Koç;TRABZON;08/02/2026;7.152,50;Yurtiçi;91.04;Kargoda;17;Kapıda Nakit
+SIP2026077;Burak Bal;i̇stanbul;2025-03-09;3.131,31;MNG;133,24;KARGODA;20;Kapıda Kart
+SIP2026075;ONUR ATEŞ;Malatya;11/12/2025;3802.68;PTT;247,29;İptal;22;Kapıda Kart
+SIP2026416;BARIŞ AYDIN;Samsun;06/05/2025;6935.58;Yurtiçi;248,18;KARGODA;4;Kredi Kartı
+SIP2026141;serkan bal;  Antalya ;21/03/2027;5.441,51;PTT;236,52;hazirlaniyor;3;null
+SIP2026487;Ahmet Kurt;eskişehir;19/05/2027;2.511,30;Sürat;109,26;KARGODA;9;Kapıda Nakit
+SIP2026471;Deniz Demir;Trabzon;2025-05-20;4.673,25;UPS;122,24;Kargoda;;NaN
+SIP2026382;FATMA ÖZTÜRK;İstanbul;bilinmiyor;9607.73;Aras;105,90;KARGODA;13;Kapıda Kart
+SIP2026360;Emine Aksoy;konya;17.11.2026;393,65;Sürat;4.95;hazirlaniyor;25;Kapıda Nakit
+SIP2026190;ECE TAŞ;Denizli;17.08.2025;13211.26;Aras;6.56;İade;3;Kapıda Nakit
+SIP2026446;burak bal;samsun;2027-04-13;2.692,66;Yurtiçi;109.90;Hazırlanıyor;15;Kapıda Kart
+SIP2026194;Mustafa Çelik;Ankara;24.10.2026;3.192,50;Aras;218.03;Hazırlanıyor;8;Kredi Kartı
+SIP2026112;Kemal Şahin;Konya;14/07/2025;9.013,09;Aras;45,11;hazirlaniyor;21;Havale
+SIP2026040;FATMA KOÇ;Malatya;09.03.2027;14441.26;MNG;83,42;hazirlaniyor;10;Kapıda Nakit
+SIP2026019;volkan tan;samsun;02/02/2025;yaklasik 1000;bilinmiyor;35,83;Teslim Edildi;7;Kapıda Kart
+SIP2026010;Burak Koç;  Adana ;31.10.2025;7.344,89;PTT;34,53;KARGODA;4;Havale
+SIP2026036;  Fatma Demir ;Bursa;NaN;2.932,08;Sürat;93.29;İade;22;Kapıda Nakit
+SIP2026403;Ece Öztürk;MALATYA;31.08.2025;10.611,12;Yurtiçi;146,90;İptal;10;Kapıda Nakit
+SIP2026430;Seda Demir;malatya;18.07.2025;4.378,36;Aras;171,19;İade;3;Kapıda Kart
+SIP2026026;AYLIN GÜL;Ankara;2025-12-07;12118.89;Aras;53.31;hazirlaniyor;21;Kapıda Nakit
+SIP2026017;hakan şahin;bursa;2025-06-06;912.37;Aras;180,11;Teslim Edildi;10;Kredi Kartı
+SIP2026466;ALI YILMAZ;Antalya;24/01/2027;1984.29;Yurtiçi;169.24;hazirlaniyor;10;N/A
+SIP2026393;zeynep yılmaz;ADANA;05.06.2025;5731.46;bilinmiyor;163,41;İptal;11;Kapıda Kart
+SIP2026180;Selin Doğan;Samsun;27/12/2026;2983.31;yok;87,55;İade;19;Kapıda Nakit
+SIP2026308;seda yıldız;KOCAELI;2025-03-19;2564.13;UPS;77,34;KARGODA;12;Kredi Kartı
+SIP2026338;ECE BAL;  İzmir ;2026-06-10;3.971,95;-;131.28;Kargoda;6;Havale
+SIP2026389;Onur Öztürk;KOCAELI;2026-05-08;14.230,09;Sürat;153.86;Teslim Edildi;22;Kredi Kartı
+SIP2026321;HAKAN KAYA;Bursa;26.02.2025;13208.97;-;104,10;hazirlaniyor;1;Kapıda Nakit
+SIP2026342;emine kurt;İstanbul;12.02.2026;10.341,07;MNG;85.78;Kargoda;1;Kredi Kartı
+SIP2026499;Seda Bal;i̇stanbul;17.01.2026;1.211,56;Sürat;207.07;Kargoda;24;Kapıda Kart
+SIP2026327;Ece Koç;konya;;2332.16;Yurtiçi;91.26;İptal;9;Havale
+SIP2026315;merve çelik;BURSA;10.02.2027;12729.71;MNG;218.80;KARGODA;n/a;Havale
+SIP2026096;Pınar Özdemir;i̇stanbul;2027-04-05;6439.86;-;abc;İptal;22;Kredi Kartı
+SIP2026152;merve tan;Ankara;2026-12-29;238.70;Yurtiçi;56.84;hazirlaniyor;7;Kapıda Nakit
+SIP2026149;Burak Aksoy;  Eskişehir ;15/06/2026;280,44;bilinmiyor;61,70;hazirlaniyor;15;Havale
+SIP2026171;MERVE KURT;ANKARA;10.02.2027;8.383,80;PTT;191.68;Teslim Edildi;12;Kapıda Kart
+SIP2026104;can arslan;Antalya;28.05.2025;7435.17;MNG;233,30;İptal;21;Kapıda Nakit
+SIP2026003;BURAK YILMAZ;Trabzon;29/08/2026;5.405,86;NaN;38.27;Kargoda;6;Kapıda Nakit
+SIP2026115;Kemal Çelik;İstanbul;2026-05-11;3539.99;Yurtiçi;134,68;Teslim Edildi;11;Havale
+SIP2026193;Zeynep Yıldız;İstanbul;27/08/2025;12.513,41;Yurtiçi;175,10;Hazırlanıyor;18;Kredi Kartı
+SIP2026067;burak tan;Gaziantep;28/04/2026;7575.94;PTT;58.73;Teslim Edildi;18;Kapıda Kart
+SIP2026383;Selin Uçar;konya;2025-12-16;8147.19;MNG;141.86;hazirlaniyor;18;Havale
+SIP2026461;Derya Özdemir;DENIZLI;2025-03-10;?;Aras;52,30;Hazırlanıyor;19;Kapıda Kart
+SIP2026078;ELIF ATEŞ;Gaziantep;2026-09-16;10.126,35;Sürat;201,43;İade;18;Kredi Kartı
+SIP2026456;Fatma Tan;Eskişehir;08.07.2026;10.284,39;UPS;194,24;KARGODA;19;Kapıda Kart
+SIP2026177;onur kaya;Bursa;N/A;8363.27;Sürat;abc;İade;25; 
+SIP2026035;  Hüseyin Özdemir ;Eskişehir;2026-08-26;14448.16;n/a;94,47;Kargoda;19;Havale
+SIP2026144;emre çelik;samsun;05.05.2025;14385.44;MNG;10,05;İptal;12; 
+SIP2026165;HÜSEYIN ŞAHIN;  Kayseri ;12/07/2025;8.651,29;Yurtiçi;202,56;Kargoda;16;Kredi Kartı
+SIP2026246;deniz yıldız;antalya;14.10.2025;3779.67;MNG;89,74;Hazırlanıyor;17;n/a
+SIP2026056;deniz gül;GAZIANTEP;2025-10-21;311.76;NaN;5.91;İade;5;Kapıda Nakit
+SIP2026033;Volkan Bal;Kocaeli;2026-11-11;10.204,72;bilinmiyor;163,64;Kargoda;6;Havale
+SIP2026173;VOLKAN YILMAZ;BURSA;yok;8.434,96;PTT;66,85;İptal;15;Havale
+SIP2026432;Barış Bal;Kocaeli;18/03/2027;1474.20;PTT;95.73;Hazırlanıyor;5;Kapıda Kart
+SIP2026482;Nuray Arslan;Trabzon;2025-06-20;7.312,61;MNG;247,51;KARGODA;14;Kapıda Kart
+SIP2026462;Pınar Yılmaz;Malatya;29/10/2026;6.056,62;UPS;116.22;İptal;20;Kapıda Nakit
+SIP2026127;Hüseyin Aksoy;Eskişehir;10.09.2025;2.965,34;MNG;76,88;hazirlaniyor;22;Kredi Kartı
+SIP2026198;Emre Arslan;denizli;2025-01-01;6.643,06;Yurtiçi;89,60;Kargoda;3;Havale
+SIP2026405;hakan arslan;kayseri;15/01/2026;755,28;Yurtiçi;145.88;İade;24;Kredi Kartı
+SIP2026311;SERKAN AYDIN;denizli;2026-12-09;9.679,00;MNG;221,85;İade;15;Havale
+SIP2026200;ALI TAŞ;Bursa;31.01.2027;2492.56;MNG;209,34;KARGODA;11;Havale
+SIP2026413;GIZEM ATEŞ;İSTANBUL;02.09.2026;12.426,19;MNG;165,23;Hazırlanıyor;14;Kapıda Kart
+SIP2026113;Emine Arslan;Gaziantep;28.12.2026;3439.14;PTT;107,67;Hazırlanıyor;24;Kapıda Nakit
+SIP2026175;HÜSEYIN UÇAR;Antalya;2026-01-24;9.402,65;Sürat;66.68;Kargoda;19;Kapıda Nakit
+SIP2026039;  Serkan Uçar ;i̇stanbul;27/03/2025;13.588,41;Aras;61,32;hazirlaniyor;18;Kredi Kartı
+SIP2026214;Mehmet Koç;ANTALYA;23/03/2026;4.370,83;MNG;145,91;Teslim Edildi;13;Kapıda Nakit
+SIP2026449;Mehmet Kurt;Kocaeli;2025-12-10;4.034,82;PTT;52,88;İptal;bilinmiyor;Havale
+SIP2026444;Onur Bal;ESKIŞEHIR;12.05.2025;5791.78;MNG;43,66;İade;15;Havale
+SIP2026139;Can Çelik;samsun;2027-04-15;9.646,74;Yurtiçi;5,05;KARGODA;2;bilinmiyor
+SIP2026364;seda taş;i̇zmir;2025-01-03;6.207,52;UPS;119.58;İade;19;Kapıda Nakit
+SIP2026441;Mustafa Yılmaz;gaziantep;06/08/2026;1.387,37;MNG;95,35;Hazırlanıyor;15;Kapıda Nakit
+SIP2026371;ZEYNEP KOÇ;Samsun;14/03/2026;237,24;PTT;?;İptal;18;Havale
+SIP2026328;  Kemal Koç ;Samsun;05/12/2026;2658.93;Sürat;191.68;Kargoda;8;Kapıda Kart
+SIP2026051;merve aydın;trabzon;22/07/2025;10246.12;Yurtiçi;?;İade;25;Kredi Kartı
+SIP2026269;aylin tan;İZMIR;26.09.2025;1.516,71;Yurtiçi;95,72;Kargoda;25;Kapıda Kart
+SIP2026273;onur bal;  Gaziantep ;23.07.2026;3524.86;Sürat;216,57;İptal;3;null
+SIP2026049;  Gizem Ateş ;Kayseri;27/01/2025;7.029,99;MNG;58.59;Kargoda;1;Kredi Kartı
+SIP2026231;  Hüseyin Şahin ;  Adana ;2026-10-26;12653.39;UPS;109,31;Kargoda;1;Kapıda Kart
+SIP2026369;  Merve Koç ;  Eskişehir ;29.01.2025;3766.15;Sürat;212,97;Teslim Edildi;null;Kapıda Kart
+SIP2026481;Mehmet Yılmaz;KAYSERI;16.07.2025;4947.38;PTT;151.36;hazirlaniyor;3;Havale
+SIP2026083;Hakan Aksoy;Trabzon;25.02.2026;7.976,81;Yurtiçi;62.40;KARGODA;6;Havale
+SIP2026168;  Zeynep Kaya ;adana;04.06.2027;10.910,38;MNG;108.62;İade;24;Kredi Kartı
+SIP2026302;Ali Doğan;ESKIŞEHIR;05/10/2025;1251.30;MNG;151.13;Hazırlanıyor;N/A;Kapıda Kart
+SIP2026425;DENIZ ÖZDEMIR;i̇zmir;2025-03-28;7.370,72;Yurtiçi;162,45;hazirlaniyor;1;Kapıda Nakit
+SIP2026313;Elif Demir;Eskişehir;09/06/2026;6582.81;UPS;175,00;İade;6;Havale
+SIP2026459;Mehmet Doğan;Trabzon;2025-01-05;9853.91;Aras;154.84;KARGODA;1;Kapıda Nakit
+SIP2026138;okan öztürk;SAMSUN;2025-12-06;2.803,20;Sürat;81,52;İade;12;Havale
+SIP2026447;ahmet şahin;  Samsun ;2025-03-07;13.579,29;Yurtiçi;61,13;Teslim Edildi;6;Havale
+SIP2026114;okan aksoy;Malatya;2026-01-06;11.898,54;Yurtiçi;105,51;Teslim Edildi;23;Havale
+SIP2026305;  Selin Demir ;trabzon;2026-04-02;1700.57;Yurtiçi;166.55;Teslim Edildi;24;Kredi Kartı
+SIP2026325;  Can Gül ;denizli;2026-10-01;2914.96;MNG;62.05;İade;10;Kapıda Kart
+SIP2026070;Ayşe Şahin;i̇zmir;14/03/2025;3.488,14;UPS;162.16;İade;22;Kredi Kartı

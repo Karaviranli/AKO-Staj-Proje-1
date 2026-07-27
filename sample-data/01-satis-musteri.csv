@@ -1,0 +1,516 @@
+﻿MusteriNo;AdSoyad;Yas;Cinsiyet;Sehir;DogumYeri;ToplamHarcama;SiparisSayisi;SonAlimTarihi;Aktif
+10213;pınar kaya;60;NaN;Adana;Antalya;14.858,29;17;09/12/2023;false
+10424;Seda Uçar;77;E;Trabzon;Trabzon;10.962,68;46;09.12.2024;H
+10265;mustafa yıldız;73;Erkek;İSTANBUL;Denizli;4622.16;8;18.03.2024;1
+10312;HÜSEYIN DEMIR;5;K;kocaeli;İzmir;24706.60;40;25/07/2023;true
+10462;CAN ÖZDEMIR;80;erkek;Ankara;Trabzon;16.298,18;yok;28.12.2023;H
+10090;PINAR ŞAHIN;77;kadin;gaziantep;Trabzon;16.646,60;22;yok;H
+10355;Serkan Uçar;67;Kadın;Kayseri;Konya;5863.95;44;26.05.2024;true
+10229;Zeynep Yılmaz;21;null;Eskişehir;Kocaeli;8.053,69;n/a;2023-06-20;H
+10445;ECE KOÇ;30;erkek;Malatya;Malatya;8530.77;2;04/05/2025;true
+10410;Hakan Çelik;yok;K;ANTALYA;Ankara;5.855,49;53;2023-01-21;1
+10254;mustafa yılmaz;24;null;İzmir;Denizli;21.693,62;22;2024-11-17;0
+10284;elif özdemir;73;erkek;Konya;Samsun;8.718,99;31;19/03/2025;H
+10026;SELIN UÇAR;-;kadin;İstanbul;Kocaeli;17624.37;54;12.01.2024;E
+10315;Barış Ateş;76;E;Antalya;İstanbul;19852.13;56;13.12.2024;E
+10234;Selin Özdemir;72;NaN;Konya;İzmir;2.201,62;60;09.08.2023;false
+10269;KEMAL ŞAHIN;70;null;GAZIANTEP;İzmir;1122.14;3;28/11/2024;1
+10196;DERYA AKSOY;47;K;BURSA;Kocaeli;5.023,81;11;04.09.2023;true
+10478;AHMET DEMIR;3;erkek;Bursa;Kocaeli;6.926,98;41;29/04/2025;evet
+10253;kemal kaya;55;Erkek;Kayseri;yok;4936.64;31;23/12/2024;0
+10397;KEMAL DEMIR;67;E;İzmir;Gaziantep;10017.70;55;05.09.2023;hayır
+10395;EMINE YILDIZ; ;Erkek;Eskişehir;bilinmiyor;5.912,99;null;2023-10-06;false
+10408;  Ece Şahin ;48;Kadın;Konya;Denizli;3083.46;54;2024-12-24;evet
+10296;CAN ARSLAN;49;erkek;Adana;Bursa;8.801,01;8;-;E
+10064;Deniz Özdemir;9;E;Antalya;Kocaeli;2768.94;1;08/09/2024;1
+10427;ONUR AYDIN;78;erkek;Konya;Eskişehir;4.561,71;48;2024-03-20;false
+10148;MUSTAFA ARSLAN;67;E;kayseri;Denizli;5053.74;48;25.08.2023;0
+10029;MUSTAFA YILDIZ;47;K;Kayseri;null;10.810,82;8;11.05.2025;1
+10242;Fatma Uçar;n/a;E;İzmir;Kocaeli;16608.63;54;13.01.2024;1
+10281;MEHMET ÇELIK;29;Kadın;ADANA;Eskişehir;14.176,72;50;11/01/2025;true
+10470;Emre Uçar;62;K;Gaziantep;-;20167.18;59;2024-10-14;H
+10425;Pınar Yıldız;44;erkek;BURSA;Ankara;6.846,46;bilinmiyor;2023-12-21;E
+10389;Selin Ateş;14;erkek;Bursa;n/a;13.361,22;22;2024-08-28;1
+10142;FATMA KURT;12;erkek;adana;Kayseri;24.168,34;NaN;NaN;0
+10486;  Derya Arslan ;31;Kadın;Samsun;bilinmiyor;3.579,39;32;04.02.2025;E
+10280;Can Aydın;68;Erkek;i̇zmir;Trabzon;2792.35;58;;true
+10089;Gizem Arslan;82;kadin;Ankara;bilinmiyor;1.582,25;32;14/04/2023;0
+10339;GIZEM YILDIZ;46;kadin;GAZIANTEP;İzmir;24.307,62;15;2024-08-17;E
+10205;Hüseyin Tan;NaN;Kadın;Gaziantep;null;19586.03;42;11/07/2023;true
+10382;seda demir;70;K;İSTANBUL;İzmir;8654.53;41;23.12.2023;false
+10162;VOLKAN TAŞ;4;K;Samsun;Bursa;13.702,11;;02.04.2023;false
+10015;Fatma Gül;74;erkek;Antalya;Samsun;2.581,32;28;2024-12-01;E
+10392;Hakan Demir;N/A;erkek;Bursa;Konya;4482.27;17;15/03/2023;E
+10128;emre koç; ;E;ESKIŞEHIR;Eskişehir;18.399,12;9;08.05.2024;hayır
+10303;VOLKAN KAYA;46;kadin;Samsun;Kayseri;18.362,92;31;2024-05-08;false
+10124;Volkan Yıldız;59;E;  Kocaeli ;Antalya;14.694,71;43;31.08.2024;0
+10452;selin özdemir;61;Erkek;  Kayseri ;İstanbul;20.062,80;47;14/01/2024;hayır
+10157;Pınar Kaya;22;E;Bursa;Kayseri;12892.09;49;;1
+10017;Fatma Şahin;76;K;Trabzon;Samsun;998,37;39;18.04.2024;hayır
+10185;AYLIN TAŞ;38;Erkek;Denizli;Malatya;18315.11;55;24/12/2024;1
+10356;BURAK UÇAR;26;n/a;Samsun;Adana;2203.84;18;2025-02-15;0
+10212;FATMA KURT; ;Erkek;ANKARA;Antalya;15.577,88;21;09/02/2025;hayır
+10465;ALI ARSLAN;9;kadin;Ankara;Gaziantep;23.817,91;19;2023-04-24;false
+10034;Selin Kurt;35;K;İstanbul;-;6383.63;13;08/06/2024;H
+10097;AYŞE KAYA;49;erkek;KAYSERI;Bursa;17995.91;47; ;E
+10487;Derya Aydın;null;kadin;antalya;Gaziantep;15.922,99;26;03/12/2023;H
+10027;GIZEM GÜL;16;E;Malatya;Adana;7.572,31;31;04/05/2023;0
+10072;barış bal;21;K;Ankara;bilinmiyor;13.120,39;21;31/03/2025;hayır
+10344;selin koç;22;erkek;Kayseri;Denizli;18.893,36;40;2023-11-06;0
+10494;Selin Gül;21;E;İstanbul;null;5.081,55;6;14/01/2024;H
+10107;Zeynep Tan;24; ;Samsun;Adana;3662.27;17;25/05/2024;true
+10361;gizem taş;34;kadin;gaziantep;Konya;?;14;09/04/2024;evet
+10285;ali özdemir;15;K;Ankara;Konya;12.287,45;60;31/07/2023;false
+10422;Can Şahin;NaN;erkek;Samsun;yok;?;10;08.08.2023;E
+10255;  Selin Aksoy ;68;;Ankara;Ankara;16.530,87;;22/03/2024;evet
+10049;MEHMET AYDIN;7;erkek;KOCAELI;Trabzon;937.56;45;11/06/2024;H
+10288;  Derya Aydın ;77;Erkek;Kocaeli;Konya;1782.63;11;27.02.2023;false
+10202;Ahmet Gül;29;Erkek;i̇stanbul;Gaziantep;1.691,86;46;2024-10-01;1
+10434;Fatma Şahin; ;Erkek;Adana;Trabzon;21.888,49;25;13/09/2023;E
+10345;Fatma Kaya;67;E;İzmir;Antalya;11510.46;44;28.06.2023;H
+10184;GIZEM DOĞAN;81;;DENIZLI;Trabzon;22.987,27;59;2023-06-15;1
+10039;  Hakan Gül ;72;K;Konya;Ankara;18.691,32;21;2024-06-04;evet
+10457;zeynep arslan;39;E;İstanbul;Konya;24.028,28;22;04/08/2024;true
+10172;Deniz Yılmaz;4;erkek;DENIZLI;Eskişehir;?;9;07.05.2023;1
+10177;  Can Demir ;59;kadin;KAYSERI;Ankara;5.415,20;37;N/A;1
+10238;Nuray Taş;36;kadin;  Denizli ;Kayseri;6129.22;28;05/10/2024;E
+10492;kemal kurt;19;kadin;İstanbul;bilinmiyor;9754.56;27;2024-04-15;evet
+10262;Ayşe Bal;36;Kadın;Kocaeli;Eskişehir;21906.07;39;n/a;E
+10219;Serkan Koç;66;K;Malatya;bilinmiyor;3.129,29;14;N/A;evet
+10353;ECE BAL;69; ;  Konya ;Ankara;15.037,35;22;15/02/2024;evet
+10342;Ayşe Ateş;53;E;ANTALYA;Ankara;6821.43;44;2025-03-22;0
+10215;Kemal Öztürk;52;Erkek;Denizli;Denizli;20536.72;26;15/05/2025;evet
+10066;kemal taş;74;kadin;Adana;Malatya;17707.83;38;02/01/2024;1
+10479;HÜSEYIN DEMIR;38;kadin;Denizli;Adana;6.891,78;59;06.03.2025;1
+10077;AHMET KURT;66;E;Kocaeli;bilinmiyor;23.415,47;28;28.10.2024;H
+10282;Serkan Aydın;27;Kadın;Adana;;2166.03;27;04/08/2024;1
+10266;onur arslan;6;kadin;i̇stanbul;Kocaeli;6323.18;58;2023-08-22;E
+10373;Onur Ateş;71;erkek;kocaeli;Ankara;9036.27;24;31/01/2025;hayır
+10429;Pınar Arslan;64;erkek;Kayseri;İstanbul;2730.33;-;25.03.2023;hayır
+10052;Burak Aydın;24;Kadın;Denizli;Eskişehir;19485.05;31;02/06/2023;E
+10194;Kemal Aksoy;9;E;Kocaeli;Gaziantep;13879.52;41;14.06.2024;evet
+10069;Pınar Uçar;17;E;Antalya;Denizli;5.195,68;15;26.12.2024;false
+10495;  Mehmet Uçar ;8;erkek;İZMIR;Samsun;11.982,28;12;26/02/2025;E
+10276;Mustafa Tan;12;kadin;TRABZON;Antalya;10592.43;bilinmiyor;24/10/2024;hayır
+10381;volkan çelik;63;kadin;Antalya;Malatya;11030.12;31;yok;H
+10491;seda yıldız;54;kadin;ADANA;Trabzon;16404.16;32;2023-10-02;H
+10075;Gizem Koç;NaN;K;Bursa;Trabzon;899,12;18;19/03/2025;1
+10306;  Burak Şahin ;62;erkek;Malatya;Antalya;8.061,63;56;null;0
+10181;Mustafa Bal;69;kadin;bursa;İzmir;8442.20;N/A;02.03.2025;evet
+10259;derya gül;45;Erkek;Trabzon;Eskişehir;3326.61;1;28.04.2024;false
+10035;Serkan Demir;11;erkek;  Samsun ;Malatya;12.090,80;33;02.09.2024;0
+10089;Gizem Arslan;82;kadin;Ankara;bilinmiyor;1.582,25;32;14/04/2023;0
+10250;deniz aksoy;69;K;TRABZON;Adana;12.882,37;26;2023-09-15;evet
+10291;  Hakan Öztürk ;46;Kadın;  Ankara ;Kocaeli;21795.44;46;bilinmiyor;1
+10416;fatma arslan;34;erkek;Bursa;NaN;24368.88;56;18/05/2024;1
+10223;Ali Kurt;35;erkek;Bursa;Malatya;7873.78;20;2024-01-18;H
+10108;aylin çelik;37;E;antalya;Kayseri;5290.28;8;30.04.2024;E
+10319;zeynep demir;39;Erkek;Bursa;Ankara;19565.81;48;30.10.2023;0
+10328;Selin Çelik;70;Kadın;  Denizli ;İstanbul;6705.52;14;07/03/2024;H
+10183;deniz tan;24;erkek;İzmir;Konya;15140.26;33;20/07/2023;true
+10067;Emine Şahin;N/A;kadin;denizli;Gaziantep;3.113,43;42;17/04/2024;hayır
+10055;Gizem Tan;64;NaN;ANTALYA;n/a;23.712,61; ;2023-04-09;false
+10244;emre özdemir;24;K;TRABZON;Kocaeli;16.142,34;2;13.05.2023;E
+10393;barış kaya;59;E;i̇stanbul;İzmir;22.284,00;yok;06.01.2023;H
+10114;AHMET ŞAHIN;-;;Kocaeli;Bursa;12812.77;39;20/10/2024;true
+10197;AHMET AYDIN;17;K;  Gaziantep ;null;6870.99;5;21.04.2024;evet
+10193;zeynep demir;71;kadin;Ankara;İzmir;17.195,14;55;19/04/2024;1
+10308;Pınar Gül;5;erkek;Bursa;Bursa;3.531,60;16;2024-05-24;false
+10068;Selin Taş;60;kadin;İstanbul;Adana;19819.01;1;2024-04-22;1
+10018;Nuray Özdemir;35;yok;GAZIANTEP;Denizli;18191.81;59;25.02.2025;evet
+10224;Zeynep Aydın;58;kadin;Antalya;Trabzon;16358.51;17;2024-08-29;hayır
+10226;DERYA GÜL;49;K;malatya;İstanbul;23539.67;55;20.07.2023;E
+10377;MERVE TAN;7;Kadın;eskişehir;Konya;24.683,79;41;26/10/2023;1
+10149;Mehmet Arslan;66;K;Konya;Samsun;2.828,73;32; ;E
+10145;Emre Taş;27;Erkek;Konya;Eskişehir;?;44;25.03.2024;false
+10170;selin öztürk; ;kadin;KONYA;İstanbul;7.398,08;N/A;2023-11-15;true
+10086;  Ayşe Özdemir ;NaN;kadin;  Denizli ;yok;24.161,12;5;09.11.2023;hayır
+10406;HAKAN DOĞAN;78;Erkek;Kayseri;null;13.683,93;2;07/03/2025;evet
+10109;MEHMET KOÇ;50;Erkek;Kayseri;Antalya;19759.53;26;18.10.2024;hayır
+10098;OKAN AYDIN;-;kadin;Eskişehir;Samsun;13656.89;21;N/A;evet
+10305;Merve Demir;30;erkek;Konya;Bursa;23.605,95;39;2024-04-09;true
+10440;Elif Şahin;39;K;ANKARA;Eskişehir;20.915,64;47;2025-05-10;false
+10105;barış taş;3;E;adana;Adana;13.678,57;34;2024-11-08;E
+10176;Ali Kurt;44;;İstanbul;Kocaeli;23.314,77;18;2023-12-04;false
+10287;ayşe çelik;30;K;ANTALYA;Bursa;yaklasik 1000;50;2025-04-08;H
+10096;  Burak Demir ;5;Erkek;Kayseri;Adana;8.393,04;9;06.03.2025;0
+10263;Emre Öztürk;82;erkek;kayseri;Adana;abc;26;20/04/2024;E
+10387;fatma özdemir;-;null;samsun;Malatya;20.688,21;10;04/12/2024;E
+10152;ayşe aydın;73;erkek;  İstanbul ;-;23560.08;20;07.03.2025;1
+10142;FATMA KURT;12;erkek;adana;Kayseri;24.168,34;NaN;NaN;0
+10469;gizem aydın;39;E;Eskişehir;n/a;yaklasik 1000;44;2024-09-14;hayır
+10184;GIZEM DOĞAN;81;;DENIZLI;Trabzon;22.987,27;59;2023-06-15;1
+10323;emine tan;yok;K;Eskişehir;Bursa;23.694,88;22;16/03/2025;E
+10074;  Emre Öztürk ;47;Erkek;Bursa;n/a;14.720,19;13;02.07.2023;E
+10273;deniz kurt;73;Erkek;  Denizli ;İstanbul;12729.07;8;2024-07-14;hayır
+10453;derya tan;26;Erkek;Eskişehir;n/a;1501.23;9;03/03/2023;evet
+10463;DENIZ TAN;58;kadin;Malatya;Gaziantep;15212.88;50;25.11.2024;false
+10161;  Burak Şahin ;15;K;bursa;Kayseri;846,44;11;2024-10-03;true
+10092;BURAK AYDIN;55;Erkek;İzmir;Samsun;19.826,89;34;2025-01-02;1
+10190;Onur Kurt;36;Erkek;İstanbul;İzmir;2258.81;bilinmiyor;12.02.2025;true
+10251;Mustafa Koç;76;E;İzmir;Adana;23706.82;7;2023-11-23;0
+10147;Burak Şahin;14;kadin;BURSA;Trabzon;22.587,75;1;17.10.2024;0
+10182;DERYA ARSLAN;22;erkek;Malatya;NaN;7.865,31;n/a;22.06.2023;1
+10482;Merve Koç; ;Kadın;malatya;Antalya;15455.07;30;15.09.2023;hayır
+10191;Ahmet Bal;13;E;Trabzon;Kocaeli;2749.20;24;09/12/2024;1
+10103;Ahmet Koç;49;Kadın;i̇stanbul;Antalya;5.745,50;60;20/11/2024;false
+10241;FATMA ÖZDEMIR;63;E;  Trabzon ;Konya;20588.27;15;11/05/2025;0
+10365;Barış Uçar;59;Kadın;antalya;yok;9608.13;31;2024-07-06;1
+10207;can aksoy;27;kadin;Bursa;N/A;12.235,99;33;2025-05-04;E
+10311;VOLKAN AYDIN;n/a;Kadın;  Kocaeli ;Bursa;21.555,79;3;09.04.2025;false
+10093;ALI ÇELIK;40;Erkek;Trabzon;İstanbul;17083.44;45;2024-01-27;hayır
+10350;Barış Tan;73;Erkek;ESKIŞEHIR;Eskişehir;1.725,89;19;n/a;H
+10062;merve öztürk; ;K;Trabzon;Ankara;20.676,97;52;12.05.2024;hayır
+10199;Seda Öztürk;24;kadin;Denizli;Malatya;15.712,92;3;22.03.2025;false
+10293;Aylin Öztürk;75;E;Adana;Antalya;9.503,34;39;2023-09-22;hayır
+10188;seda uçar;54;E;Kocaeli;İstanbul;2.992,12;23;15/11/2023;true
+10322;Kemal Şahin;65;null;ADANA;Gaziantep;18.455,50;60;06/11/2023;evet
+10169;DERYA GÜL;16;n/a;  Trabzon ;Eskişehir;?;n/a;08/01/2025;evet
+10030;Elif Kurt;74;K;Trabzon;-;16.869,22;44;21/05/2024;H
+10340;Emine Demir;77;Erkek;Trabzon;İstanbul;9615.96;2;05.12.2023;false
+10498;Selin Yılmaz;16;Erkek;Denizli;Trabzon;18427.57;14;18.08.2024;H
+10325;MUSTAFA AKSOY;72;K;  İzmir ;bilinmiyor;4.798,58;31;03.05.2023;true
+10364;zeynep tan;26;K;BURSA;İstanbul;4227.87;46;n/a;0
+10002;GIZEM KAYA;15;erkek;KONYA;Antalya;24.972,78;25;-;hayır
+10438;Hüseyin Çelik;39;Kadın;İSTANBUL;Antalya;21039.68;41;2024-03-08;false
+10221;Can Koç;58;kadin;ADANA;Ankara;7.876,99;31;2025-06-02;1
+10294;Nuray Doğan;80;E;ADANA;Denizli;435.71;8;NaN;hayır
+10216;Deniz Aksoy;12;K;Trabzon;Gaziantep;20287.60;8;25.12.2023;0
+10458;Gizem Şahin;20;Erkek;ESKIŞEHIR;Antalya;24.431,13;54;07.01.2025;true
+10497;Burak Arslan;24;kadin;Samsun;Malatya;20507.35;32;2024-05-22;E
+10274;emine demir;20;erkek;Ankara;Gaziantep;7673.77;59;N/A;E
+10450;SERKAN ÖZTÜRK;24;-;Bursa;Konya;21.907,20;29;2024-12-07;hayır
+10130;MUSTAFA ÇELIK;24;K;Kayseri;Gaziantep;11.993,41;47;2023-09-15;evet
+10363;Deniz Koç;65;Erkek;trabzon;Malatya;6.628,21;50;11/05/2023;evet
+10111;zeynep ateş;;erkek;Denizli;null;1.447,79;22;25.11.2023;H
+10136;Hüseyin Gül;69;Erkek;Kocaeli;-;21133.65;yok;28/04/2023;false
+10334;DERYA ŞAHIN;66;E;Kayseri;Eskişehir;94,09;44;04.01.2025;true
+10071;okan koç;50;E;i̇stanbul;İzmir;23.271,07;39;2023-02-19;true
+10167;HÜSEYIN DEMIR;44;E;malatya;null;16971.10;47;17.06.2025;1
+10225;AYLIN UÇAR;82;erkek;  Samsun ;Samsun;2.327,88;46;2023-11-08;1
+10426;ayşe bal;3;Erkek;adana;Samsun;19.396,89;38;24/02/2024;1
+10275;  Elif Çelik ;39;K;Kocaeli;n/a;10052.84;39;2023-06-13;1
+10122;Mustafa Ateş;49;erkek;KAYSERI;İstanbul;23.134,06;29;2024-05-22;1
+10421;Mustafa Aydın;57;E;Bursa;İzmir;11.919,24;57;08/06/2025;evet
+10483;Can Arslan;13;K;ESKIŞEHIR;Ankara;yaklasik 1000;40;09/02/2025;false
+10435;Ali Bal;8;erkek;  Gaziantep ;Kayseri;13785.19;24;21.04.2025;1
+10085;Mehmet Demir;8;erkek;  İstanbul ; ;11.119,99;49;09.06.2023;H
+10407;Derya Doğan;63;Kadın;Ankara;Gaziantep;3011.09;16;16.01.2024;H
+10417;Deniz Aydın;41;Kadın;SAMSUN;Kayseri;23.858,68;31;03.02.2023;hayır
+10467;SERKAN BAL;65;kadin;Samsun;Konya;646,00;12;2024-08-03;0
+10233;Mustafa Taş;21;Erkek;eskişehir;NaN;17149.08;23;2025-04-12;false
+10472;  Ali Yılmaz ;63;kadin;adana;Adana;24.376,39;yok;20.07.2024;evet
+10390;HAKAN KAYA;17;K;trabzon;Denizli;?;17;2023-04-28;H
+10485;Derya Uçar;10;kadin;  Malatya ;Kocaeli;1200.40;41;25/10/2023;hayır
+10160;ECE BAL;33;E;Malatya;Denizli;16181.97;3;2023-12-26;hayır
+10127;BARIŞ DOĞAN;12;E;İzmir;Bursa;yaklasik 1000;3;18.05.2024;0
+10428;Pınar Aksoy;52;E;Adana;Antalya;16299.11;11;NaN;H
+10437;Nuray Yıldız;29;kadin;Ankara;Eskişehir;13198.35;51;2023-12-28;H
+10021;ALI ATEŞ;25;erkek;  Malatya ;Antalya;13035.20;4;12/01/2023;false
+10490;Hüseyin Öztürk;53;Erkek;ADANA;Samsun;11.514,61;48;02.11.2023;false
+10258;  Merve Şahin ;54;Kadın;  Konya ;Malatya;5764.56;8;yok;E
+10318;Nuray Arslan;34;E;Trabzon;Eskişehir;18.257,35;28;03.02.2023;H
+10014;Barış Şahin; ;E;  Adana ;Malatya;16776.45;23;27/12/2023;H
+10442;ayşe yıldız;55;E;antalya;Bursa;24239.91;24;20/07/2023;false
+10368;Burak Çelik;65;K;Eskişehir;Gaziantep;16589.73;12;21/11/2023;E
+10001;  Fatma Kurt ;68;Kadın;Gaziantep;Kocaeli;14335.59;50;08/02/2025;evet
+10132;seda bal;-;kadin;İzmir;null;9118.20;2;27.12.2024;true
+10388;Can Aksoy;49;erkek;  Eskişehir ;Malatya;23.651,57;7;2023-12-17;1
+10003;pınar uçar;61;erkek;eskişehir;Malatya;9.120,38;26;21.07.2024;true
+10174;Merve Aydın;7;Kadın;eskişehir;Bursa;22762.22;50;2023-08-07;true
+10279;Serkan Bal;37;E;SAMSUN;Malatya;9.276,26;19;null;0
+10316;Ayşe Kurt;76;-;trabzon;-;6.872,41;4;29.05.2023;H
+10198;Mustafa Arslan;NaN;Erkek;Ankara;Bursa;21.077,87;6;2024-05-01;1
+10272;  Ali Şahin ;58;E;Antalya;Antalya;24685.17;58;2024-09-15;H
+10165;EMINE KOÇ;18;Erkek;bursa;Trabzon;yaklasik 1000;53;02.01.2025;true
+10065;Okan Taş;31;Kadın;SAMSUN;Kayseri;8013.08;56;28/08/2023;E
+10011;  Nuray Koç ;18;E;KAYSERI;Eskişehir;10.868,51;39;2024-12-28;evet
+10466;DENIZ ÖZDEMIR;7;kadin;kocaeli;Denizli;939.76;29;2023-02-28;hayır
+10404;AHMET ÇELIK;bilinmiyor;yok;  Gaziantep ;Kocaeli;18.017,80;23;13/03/2025;0
+10025;pınar aydın;78;Erkek;antalya;Antalya;24.320,21;48;17/05/2025;true
+10335;HÜSEYIN AKSOY;45;bilinmiyor;gaziantep;Ankara;16086.06;13;31/05/2023;1
+10375;hakan demir;3;E;GAZIANTEP;Samsun;18390.43;46;06.03.2024;H
+10330;gizem ateş;72;kadin;Kayseri;Ankara;23.963,16;46;2023-09-30;0
+10372;Derya Uçar;32;Erkek;İzmir;Trabzon;21345.32;1;17/06/2023;false
+10257;FATMA UÇAR;77;K;TRABZON;yok;2.415,29;30;07/07/2023;evet
+10086;  Ayşe Özdemir ;NaN;kadin;  Denizli ;yok;24.161,12;5;09.11.2023;hayır
+10369;HÜSEYIN DEMIR;75;Kadın;SAMSUN;Adana;9.905,57;10;28.05.2023;0
+10256;  Pınar Çelik ;68;K;Ankara;İzmir;23658.08;47;2025-04-26;H
+10211;Volkan Kaya;39;E;i̇zmir;Ankara;4.878,81;51;08.04.2023;hayır
+10164;Okan Tan;34;E;Kayseri;Bursa;14.496,74;;23/06/2023;E
+10320;mehmet gül;29;erkek;i̇stanbul;Kocaeli;4546.16;48;23/01/2024;true
+10299;Hüseyin Demir;59;kadin;Gaziantep;Adana;20994.30;11;17/04/2023;true
+10209;okan uçar;37;Kadın;antalya;Bursa;15650.99;n/a;12.04.2023;1
+10094;Pınar Tan;74;K;  Ankara ; ;5871.51;10;02.07.2023;true
+10119;pınar aydın;NaN;E;ANTALYA;Konya;5.450,85;n/a;11.06.2023;hayır
+10459;GIZEM ATEŞ;40;kadin;Malatya;Malatya;17.101,65;2;-;E
+10409;Serkan Gül;41;Kadın;İZMIR;Konya;15765.98;15;2025-01-10;0
+10033;EMRE KOÇ;56;erkek;İZMIR;Antalya;1159.75;33;27/04/2024;0
+10357;  Gizem Yıldız ;64;E;Kocaeli; ;15.911,51;1;2024-06-30;hayır
+10117;Emine Ateş;34;K;Trabzon;Bursa;16161.56;37;09.04.2023;1
+10045;PINAR YILMAZ;43;Kadın;  İzmir ;;18.735,82;39;20.01.2025;1
+10177;  Can Demir ;59;kadin;KAYSERI;Ankara;5.415,20;37;N/A;1
+10360;ALI ÖZDEMIR;51;kadin;BURSA;Trabzon;7765.04;41;2025-02-10;E
+10060;  Okan Aksoy ;4;E;Gaziantep;Malatya;6137.89;23;2025-06-04;H
+10264;Kemal Bal;9;Erkek;adana;İstanbul;3.937,68;48;2025-01-16;0
+10083;MERVE KAYA;38;Kadın;İZMIR;Konya;22853.85;17;2023-10-04;E
+10048;Serkan Özdemir;null;E;Ankara;Kayseri;abc;4;2025-03-30;0
+10341;Kemal Koç;6;Erkek;Ankara;Samsun;2084.32;32;2024-09-19;hayır
+10055;Gizem Tan;64;NaN;ANTALYA;n/a;23.712,61; ;2023-04-09;false
+10297;Serkan Kurt;17;erkek;İzmir;;23989.60;23;23/08/2024;1
+10321;Elif Taş;37;kadin;Denizli;;7.571,11;58;30/04/2023;evet
+10201;  Mustafa Kaya ;8;-;Trabzon;Antalya;12.152,00;27;2024-07-16;0
+10087;MEHMET YILMAZ;34;n/a;İstanbul;İstanbul;7.768,28;49;30.03.2023;0
+10270;Hüseyin Gül;41;Kadın;eskişehir;Konya;14.768,42;16;11/01/2025;E
+10307;  Emine Doğan ;12;K;gaziantep;null;19.307,84;9;01/02/2024;hayır
+10163;MERVE KAYA;57;Erkek;ANKARA;Samsun;3094.36;46;null;0
+10261;BARIŞ AKSOY;28;K;MALATYA;;17646.70;14;yok;false
+10150;ayşe arslan;26;E;Trabzon;Adana;15.291,59;25;n/a;hayır
+10237;VOLKAN YILMAZ;12;erkek;Konya;Samsun;18235.17;17;2023-11-07;E
+10493;Aylin Kurt;50;erkek;İSTANBUL;NaN;2.366,81;14;08/12/2024;E
+10137;SELIN KURT;45;Erkek;  Antalya ;Antalya;2039.98;37;04/04/2025;H
+10343;can demir;n/a;kadin;Konya;Gaziantep;6.373,28;47;30/09/2024;1
+10112;  Deniz Şahin ;54;K;Malatya;Denizli;17.997,60;55;27.10.2023;1
+10347;gizem şahin;4;K;Trabzon;Kocaeli;18.987,58;35;06.02.2023;hayır
+10227;DERYA TAŞ;81;Erkek;KOCAELI;Malatya;22.094,12;17;2024-10-29;1
+10121;pınar yılmaz;yok;Kadın;Bursa;Samsun;24492.49;40;2024-03-09;1
+10047;deniz doğan;7;Erkek;  Malatya ;Antalya;21597.63;23;2024-06-16;hayır
+10073;mustafa yıldız;49;Kadın;i̇stanbul;NaN;5.510,35;6;2024-07-29;hayır
+10041;Pınar Taş;61;erkek;Antalya;Trabzon;13.997,47;57;2025-01-26;hayır
+10362;BURAK ÇELIK;28;erkek;Kayseri;Gaziantep;21.836,72;;-;hayır
+10414;ELIF ŞAHIN;34;kadin;antalya;Eskişehir;6.363,97;40;22/07/2024;true
+10248;Nuray Yıldız;8;Erkek;Konya;İstanbul;24.623,93;n/a;17.01.2023;false
+10420;Gizem Çelik;yok;erkek;antalya; ;20.554,41;55;03/09/2024;1
+10430;Pınar Doğan;52;E;  Trabzon ;-;1.017,24;3;14.03.2024;false
+10327;SERKAN DOĞAN;77;Kadın;ANTALYA;Kayseri;3.867,01;26; ;H
+10079;Burak Şahin;48;K;ADANA;Bursa;5373.82;1;27/01/2025;E
+10101;  Deniz Uçar ;;K;i̇zmir;Adana;8159.35;17;02.04.2024;hayır
+10411;FATMA BAL;4;E;Adana;Adana;2514.41;51;05/08/2023;false
+10351;zeynep koç;21;K;kocaeli;Gaziantep;11216.48;48;08.03.2024;H
+10138;Aylin Gül;79;kadin;İstanbul;Bursa;2.325,74;36;12/01/2023;0
+10178;  Aylin Demir ;15;kadin;Kocaeli;Malatya;18558.82;16;2025-06-01;0
+10051;  Deniz Demir ;32;E;İSTANBUL;Adana;11056.27;11;2024-07-26;0
+10461;ELIF TAN;yok;kadin;bursa;Eskişehir;20361.80;11;2024-07-07;false
+10006;seda aksoy;40;bilinmiyor;  Kayseri ;Trabzon;5035.95;30;26.04.2025;evet
+10100;Seda Doğan;54;Kadın;Konya;null;4660.18;45;18/06/2024;H
+10141;  Can Arslan ;31;kadin;ANTALYA;İstanbul;17.317,57;26;03/12/2024;0
+10346;okan ateş;14;erkek;eskişehir;Bursa;21134.38;45;2025-03-04;1
+10235;kemal doğan;19;K;  Adana ;İzmir;17.144,61;N/A;2024-03-29;1
+10446;mehmet ateş;77;erkek;konya;İstanbul;4200.70; ;09.10.2023;0
+10436;CAN KAYA;41;erkek;ADANA;İzmir;21758.89;11;2023-08-18;hayır
+10104;ONUR ŞAHIN;79;K;Malatya;Kayseri;21.946,08;2;2024-07-06;E
+10024;Ali Şahin;5;erkek;ESKIŞEHIR;Adana;24.080,43;42;yok;0
+10081;Hüseyin Kurt;33;erkek;  Konya ;n/a;4.706,40;15;19.08.2023;false
+10379;Serkan Kurt;36;kadin;Adana;Ankara;17863.61;43;2024-05-22;true
+10208;Ali Arslan;39;Kadın;SAMSUN;Antalya;19.101,20;15;2025-02-13;evet
+10384;EMINE GÜL;17;kadin;Bursa;Malatya;20343.09;52;2023-09-06;E
+10232;emre uçar;4;K;antalya;-;14377.05;13;2024-05-18;hayır
+10449;DERYA ÖZTÜRK;36;yok;adana;Malatya;17.025,63;5;14/03/2023;hayır
+10228;nuray aksoy;24;kadin;ANTALYA;Gaziantep;22622.66;31;11/09/2023;true
+10500;Mehmet Özdemir;27;Erkek;ADANA;Kayseri;10.439,17;47;19/07/2024;true
+10499;Mehmet Aydın;30;Erkek;Bursa;Samsun;23.777,12;20;2023-06-03;evet
+10243;MUSTAFA ŞAHIN;48;kadin;İzmir;İzmir;12448.46;29;27.01.2024;0
+10370;Selin Arslan;60;erkek;samsun;null;1.651,19;17;2023-08-15;evet
+10292;Selin Ateş; ;Kadın;Kocaeli;bilinmiyor;3.459,74;26;21/07/2023;hayır
+10044;onur yıldız;70;Kadın;ANTALYA;NaN;23067.91;25;30/03/2025;false
+10260;Derya Çelik;35;E;KONYA;Konya;11367.05;8;24.06.2023;H
+10476;merve koç;yok;Erkek;Trabzon; ;15.033,07;yok;25/03/2024;hayır
+10153;Emine Yılmaz;47;kadin;trabzon;Bursa;10.602,21;8;2025-06-16;evet
+10484;serkan aydın;66;erkek;Denizli;Kayseri;24.601,30;6;2023-05-05;evet
+10443;  Onur Doğan ;43;E;ADANA;Antalya;14.806,66;32;01/12/2023;H
+10058;emre aydın;60;kadin;Denizli;Bursa;21200.76;9;20/01/2024;evet
+10019;PINAR KURT;10;Kadın;ANKARA;İzmir;14943.97;null;31.12.2023;H
+10245;Ece Ateş;28;K;trabzon;Trabzon;17.442,09;53;-;H
+10133;SELIN KAYA;52;kadin;  Konya ;Konya;18682.59;12;2023-03-18;0
+10014;Barış Şahin; ;E;  Adana ;Malatya;16776.45;23;27/12/2023;H
+10236;AHMET YILMAZ;7;K;GAZIANTEP;Samsun;2.473,54;32;13.03.2023;0
+10295;Onur Özdemir;47;kadin;İstanbul;İstanbul;13480.05;20;12/09/2024;H
+10222;BURAK ÇELIK;null;kadin;malatya;Gaziantep;24.050,58;56;25/01/2023;H
+10166;Fatma Gül;44;kadin;KONYA;Ankara;2.590,23;8;13/05/2024;0
+10247;Ayşe Özdemir;16;E;Denizli;yok;10766.43;13;17.10.2023;E
+10240;aylin çelik;15;E;i̇stanbul;Denizli;6371.25;49;15.05.2024;0
+10477;AYŞE ATEŞ;60; ;Trabzon;N/A;5.857,96;28;17/07/2023;0
+10277;Seda Şahin;48;erkek;Kocaeli;İstanbul;2.252,74;35;09.09.2023;0
+10471;Kemal Gül;43;kadin;kocaeli;Kocaeli;yaklasik 1000;48;22.12.2024;false
+10286;fatma aydın;64;Kadın;Bursa;null;18.629,07;23;null;evet
+10120;Hakan Koç; ;K;  İstanbul ;Trabzon;9677.72;51;20.10.2024;hayır
+10080;Burak Çelik;80;K;antalya;Adana;5.063,21;55;09/08/2023;false
+10419;ayşe demir;75;E;trabzon;Eskişehir;18.556,95;47;2025-01-05;0
+10113;Merve Demir;76;K;kocaeli;Denizli;1.197,48;18;2023-11-28;hayır
+10015;Fatma Gül;74;erkek;Antalya;Samsun;2.581,32;28;2024-12-01;E
+10402;HAKAN YILMAZ;68;E;  Kocaeli ;Ankara;24218.06;3;18/10/2023;hayır
+10333;Emre Aydın;50;Erkek;Gaziantep;Kocaeli;abc;42;06/09/2023;0
+10301;aylin taş;18;NaN;Kayseri;Antalya;6460.31; ;19.10.2023;1
+10076;Fatma Aydın;-;K;Denizli;İstanbul;7.312,65;57;-;H
+10099;ali arslan;23; ;ankara;n/a;20537.17;14;2024-08-04;E
+10131;serkan taş;69;Erkek;Antalya;Bursa;2374.90;58;2024-06-05;0
+10218;Hakan Uçar;56;K;antalya;Antalya;4938.59;38;;1
+10188;seda uçar;54;E;Kocaeli;İstanbul;2.992,12;23;15/11/2023;true
+10313;BARIŞ ŞAHIN;40;Erkek;GAZIANTEP;n/a;9780.12;3;11/05/2025;true
+10061;Zeynep Bal;63;Erkek;bursa; ;2.967,25;30;13/10/2024;hayır
+10489;Onur Doğan;13;erkek;Adana;Kayseri;15140.93;8;25.07.2023;hayır
+10082;BARIŞ YILDIZ;38;erkek;Antalya;bilinmiyor;8436.66;49;21/06/2024;0
+10473;Barış Şahin;28;K;kayseri;Adana;24733.94;46;10/10/2024;hayır
+10106;SEDA ARSLAN;71;E;Bursa;Denizli;yaklasik 1000;34;26.05.2024;evet
+10400;Ahmet Aydın;32;erkek;  Trabzon ;Bursa;20956.25;44;05.03.2024;H
+10013;burak aydın;56;E;KONYA;Trabzon;19.517,19;30;15.06.2024;1
+10380;MUSTAFA GÜL;47;E;kocaeli;bilinmiyor;14.607,31;56;19/06/2023;H
+10451;SELIN ARSLAN;N/A;Kadın;ADANA;Kayseri;23886.02;25;03.08.2023;hayır
+10007;barış koç;15;erkek;kocaeli;Gaziantep;24183.33;31;26.10.2024;0
+10135;barış aksoy;49;E;DENIZLI;Malatya;13430.12;4;2023-06-24;0
+10143;Pınar Ateş;69;Erkek;DENIZLI;Trabzon;15.090,73;6;2024-05-25;true
+10043;Kemal Yıldız;48;Erkek;İzmir;Konya;15233.10;60;27.07.2024;hayır
+10289;Emre Gül;bilinmiyor;Erkek;gaziantep;İstanbul;5.453,98;58;2024-11-14;evet
+10070;  Fatma Gül ;null;Kadın;BURSA;Ankara;19.866,27;38;bilinmiyor;evet
+10329;Can Doğan;22;Kadın;Adana;N/A;2.853,51;23;2023-09-26;0
+10283;Ahmet Gül;3;kadin;konya;Kayseri;7959.58;44;24.09.2023;H
+10156;EMRE KURT;24;K;samsun;Bursa;2155.19;29;14.02.2023;H
+10268;Serkan Özdemir;N/A;K;malatya;Samsun;yaklasik 1000;53;20.08.2024;false
+10008;Fatma Doğan;55;Kadın;Trabzon;Gaziantep;15.272,84;8;08/02/2025;0
+10324;Mustafa Şahin;22;kadin;SAMSUN;İstanbul;3.101,50;24;n/a;0
+10126;  Ayşe Uçar ;66;null;Antalya;Gaziantep;1.734,70;34;24.07.2023;evet
+10059;Gizem Koç;79;kadin;ADANA;Denizli;13395.07;33;11/11/2024;0
+10448;okan tan;59;E;Antalya;;10796.33;25;2024-06-08;H
+10200;  Ayşe Özdemir ;43;Kadın;Gaziantep;Konya;12423.13;12;2023-05-28;hayır
+10300;Deniz Kaya;5;E;Samsun;Denizli;2231.48;54;2023-07-09;false
+10139;  Ali Taş ;43; ;Samsun;Kocaeli;18737.99;26;2023-12-16;E
+10398;emre şahin;28;E;Ankara;null;11.227,94;27;17/04/2023;1
+10129;AYLIN AYDIN;18;kadin;  Samsun ;Bursa;12039.93;45;2024-05-09;false
+10481;Selin Uçar;n/a;E;Ankara;-;18359.11;18;2024-12-13;hayır
+10396;Nuray Tan;54;K;Trabzon;Antalya;16.858,44;9;29.12.2023;hayır
+10217;hüseyin bal;58;E;bursa;Gaziantep;yaklasik 1000;14;14.08.2023;hayır
+10317;Selin Koç;39;E;Kocaeli;Gaziantep;15756.61;40;09.06.2025;false
+10053;DENIZ UÇAR;3;Kadın;Trabzon;Samsun;12.832,16;48;22/01/2023;hayır
+10220;emre koç;12;erkek;Adana;Ankara;19547.51;49;21.10.2024;H
+10042;Selin Gül;17;erkek;Gaziantep;null;16222.41;51;26.01.2025;false
+10367;Elif Şahin;bilinmiyor;null;ANTALYA;Adana;764.53;45;2024-01-12;0
+10110;Pınar Ateş;29;Kadın;Adana;Kocaeli;14776.29;11;2023-04-02;hayır
+10432;ZEYNEP YILMAZ;78;kadin;samsun;Gaziantep;15.127,11;38;03.01.2024;false
+10496;GIZEM ŞAHIN;bilinmiyor;N/A;Eskişehir;bilinmiyor;?;-;2023-04-24;0
+10097;AYŞE KAYA;49;erkek;KAYSERI;Bursa;17995.91;47; ;E
+10374;onur yılmaz;25;Erkek;İZMIR;Ankara;6360.19;58;2023-02-08;evet
+10418;Volkan Yıldız;24;Kadın;Ankara;Malatya;2.173,30;34;15.09.2024;1
+10383;Onur Arslan;21;erkek;İzmir;Trabzon;14750.91;55;2023-09-18;E
+10186;OKAN TAŞ;7;K;Konya;Kocaeli;15.974,35;41;2024-02-02;E
+10271;Volkan Tan;25;erkek;eskişehir;Konya;12.516,98;39;2023-04-30;0
+10338;Elif Gül;24;NaN;İstanbul;Ankara;4836.22;37;2023-06-09;false
+10314;Derya Aydın;36;erkek;malatya;Bursa;19877.48; ;05.01.2025;evet
+10168;Selin Özdemir;35;kadin;  İstanbul ;Bursa;773,30;48;10.06.2025;1
+10455;ZEYNEP BAL;26;yok;Kayseri;Kocaeli;7443.41;18;31.03.2024;H
+10179;Emine Taş;55;K;Samsun;;9.371,90;59;26.04.2023;0
+10012;MUSTAFA ARSLAN;72;Kadın;Kayseri;Trabzon;21.951,53;34;2024-06-13;E
+10336;GIZEM ATEŞ;14;erkek;Ankara;n/a;19.762,38;30;2024-03-09;hayır
+10088;DERYA ÖZDEMIR;78;Kadın;i̇zmir;İstanbul;2.384,52;39;-;false
+10022;Ayşe Öztürk;22;E;Konya;Bursa;6930.26;24;14.10.2024;false
+10102;Hakan Arslan;65;erkek;adana;Antalya;23.017,14;15;-;0
+10032;nuray aydın;29;kadin;samsun;Kocaeli;abc;10;13.08.2023;E
+10358;  Elif Gül ;53;kadin;i̇stanbul;Gaziantep;2530.19;52;03/08/2024;true
+10298;Mustafa Doğan;60;Erkek;Kocaeli;Kocaeli;11.980,39;12;2024-10-20;false
+10050;HAKAN BAL;14;Kadın;i̇stanbul;n/a;1829.22;35;12/10/2024;H
+10010;seda ateş;55;Erkek;bursa;Ankara;1882.16;42;bilinmiyor;0
+10433;Gizem Aydın;32;Erkek;MALATYA;Antalya;1234.61;;08/05/2025;E
+10038;AYLIN ÇELIK;;K;MALATYA;Antalya;17.339,11;11;2023-02-24;true
+10020;Okan Taş;19;Kadın;  Gaziantep ;Kocaeli;6.411,61;NaN;05.05.2024;0
+10203;MERVE DOĞAN;12;E;Trabzon;;2.364,20;45;11.02.2025;0
+10441;GIZEM KOÇ;50;kadin;Trabzon;Antalya;22.552,93;53;2024-07-15;H
+10302;Pınar Yılmaz;5;kadin;Malatya;İzmir;6063.67;50;01/03/2024;evet
+10091;BARIŞ KURT;66;kadin;Gaziantep;Eskişehir;6407.29;9;11/04/2024;E
+10031;Merve Özdemir;10;erkek;Antalya;yok;20831.40;55;N/A;hayır
+10348;ECE ŞAHIN;49;Erkek;denizli;Trabzon;16436.50;55; ;hayır
+10359;okan koç;11;Kadın;  Konya ;Denizli;23.731,82;15;29/11/2024;E
+10349;SERKAN GÜL;6;Kadın;ANKARA;Bursa;10959.42;n/a;18.08.2023;false
+10005;emre gül;21;Erkek;Ankara;Trabzon;17877.36;35;16/02/2024;false
+10475;PINAR BAL;74;kadin;ESKIŞEHIR;Trabzon;19.987,82;38;28/12/2023;evet
+10431;Ali Bal;51;E;Adana;Denizli;12265.45;N/A;28/05/2023;false
+10144;ayşe şahin;51;E;Antalya;Eskişehir;12.805,20;33;2025-03-02;false
+10095;Aylin Doğan;63;Erkek;Adana;Samsun;2432.90;26;2023-06-29;0
+10016;  Hakan Şahin ;38;Kadın;KONYA;yok;21669.01;17;;1
+10337;mustafa doğan;49;E;samsun;Trabzon;4384.16;6;2024-12-11;H
+10454;  Mustafa Koç ;72;K;TRABZON;Malatya;16090.02;51;10.03.2024;1
+10332;Nuray Taş;30;kadin;Kocaeli;İzmir;806,88;54;2025-03-20;true
+10057;Mustafa Koç;54;erkek;İzmir;Bursa;15058.73;26;16.07.2024;true
+10401;MERVE YILDIZ;73;Kadın;ANKARA;Eskişehir;19476.17;36;NaN;false
+10116;OKAN KAYA;24;kadin;İstanbul;Eskişehir;4147.94;5;31/05/2024;evet
+10159;  Onur Koç ;64;Kadın;  İstanbul ;N/A;3381.08;47;16.03.2024;false
+10230;  Onur Yıldız ;78;Erkek;İzmir;;19638.24;3;04.11.2024;0
+10028;Nuray Yıldız; ;E;Antalya;yok;12.681,49;59;03.11.2024;E
+10231;volkan uçar;55;Erkek;Samsun;İstanbul;16.865,23;34;2023-12-23;true
+10115;MEHMET YILMAZ;17;K;Antalya;Antalya;9195.74;60;30/01/2025;E
+10474;DERYA BAL;58;Kadın;Bursa;Samsun;5061.48;1;null;H
+10175;Hakan Özdemir;56;erkek;eskişehir;Ankara;6.899,74;60;2025-01-10;false
+10415;Onur Aksoy;11;Erkek;Trabzon;Kayseri;10267.63;52;2024-06-25;true
+10391;seda şahin;3;erkek;Konya;Denizli;yaklasik 1000;32;29.12.2023;true
+10290;deniz çelik;4;erkek;MALATYA;İstanbul;5961.61;15;28/07/2023;E
+10206;can yılmaz;31;K;BURSA;n/a;16.163,20;38;n/a;1
+10378;okan demir;37;erkek;eskişehir;Adana;9.030,31;12;10.05.2023;true
+10376;Emre Şahin;29;Erkek;Malatya;Adana;379.05;25;26.03.2025;0
+10023;volkan ateş;23;Erkek;İstanbul;Malatya;13.104,53;3;28.03.2023;1
+10134;Ali Uçar;53;kadin;i̇stanbul;Ankara;15.775,19;2;2024-10-04;1
+10036;SELIN ARSLAN;74;Erkek;  Malatya ;Malatya;2703.79;N/A;03.08.2023;E
+10171;emine şahin;41;N/A;bursa;;1541.34;2;28.03.2024;evet
+10118;  Ali Aydın ;36;n/a;  Eskişehir ;Denizli;9166.39;59;2025-04-07;E
+10386;Gizem Doğan;63;Kadın;Denizli;null;3.808,40;30;11/04/2025;evet
+10331;Elif Yıldız;80;Kadın;Kocaeli;null;951,14;17;2023-12-28;1
+10151;Serkan Tan;6;kadin;Denizli;Trabzon;23629.14;19;2023-06-14;evet
+10239;Pınar Kurt;59;erkek;Konya;Antalya;20007.42;50;22.03.2025;H
+10040;Fatma Özdemir;35;Kadın;Bursa;Ankara;10856.64;11;08.11.2024;E
+10480;Mehmet Arslan;65;kadin;Samsun;yok;20.197,74;5;2024-10-18;H
+10310;  Aylin Doğan ;11;N/A;DENIZLI;İstanbul;3618.90;29;23.01.2024;false
+10078;Pınar Aydın;70;E;KAYSERI;Samsun;19.690,62;60;null;false
+10423;pınar aksoy;12;erkek;Ankara;İzmir;2381.60;7;yok;hayır
+10155;EMINE ATEŞ;60;Kadın;  Gaziantep ;Trabzon;18528.61;54;07/11/2024;1
+10180;Ahmet Kurt;55;Kadın;İSTANBUL;Samsun;14379.03;26;15.06.2024;E
+10460;onur aksoy;n/a;Erkek;Kocaeli;Gaziantep;1970.02;35;30/06/2024;hayır
+10403;ahmet bal;5;E;Trabzon;Kayseri;?;36;2025-01-16;E
+10468;Hakan Doğan;43;erkek;DENIZLI;Denizli;17741.60;45;21.06.2024;0
+10439;ece yılmaz;43;kadin;Bursa;yok;10.343,12;17;06.09.2023;E
+10004;Kemal Gül;53;K;Eskişehir;Trabzon;20139.07;50;20/02/2023;hayır
+10063;MEHMET ÖZDEMIR;59;Kadın;Kocaeli;Adana;?;28;06.03.2023;false
+10161;  Burak Şahin ;15;K;bursa;Kayseri;846,44;11;2024-10-03;true
+10090;PINAR ŞAHIN;77;kadin;gaziantep;Trabzon;16.646,60;22;yok;H
+10464;DERYA ARSLAN;64;kadin;Antalya;Trabzon;19.829,53;37;14.02.2023;1
+10173;Aylin Kurt;76;Kadın;İzmir;Bursa;19.653,92;37;06/01/2023;E
+10189;BARIŞ TAN;67;Kadın;gaziantep;bilinmiyor;2220.61;null;13.04.2025;evet
+10054;Burak Öztürk;79;erkek;i̇zmir;;8596.64;46;2023-04-10;E
+10187;Can Tan;51;erkek;Konya;Gaziantep;24.087,66;24;13/11/2023;true
+10210;Mehmet Doğan;4;K;adana;İstanbul;12986.19;57;06/05/2024;1
+10278;  Mehmet Yılmaz ;46;Erkek;Konya;Kayseri;24160.28;45;2025-01-14;hayır
+10488;Volkan Bal;29;kadin;İZMIR;İzmir;18954.98;21;16.03.2023;H
+10252;ONUR ARSLAN;22;Erkek;Gaziantep;Trabzon;yaklasik 1000;28;bilinmiyor;E
+10267;Deniz Kurt;14;K;  Malatya ;Gaziantep;15.546,81;23;25.01.2024;true
+10412;Fatma Doğan;45;Kadın;Kocaeli;Kocaeli;8696.98;38;10.03.2023;H
+10123;emre aksoy;12;Erkek;Gaziantep;İzmir;6.745,68;43;null;0
+10140;  Seda Kurt ;33;erkek;BURSA;İstanbul;13467.18;29;15.05.2023;1
+10046;deniz öztürk;62;E;Malatya;N/A;14.912,43;50;02/05/2024;evet
+10195;Elif Demir;38;kadin;Trabzon;-;7.049,91;57;18.02.2024;1
+10184;GIZEM DOĞAN;81;;DENIZLI;Trabzon;22.987,27;59;2023-06-15;1
+10385;Mustafa Aksoy;55;Erkek;TRABZON;Bursa;22.792,42;52;N/A;1
+10444;nuray şahin;16;Kadın;Gaziantep;Trabzon;2.107,11;34;25/09/2024;false
+10309;MUSTAFA TAŞ;33;kadin;Denizli;Samsun;2.600,56;28;2023-06-28;evet
+10352;Can Aydın;16;erkek;Denizli;Denizli;2.763,05;58;27/12/2024;E
+10413;can kurt;12;Kadın;antalya;Kayseri;?;55;2025-02-17;0
+10354;CAN ÖZDEMIR;21;erkek;i̇zmir;Eskişehir;2.574,91;28;2024-12-21;E
+10125;can bal;-;K;Antalya;Bursa;18172.65;44;26/01/2025;false
+10366;ece kurt;45;K;ADANA;Trabzon;17.196,41;1;2023-09-22;evet
+10246;serkan bal;80;erkek;ESKIŞEHIR;Ankara;11672.10;6;2023-08-30;H
+10190;Onur Kurt;36;Erkek;İstanbul;İzmir;2258.81;bilinmiyor;12.02.2025;true
+10146;hüseyin şahin;39;erkek;SAMSUN;Antalya;18.951,44;43;n/a;1
+10009;ali yılmaz;77;E;  İzmir ;Trabzon;23959.02;33;03/03/2024;E
+10249;ZEYNEP TAN;74;E;  Eskişehir ; ;14899.21;5;13.01.2023;0
+10192;Can Öztürk;22;K;İZMIR;Ankara;?;18;2024-08-16;1
+10214;AHMET KURT;51;Kadın;Bursa; ;3.332,39;41;2023-03-01;false
+10456;mehmet yılmaz;66;erkek;MALATYA;Malatya;19231.16;32;10.10.2024;true
+10304;Derya Çelik;-;Erkek;İstanbul;Kayseri;617.20;57;N/A;H
+10394;Mustafa Şahin;65;Kadın;Antalya;Kocaeli;10458.57;42;10/01/2025;1
+10056;Seda Kaya;38;E;malatya;Trabzon;10.290,52;21;15/04/2023;H
+10084;Serkan Aydın;38;kadin;DENIZLI;n/a;9.971,20;6;18/02/2024;evet
+10447;EMRE TAŞ;bilinmiyor;kadin;antalya;Adana;7.117,15;53;23/09/2023;false
+10405;  Ali Yıldız ;8;E;Adana;Antalya;16485.54;22;03.05.2023;evet
+10158;KEMAL ŞAHIN;44;K;trabzon;;4596.54;32;17/04/2025;0
+10399;  Derya Kurt ;61;E;Malatya;İzmir;6004.12;16;13/05/2025;hayır
+10371;derya kurt;71;Erkek;Adana;N/A;17037.88;30;06/04/2023;E
+10037;Kemal Doğan;37;erkek;Kocaeli;Malatya;24.929,93;40;2023-07-13;E
+10326;Zeynep Aydın;51;Erkek;Samsun;;12536.78;56;2023-02-19;false
+10204;Fatma Arslan;81;erkek;  İstanbul ;Trabzon;9.706,69;17;25.02.2025;0
+10007;barış koç;15;erkek;kocaeli;Gaziantep;24183.33;31;26.10.2024;0
+10154;Kemal Yıldız;14;E;Antalya;Eskişehir;12224.26;7;2024-11-07;E

@@ -1,0 +1,519 @@
+﻿UrunKodu,UrunAdi,Kategori,BirimFiyat,StokAdedi,KritikStok,Tedarikci,KDV,SonGuncelleme,Aktif
+URN-1338,Elektronik Ürün 400,Giyim,"168,06",943,100,Beta A.Ş,%18,15/06/2026,1
+URN-1199,Gıda Ürün 566,Mobilya,1539.58,521,50,Beta A.Ş,%18,2026-03-05,0
+URN-1439,  Gıda Ürün 522 ,Kırtasiye,"5.734,58",1003,100,bilinmiyor,20,09.05.2024,0
+URN-1424,Elektronik Ürün 189,Giyim,2238.02,1230,10,,18,23.03.2025,E
+URN-1183,Spor Ürün 584,Kozmetik,"6.431,86",1346,20,Delta San,1,2024-06-09,hayır
+URN-1321,OYUNCAK ÜRÜN 175,Giyim,"7.963,20",541,20,null,20,13/04/2025,E
+URN-1354,Mobilya Ürün 218,Kozmetik,"6.031,71",79,10,Gama Tic,1,04.03.2024,1
+URN-1140,KOZMETIK ÜRÜN 574,Mobilya,930.89,996,100,N/A,20,2024-06-18,H
+URN-1104,  Oyuncak Ürün 667 ,Oyuncak,"4.907,13",177,10,null,10,23/10/2025,false
+URN-1342,Kozmetik Ürün 558,Oyuncak,5535.73,N/A,50,Beta A.Ş,%18,05.01.2026,hayır
+URN-1332,giyim ürün 972,Elektronik,1146.09,1274,10,Epsilon,18,16.08.2024,0
+URN-1327,Oyuncak Ürün 543,Oyuncak,"2.898,65",1051,50,Delta San,%18,24.03.2024,0
+URN-1005,  Kozmetik Ürün 701 ,Giyim,2983.46,362,100,Gama Tic,18,2025-02-02,E
+URN-1419,kozmetik ürün 411,Mobilya,5767.65,61,20,Gama Tic,1,2025-10-21,evet
+URN-1436,Gıda Ürün 554,Elektronik,"1.400,79",1164,10,Delta San,%20,19.02.2024,evet
+URN-1147,ELEKTRONIK ÜRÜN 579,Giyim,"7.353,79",1466,50,Alfa Ltd,%20,2024-03-07,H
+URN-1468,Gıda Ürün 28,Giyim,"168,40",945,20,Beta A.Ş,8,08.06.2025,false
+URN-1402,KOZMETIK ÜRÜN 908,Oyuncak,"2.494,51",500,50,Beta A.Ş,%18,21/09/2024,hayır
+URN-1368,KIRTASIYE ÜRÜN 608,Giyim,"303,15",262,10,Epsilon,18,05/08/2024,E
+URN-1206,Giyim Ürün 239,Gıda,"7.591,59",1175,100,Epsilon,1,05.06.2024,1
+URN-1435,ELEKTRONIK ÜRÜN 425,Kırtasiye,659.14,600,20,Epsilon,18,06/05/2026,E
+URN-1466,  Elektronik Ürün 168 ,Mobilya,"3.667,55",1028,20,Delta San,%20,01.10.2025,hayır
+URN-1054,Gıda Ürün 164,null,"7.394,87",1179,50,Gama Tic,20,01.10.2025,E
+URN-1393,GIYIM ÜRÜN 590,Gıda,6945.34,9,20,Gama Tic,%20,23/06/2024,false
+URN-1134,Elektronik Ürün 531,Gıda,"7.812,27",66,10,Beta A.Ş,%18,2025-08-24,evet
+URN-1273,Giyim Ürün 132,Mobilya,111.57,1481,100,Alfa Ltd,18,2024-06-14,true
+URN-1093,  Giyim Ürün 563 ,Mobilya,8.28,529,50,Epsilon,20,2024-02-04,H
+URN-1272,Spor Ürün 633,Mobilya,6980.78,397,100,Gama Tic,20,17/11/2025,evet
+URN-1360,Giyim Ürün 904,Mobilya,1679.74,281,10,Epsilon,18,07.08.2024,evet
+URN-1396,Elektronik Ürün 398,Mobilya,6988.77,1219,100,Epsilon,%18,26/01/2026,1
+URN-1079,Kırtasiye Ürün 144, ,"6.927,74",985,10,Gama Tic,8,2025-05-22,hayır
+URN-1238,Mobilya Ürün 487,bilinmiyor,5941.26,396,10,Gama Tic,20,01/01/2026,1
+URN-1362,Kırtasiye Ürün 7,Mobilya,4734.63,1464,50,Delta San,20,17.11.2025,H
+URN-1051,  Giyim Ürün 182 ,Gıda,4888.70,788,20,Alfa Ltd,1,10.10.2024,1
+URN-1254,KOZMETIK ÜRÜN 680,Kozmetik,7957.64,1339,10,Epsilon,1,24/08/2024,E
+URN-1235,spor ürün 861,-,2199.19,541,10,Epsilon,10,01/01/2024,true
+URN-1293,ELEKTRONIK ÜRÜN 530,Gıda,"2.703,18",675,10,Delta San,18,2025-10-18,1
+URN-1282,KOZMETIK ÜRÜN 444, ,3561.94,1198,10,Gama Tic,20,01/08/2024,0
+URN-1228,kozmetik ürün 226,Elektronik,"7.292,20",149,50,-,20,2025-08-27,H
+URN-1495,gıda ürün 499,bilinmiyor,1351.77,21,10,Beta A.Ş,10,09/03/2025,H
+URN-1292,  Kozmetik Ürün 735 ,Spor,"2.138,21",354,100,Gama Tic,20,yok,hayır
+URN-1270,giyim ürün 273,Mobilya,6857.99,536,20,Alfa Ltd,18,2025-12-14,true
+URN-1021,OYUNCAK ÜRÜN 178,null,228.32,557,100,-,20,2025-01-19,hayır
+URN-1019,gıda ürün 509,Elektronik,"1.244,32",1037,100,Beta A.Ş,10,05.08.2025,evet
+URN-1165,OYUNCAK ÜRÜN 375,Spor,"2.320,77",272,50,Gama Tic,10,24.03.2026,H
+URN-1394,giyim ürün 160,Spor,7758.43,806,50,Gama Tic,10,23/11/2024,0
+URN-1198,  Spor Ürün 904 ,null,"983,18",710,50,,20,09/05/2025,true
+URN-1274,SPOR ÜRÜN 645,Giyim,2231.13,1431,100,Epsilon,10,07/05/2025,0
+URN-1120,Elektronik Ürün 709,Giyim,"7.969,14",1353,10,Beta A.Ş,18,2024-12-14,1
+URN-1244,Mobilya Ürün 129,Giyim,5401.72,1433,10,Gama Tic,18,2024-08-29,1
+URN-1130,Giyim Ürün 637,Spor,"6.110,79",-,10,Beta A.Ş,18,2024-06-19,H
+URN-1211,GIYIM ÜRÜN 71,Kırtasiye,"586,60",1050,10,Beta A.Ş,18,2025-09-26,evet
+URN-1227,ELEKTRONIK ÜRÜN 814,Giyim,317.36,219,50,Alfa Ltd,8,2024-12-17,0
+URN-1339,Spor Ürün 356, ,"7.180,70",1249,100,Gama Tic,1,15.01.2024,E
+URN-1087,elektronik ürün 602,Oyuncak,2820.00,bilinmiyor,10,Alfa Ltd,%20,21.12.2025,H
+URN-1275,Oyuncak Ürün 441,Giyim,1796.43,-,20,Gama Tic,10,2025-09-22,evet
+URN-1376,Giyim Ürün 366,Gıda,1805.98,1361,20,Beta A.Ş,%18,2025-02-26,true
+URN-1390,MOBILYA ÜRÜN 812,Gıda,"6.408,28",322,100,Gama Tic,18,11/07/2024,H
+URN-1004,kozmetik ürün 843,Oyuncak,4124.65,882,50,Gama Tic,20,06.01.2025,evet
+URN-1312,Oyuncak Ürün 470,Elektronik,"3.774,50",185,50,Epsilon,%18,29/07/2024,1
+URN-1448,Giyim Ürün 407,Mobilya,"3.857,99",1357,10,Epsilon,%20,03.06.2024,evet
+URN-1119,elektronik ürün 102,Spor,2258.58,475,20,Gama Tic,1,13.01.2024,hayır
+URN-1026,Elektronik Ürün 687,N/A,382.67,1041,50,Delta San,%20,2024-07-28,E
+URN-1144,Elektronik Ürün 570,Oyuncak,"6.573,36",116,20,Epsilon,%20,2024-05-24,1
+URN-1127,kırtasiye ürün 614,Oyuncak,3339.57,986,50,Delta San,%20,19.04.2026,hayır
+URN-1105,elektronik ürün 22,Elektronik,"5.867,44",950,10,Epsilon,8,2024-09-05,H
+URN-1100,oyuncak ürün 107,Oyuncak,4098.30,754,20,Gama Tic,1,08/10/2024,false
+URN-1118,kozmetik ürün 360,Oyuncak,7213.47,273,50,Alfa Ltd,%20,,0
+URN-1056,spor ürün 232,Giyim,"7.384,65",1054,100,Beta A.Ş,%18,09/06/2025,true
+URN-1445,oyuncak ürün 198,Spor,"2.275,09",645,10,Beta A.Ş,%20,19/01/2026,1
+URN-1425,Oyuncak Ürün 537,Elektronik,"5.998,19",1100,100,Beta A.Ş,18,27/09/2024,evet
+URN-1370,kırtasiye ürün 654,n/a,1971.90,303,50,null,20,2024-01-27,false
+URN-1485,kırtasiye ürün 986,Gıda,"1.262,50",19,50,Delta San,10,06/12/2024,E
+URN-1457,Elektronik Ürün 751,Kırtasiye,"7.223,83",1302,10,Beta A.Ş,20,13.02.2024,false
+URN-1489,MOBILYA ÜRÜN 741,Kırtasiye,"3.086,73",1358,20,Alfa Ltd,10,25/02/2024,hayır
+URN-1268,elektronik ürün 175,Elektronik,7978.79,1414,10,Delta San,%18,25/09/2025,evet
+URN-1028,MOBILYA ÜRÜN 627,Spor,"224,28",977,10,Beta A.Ş,10,NaN,false
+URN-1295,elektronik ürün 504,Kozmetik,1883.74,1241,10,Gama Tic,%18,01.12.2024,1
+URN-1055,Kozmetik Ürün 32,Elektronik,2694.31,1110,50,Alfa Ltd,1,2025-01-06,H
+URN-1259,  Spor Ürün 626 ,Elektronik,"7.255,83",520,10,Gama Tic,18,2025-09-17,0
+URN-1307,Spor Ürün 60,Elektronik,"5.559,65",43,20,Delta San,1,15.04.2026,0
+URN-1283,gıda ürün 941,Oyuncak,4092.90,867,100,Gama Tic,1,16/09/2025,H
+URN-1032,Mobilya Ürün 845,Giyim,1909.53,1104,100,Beta A.Ş,20,14.03.2026,true
+URN-1031,GIDA ÜRÜN 685,Giyim,1709.72,1458,20,Epsilon,%18,13/06/2024,0
+URN-1356,  Mobilya Ürün 399 ,Giyim,7921.78,197,50,Beta A.Ş,%18,2025-03-13,0
+URN-1269,GIYIM ÜRÜN 859,Giyim,"6.758,85",358,20,Epsilon,18,09/11/2025,0
+URN-1148,gıda ürün 470,N/A,3908.22,380,20,Beta A.Ş,20,2025-07-27,0
+URN-1426,kırtasiye ürün 846,Spor,"4.641,60",420,100,Alfa Ltd,1,19.09.2025,1
+URN-1095,Spor Ürün 4,Gıda,"6.286,55",397,20,Beta A.Ş,%20,29.03.2026,1
+URN-1078,KIRTASIYE ÜRÜN 671,Mobilya,2333.53,1249,100,NaN,8,02/06/2024,E
+URN-1454,Mobilya Ürün 893,Mobilya,"2.654,35",1174,100,Gama Tic,%20,2025-03-25,H
+URN-1113,Elektronik Ürün 727,Kozmetik,"7.242,51",334,100,Alfa Ltd,8,05/05/2026,E
+URN-1162,elektronik ürün 353,Mobilya,2264.41,1127,20,Beta A.Ş,10,2026-05-18,H
+URN-1265,MOBILYA ÜRÜN 274,Spor,5696.74,705,10,Epsilon,1,16.08.2024,false
+URN-1008,Kozmetik Ürün 483,n/a,5259.02,899,20,Gama Tic,18,2024-05-19,evet
+URN-1341,GIYIM ÜRÜN 257,Elektronik,1872.99,3,20,Gama Tic,8,2024-12-08,false
+URN-1190,KOZMETIK ÜRÜN 319,Kırtasiye,"2.740,07",286,20,Beta A.Ş,1,18.01.2024,false
+URN-1361,  Mobilya Ürün 451 ,N/A,"3.263,81",1347,20,Beta A.Ş,10,2024-08-19,hayır
+URN-1374,Kırtasiye Ürün 292,Gıda,6311.59,716,10,Delta San,%20,n/a,H
+URN-1212,Kozmetik Ürün 478,Kozmetik,155.54,1225,10,bilinmiyor,10,12/06/2025,E
+URN-1139,Elektronik Ürün 906,Oyuncak,468.37,102,10,Gama Tic,8,2026-05-19,evet
+URN-1387,SPOR ÜRÜN 923,Giyim,3815.70,53,10,Gama Tic,%20,13.08.2025,0
+URN-1347,  Kırtasiye Ürün 720 ,bilinmiyor,"7.257,96",1362,100,Alfa Ltd,%20,2025-08-07,0
+URN-1224,elektronik ürün 997,Gıda,3896.84,1250,10,N/A,20,11.06.2026,hayır
+URN-1072,mobilya ürün 863,-,6285.99,628,50,Delta San,%20,13/01/2026,H
+URN-1345,  Mobilya Ürün 609 ,Gıda,169.37,43,100,Delta San,1,2026-04-01,evet
+URN-1114,Oyuncak Ürün 621,Spor,"3.529,81",1142,20,Alfa Ltd,18,13/02/2026,0
+URN-1130,Giyim Ürün 637,Spor,"6.110,79",-,10,Beta A.Ş,18,2024-06-19,H
+URN-1427,KIRTASIYE ÜRÜN 551,Kozmetik,"6.544,00",1456,10,Alfa Ltd,20,16/06/2025,hayır
+URN-1013,  Elektronik Ürün 192 ,Elektronik,"5.676,17",192,100,Epsilon,1,25.04.2026,hayır
+URN-1423,SPOR ÜRÜN 705,Kozmetik,"6.393,41",1318,20,Gama Tic,%18,26/12/2024,false
+URN-1260,Oyuncak Ürün 484,,6254.10,722,100,Delta San,%20,20.04.2026,H
+URN-1003,Spor Ürün 113,Elektronik,"2.038,03",182,100,Alfa Ltd,8,08/10/2024,0
+URN-1163,gıda ürün 100,Spor,yaklasik 1000,629,20,Beta A.Ş,8,23/07/2025,hayır
+URN-1081,Kozmetik Ürün 365,Spor,"4.781,24",1218,20,Delta San,8,2025-10-01,false
+URN-1116,kozmetik ürün 674,Gıda,4952.57,1427,20,bilinmiyor,1,12.03.2024,evet
+URN-1135,Gıda Ürün 711,yok,5856.37,406,100,Delta San,8,N/A,H
+URN-1076,mobilya ürün 32,Kırtasiye,"92,14",158,50,Gama Tic,8,18.08.2025,E
+URN-1125,Kozmetik Ürün 429,Spor,yaklasik 1000,902,10,Alfa Ltd,1,01/06/2025,hayır
+URN-1348,KIRTASIYE ÜRÜN 734,Mobilya,"695,26",626,10,null,18, ,evet
+URN-1430,Gıda Ürün 316,Mobilya,987.55,1044,50,Delta San,%20, ,evet
+URN-1499,Giyim Ürün 293,Giyim,"81,99",1486,100,Epsilon,1,2024-02-28,evet
+URN-1249,  Gıda Ürün 29 ,Mobilya,"2.259,23",1375,20,N/A,%20,27.09.2024,1
+URN-1160,oyuncak ürün 157,Gıda,"1.776,19",537,10,Delta San,20,06.11.2025,false
+URN-1179,Giyim Ürün 436,Mobilya,169.96,265,100,Beta A.Ş,8,-,0
+URN-1151,oyuncak ürün 589,Mobilya,"6.624,63",NaN,20,Beta A.Ş,18,2024-11-01,hayır
+URN-1239,Spor Ürün 896,Elektronik,"6.673,95",1257,100,Epsilon,10,31.10.2024,E
+URN-1016,Giyim Ürün 886,Kozmetik,452.65,725,100,N/A,10,2025-07-17,hayır
+URN-1305,GIDA ÜRÜN 740,yok,"5.217,37",379,10,Delta San,%20,04/08/2025,E
+URN-1353,OYUNCAK ÜRÜN 653,Mobilya,1919.61,1176,50,,10,07/12/2025,true
+URN-1062,GIYIM ÜRÜN 37,Mobilya,"1.528,38",294,10,Alfa Ltd,%20,25/02/2026,0
+URN-1406,OYUNCAK ÜRÜN 516,Elektronik,4945.54,878,100,Alfa Ltd,20,07.12.2024,0
+URN-1168,  Mobilya Ürün 981 ,Kozmetik,"4.679,04",435,100,Alfa Ltd,10,27/07/2024,H
+URN-1153,Kırtasiye Ürün 315,null,7961.65,639,50,Beta A.Ş,%20,04/12/2024,evet
+URN-1197,elektronik ürün 751,Spor,"4.598,54",815,10,Delta San,20,04.05.2025,hayır
+URN-1343,Kırtasiye Ürün 874,Mobilya,"6.197,74",168,10,Delta San,18,2024-01-31,hayır
+URN-1040,KOZMETIK ÜRÜN 974,Giyim,2940.18,261,20,Beta A.Ş,%18,2024-12-12,hayır
+URN-1326,giyim ürün 356,Gıda,747.69,1100,20,Alfa Ltd,20,2025-01-13,true
+URN-1185,Elektronik Ürün 124,Kozmetik,"5.545,36",76,20,N/A,10,yok,hayır
+URN-1317,kırtasiye ürün 765,Oyuncak,"346,82",1435,50,yok,10,2025-05-09,E
+URN-1141,Spor Ürün 716,Oyuncak,546.74,NaN,20,Gama Tic,18,2024-03-31,evet
+URN-1170,Spor Ürün 137,Kırtasiye,749.80,1029,10,Delta San,%20,2025-09-10,true
+URN-1246,Elektronik Ürün 781,Kırtasiye,abc,813,20,Alfa Ltd,%18,10/02/2025,true
+URN-1404,Oyuncak Ürün 614,Kozmetik,"2.045,13",62,50,Gama Tic,20,23/01/2025,evet
+URN-1128,Spor Ürün 610,Elektronik,"7.370,03",168,50,Gama Tic,%18,22.07.2025,evet
+URN-1437,oyuncak ürün 75,Kozmetik,"1.106,93",1426,50,Alfa Ltd,10,17.10.2025,evet
+URN-1420,gıda ürün 919,Kırtasiye,?,1193,20,Delta San,%18,27/09/2024,false
+URN-1367,kozmetik ürün 169,NaN,7701.52,1303,50,Alfa Ltd,%18,2026-02-15,true
+URN-1124,KIRTASIYE ÜRÜN 430,Oyuncak,"1.958,57",321,20,Alfa Ltd,10,01/08/2024,true
+URN-1397,Gıda Ürün 402,Spor,"2.882,33",484,20,Epsilon,10,2025-01-06,0
+URN-1277,GIDA ÜRÜN 245,Kozmetik,"3.054,11",476,10,,%18,28.12.2024,1
+URN-1428,Elektronik Ürün 842,Kozmetik,713.09,N/A,20,Delta San,1,2025-02-28,1
+URN-1323,  Oyuncak Ürün 477 ,Kozmetik,1291.81,727,20,Beta A.Ş,10,2025-06-23,hayır
+URN-1014,Gıda Ürün 224,NaN,"5.756,28",997,100,Gama Tic,%20,2025-08-14,H
+URN-1298,Mobilya Ürün 398,Elektronik,"1.071,46",65,20,Gama Tic,20,2025-12-15,true
+URN-1411,GIYIM ÜRÜN 90,Kırtasiye,"1.890,84",665,10,Epsilon,20,2024-09-02,H
+URN-1167,  Giyim Ürün 250 ,Mobilya,5120.10,200,20,Alfa Ltd,%18,22.07.2025,E
+URN-1331,SPOR ÜRÜN 313,Kozmetik,?,1012,100,Gama Tic,10,2024-01-15,H
+URN-1453,oyuncak ürün 933,Mobilya,"4.267,93",11,10,Gama Tic,%20,bilinmiyor,0
+URN-1102,ELEKTRONIK ÜRÜN 825,Kozmetik,5506.54,1314,100,Gama Tic,18,02/05/2026,true
+URN-1355,GIYIM ÜRÜN 529,Gıda,1669.04,606,50,Beta A.Ş,1,24.01.2025,E
+URN-1410,Mobilya Ürün 624,-,2606.68,160,10,N/A,18,31.03.2024,false
+URN-1200,gıda ürün 926,Kozmetik,"6.692,98",null,10,Delta San,20,28.05.2026,0
+URN-1473,Giyim Ürün 502,Kozmetik,7452.82,1402,10,Beta A.Ş,10,2024-04-13,E
+URN-1108,  Kozmetik Ürün 222 , ,3434.96,1041,50,Beta A.Ş,1,2025-07-27,1
+URN-1385,  Spor Ürün 295 ,-,abc,1158,20,Epsilon,8,2024-09-13,1
+URN-1384,giyim ürün 530,Giyim,2019.74,1443,20,Delta San,1,2025-04-07,E
+URN-1076,mobilya ürün 32,Kırtasiye,"92,14",158,50,Gama Tic,8,18.08.2025,E
+URN-1110,Spor Ürün 607,Oyuncak,1356.47,1438,20,Beta A.Ş,%18,N/A,1
+URN-1207,Oyuncak Ürün 310,Kozmetik,3151.18,919,20,Beta A.Ş,1,2025-09-26,0
+URN-1365,kırtasiye ürün 553,Spor,"2.553,41",1500,50,Alfa Ltd,8,null,true
+URN-1214,  Mobilya Ürün 3 ,Kozmetik,6421.84,242,50,Beta A.Ş,1,2025-10-24,hayır
+URN-1202,Kozmetik Ürün 7,Spor,4275.79,409,100,Delta San,%18,yok,1
+URN-1412,Oyuncak Ürün 211,Kırtasiye,"6.233,78",1370,10,Epsilon,8,21.04.2024,true
+URN-1364,Giyim Ürün 550,Giyim,914.94,939,50,Gama Tic,20, ,false
+URN-1042,Gıda Ürün 200,Spor,"4.593,87",638,50,Beta A.Ş,10,30/09/2024,1
+URN-1236,ELEKTRONIK ÜRÜN 579,Gıda,"5.154,05",948,50,Gama Tic,8,15.05.2025,evet
+URN-1241,  Kırtasiye Ürün 200 ,Kırtasiye,"3.985,86",671,100,Delta San,%18,08.05.2025,E
+URN-1318,Kırtasiye Ürün 706,Mobilya,"4.559,50",157,20,Gama Tic,20,2024-11-26,hayır
+URN-1117,elektronik ürün 715,Oyuncak,"2.453,65",bilinmiyor,20,Alfa Ltd,1,27/06/2024,hayır
+URN-1267,SPOR ÜRÜN 823,Kozmetik,"6.595,97",1367,10,Epsilon,%20,26.03.2024,evet
+URN-1392,Giyim Ürün 21,Elektronik,2744.83,748,100,Delta San,18,2025-11-30,1
+URN-1219,Kozmetik Ürün 738,Spor,"6.287,03",698,100,Epsilon,10,2025-10-29,true
+URN-1369,Spor Ürün 854,Kırtasiye,5596.15,1174,20,yok,10,-,0
+URN-1351,Kozmetik Ürün 781,Oyuncak,3848.80,582,20,Beta A.Ş,1,24/04/2025,E
+URN-1375,ELEKTRONIK ÜRÜN 209,Giyim,7735.34,925,100,Epsilon,%18,2025-05-25,evet
+URN-1257,oyuncak ürün 369,Kozmetik,"1.886,16",874,50,Delta San,8,27.01.2024,hayır
+URN-1218,MOBILYA ÜRÜN 500,Kırtasiye,abc,377,50,Beta A.Ş,1,2025-03-11,hayır
+URN-1098,Oyuncak Ürün 471,n/a,"5.256,68",1328,10,NaN,18,31/01/2025,false
+URN-1252,GIYIM ÜRÜN 592,Spor,"4.172,55",685,50,Gama Tic,%18,23/11/2024,evet
+URN-1001,GIYIM ÜRÜN 590,n/a,"5.990,83",bilinmiyor,100,Alfa Ltd,%18,05/04/2026,evet
+URN-1155,mobilya ürün 995,Spor,"6.546,60",yok,50,Gama Tic,18,15.06.2026,E
+URN-1399,Gıda Ürün 15,bilinmiyor,"6.041,44",429,20,Epsilon,20,17.04.2024,0
+URN-1075,GIDA ÜRÜN 20,Elektronik,"2.990,69",1238,100,Alfa Ltd,%20,30.07.2024,evet
+URN-1386,oyuncak ürün 27,-,4492.99,NaN,10,n/a,1,2024-10-28,evet
+URN-1371,Oyuncak Ürün 109,Kozmetik,4742.67,375,10, ,8,10/03/2024,0
+URN-1491,  Spor Ürün 465 ,Spor,1779.74,449,20,Delta San,8,2026-01-20,hayır
+URN-1308,KOZMETIK ÜRÜN 627,Kırtasiye,"7.905,08",993,10,yok,%20,08.04.2025,evet
+URN-1229,Elektronik Ürün 775,Kozmetik,"861,21",739,100,yok,1,2025-03-06,evet
+URN-1256,Oyuncak Ürün 761,Mobilya,3220.41,884,100,Gama Tic,%18, ,true
+URN-1476,kırtasiye ürün 400,Kozmetik,"2.118,40",107,20,Gama Tic,18,24/07/2025,1
+URN-1496,OYUNCAK ÜRÜN 72,Mobilya,580.50,733,20,n/a,%20,-,evet
+URN-1456,kırtasiye ürün 773,Oyuncak,1219.09,1059,100,Gama Tic,8,18/06/2026,1
+URN-1497,Elektronik Ürün 253,Giyim,185.39,785,50,Delta San,18,05.02.2026,H
+URN-1217,Giyim Ürün 19,Spor,"3.451,54",1130,50,Delta San,%20,08.12.2024,E
+URN-1248,Giyim Ürün 206,Spor,"6.155,16",1352,10,Delta San,10,27.09.2024,E
+URN-1471,kırtasiye ürün 276,Oyuncak,5160.26,301,10,Epsilon,20,2024-09-23,1
+URN-1231,Mobilya Ürün 73,Giyim,3831.78,1000,50,Gama Tic,1,16/05/2024,0
+URN-1288,Spor Ürün 128,Mobilya,4529.84,469,20,Alfa Ltd,20,30/01/2026,hayır
+URN-1344,Gıda Ürün 783,Mobilya,2369.85, ,10,Beta A.Ş,1,28.08.2024,E
+URN-1024,  Kozmetik Ürün 916 ,N/A,7457.81,698,50,Epsilon,%20,26/05/2024,false
+URN-1039,spor ürün 324,Oyuncak,"1.481,34",bilinmiyor,20,Beta A.Ş,10,03/04/2026,E
+URN-1165,OYUNCAK ÜRÜN 375,Spor,"2.320,77",272,50,Gama Tic,10,24.03.2026,H
+URN-1276,elektronik ürün 786,Gıda,"834,84",574,20,Gama Tic,8,2025-10-15,hayır
+URN-1381,ELEKTRONIK ÜRÜN 166,Kırtasiye,"3.925,17",627,10,Epsilon,1,23/10/2025,hayır
+URN-1169,MOBILYA ÜRÜN 517,Spor,3028.90,783,100,Epsilon,1,31/08/2025,1
+URN-1284,Mobilya Ürün 286,Kozmetik,"313,72",1377,10,Alfa Ltd,8,24/02/2024,E
+URN-1175,GIYIM ÜRÜN 638,Kırtasiye,3546.54,462,20,Gama Tic,18,24.04.2025,false
+URN-1441,KIRTASIYE ÜRÜN 761,Mobilya,7943.89,577,20,Gama Tic,18,2024-02-28,H
+URN-1180,ELEKTRONIK ÜRÜN 509,Giyim,7227.26,431,20,Gama Tic,%18,2025-08-22,false
+URN-1063,Mobilya Ürün 226,Kozmetik,6100.28,866,100,Gama Tic,%18,N/A,E
+URN-1171,Spor Ürün 704,Gıda,"7.078,75",1100,10,Beta A.Ş,18,03/09/2025,H
+URN-1188,SPOR ÜRÜN 649,Giyim,7332.80,308,100,null,10,2024-04-30,H
+URN-1005,  Kozmetik Ürün 701 ,Giyim,2983.46,362,100,Gama Tic,18,2025-02-02,E
+URN-1077,kozmetik ürün 647,Spor,782.93,746,100,bilinmiyor,10,2025-07-29,0
+URN-1322,Mobilya Ürün 86,Giyim,181.48,979,10,Delta San,20,2024-01-25,H
+URN-1266,MOBILYA ÜRÜN 598,Kırtasiye,"3.123,12",N/A,50,Delta San,20,01.01.2026,H
+URN-1442,GIYIM ÜRÜN 659,Kozmetik,303.31,1133,10,Gama Tic,10,29.01.2024,0
+URN-1493,Oyuncak Ürün 291,Elektronik,"3.521,00",1493,100,Epsilon,10,2024-12-09,hayır
+URN-1325,Giyim Ürün 918,Gıda,6635.47,273,100,Alfa Ltd,1,04/02/2024,evet
+URN-1461,  Spor Ürün 334 ,Oyuncak,?,null,20,Epsilon,%20,03.10.2025,hayır
+URN-1422,SPOR ÜRÜN 551,Mobilya,244.43,465,10,Beta A.Ş,%20,n/a,H
+URN-1196,elektronik ürün 895,Spor,"4.400,73",yok,10,Alfa Ltd,18,2026-01-06,E
+URN-1297,Oyuncak Ürün 89,Elektronik,1177.51,null,20,yok,%20,12/06/2026,evet
+URN-1064,Elektronik Ürün 529,n/a,7999.94,1230,10,Gama Tic,18,17.02.2025,E
+URN-1299,Spor Ürün 245,Oyuncak,?,597,50,Beta A.Ş,18,14/04/2026,0
+URN-1086,Spor Ürün 461,Kozmetik,"1.225,66",NaN,100,Alfa Ltd,18,2024-08-12,hayır
+URN-1258,  Elektronik Ürün 594 ,,"3.411,83",390,100,Epsilon,%20,24/05/2024,false
+URN-1193,  Giyim Ürün 291 ,Elektronik,"1.693,20",1455,50,Gama Tic,10,2024-06-18,true
+URN-1494,  Spor Ürün 943 ,Mobilya,"1.707,47",1048,10,Gama Tic,%20,15.04.2025,hayır
+URN-1315,Mobilya Ürün 621,Giyim,1355.52,1019,50,Delta San,1,23.01.2025,1
+URN-1462,Kozmetik Ürün 227,,"5.688,53",666,100,Epsilon,%18,26/12/2024,true
+URN-1242,KIRTASIYE ÜRÜN 155,Mobilya,"934,73",139,20,Gama Tic,8,16/06/2025,E
+URN-1189,Kırtasiye Ürün 495,Oyuncak,"2.395,71",329,20,Beta A.Ş,8,2024-10-22,0
+URN-1061,Gıda Ürün 923,Elektronik,"4.581,12",1437,10,Gama Tic,10,2025-03-24,true
+URN-1100,oyuncak ürün 107,Oyuncak,4098.30,754,20,Gama Tic,1,08/10/2024,false
+URN-1346,KIRTASIYE ÜRÜN 525,Spor,7288.13,826,20,Delta San,18,28/08/2024,H
+URN-1067,Mobilya Ürün 314,Gıda,"7.218,73",284,10,Delta San,8,2025-08-11,H
+URN-1158,Elektronik Ürün 365,Elektronik,7104.68,n/a,50,Gama Tic,8,31.12.2025,evet
+URN-1478,elektronik ürün 237,Gıda,"6.167,02",1314,10,Alfa Ltd,1,09.05.2026,0
+URN-1215,Oyuncak Ürün 61,Kırtasiye,"1.500,34",N/A,50,Delta San,%20,2025-09-28,1
+URN-1416,Spor Ürün 711,Mobilya,"2.416,56",1321,50,Delta San,8,11.10.2024,E
+URN-1337,elektronik ürün 744,Gıda,551.29,293,20,Delta San,%18,2025-10-03,false
+URN-1036,  Kırtasiye Ürün 23 ,Giyim,"5.842,64",140,50, ,20,2024-11-06,0
+URN-1357,ELEKTRONIK ÜRÜN 270,Elektronik,"5.187,78",332,100,Beta A.Ş,%20,26.07.2025,0
+URN-1096,SPOR ÜRÜN 597,Spor,619.05,1263,50,Gama Tic,18,07/06/2024,true
+URN-1223,  Mobilya Ürün 230 ,Giyim,"3.684,15",194,50,Beta A.Ş,18,26.07.2025,H
+URN-1187,mobilya ürün 685,Oyuncak,"1.908,00",1062,50,Epsilon,10,yok,1
+URN-1311,Giyim Ürün 450,Elektronik,"6.326,96",1088,50,Beta A.Ş,1,05/05/2026,hayır
+URN-1163,gıda ürün 100,Spor,yaklasik 1000,629,20,Beta A.Ş,8,23/07/2025,hayır
+URN-1045,ELEKTRONIK ÜRÜN 840,Gıda,"5.188,65",703,20,Epsilon,20,2025-07-30,true
+URN-1403,  Spor Ürün 633 ,Kırtasiye,2631.28,1253,50,Delta San,1,15/04/2024,E
+URN-1220,GIYIM ÜRÜN 738,Giyim,"5.727,71",102,100,bilinmiyor,%20,N/A,evet
+URN-1271,KIRTASIYE ÜRÜN 103,Giyim,1228.59,172,100,bilinmiyor,%18,2026-01-24,H
+URN-1047,Oyuncak Ürün 196,Kozmetik,1565.20,739,100,Gama Tic,18,24/05/2024,true
+URN-1058,Kırtasiye Ürün 413,-,"2.337,78",618,20,Alfa Ltd,18,2024-02-08,hayır
+URN-1388,Mobilya Ürün 885,Gıda,7109.57,262,10,Beta A.Ş,10,2024-11-21,H
+URN-1084,Kozmetik Ürün 462,Giyim,7103.31, ,10,Alfa Ltd,18,2025-09-17,0
+URN-1480,ELEKTRONIK ÜRÜN 298,null,"1.612,51",NaN,10,Epsilon,10,01.11.2024,1
+URN-1459,elektronik ürün 639,Oyuncak,"7.914,80",307,20,Alfa Ltd,18,17.04.2024,hayır
+URN-1022,Oyuncak Ürün 291,Elektronik,"2.620,07",45,100,Gama Tic,1,28.04.2025,H
+URN-1350,Kırtasiye Ürün 265,Spor,"476,02",963,100,Gama Tic,8,30.10.2025,0
+URN-1192,Giyim Ürün 568,Kozmetik,2706.42,N/A,50,Gama Tic,10,03.07.2025,0
+URN-1409,GIYIM ÜRÜN 392,Spor,812.51,507,100,Epsilon,20,17/11/2025,evet
+URN-1097,oyuncak ürün 900,N/A,5177.93,429,10,Beta A.Ş,18,2025-07-29,evet
+URN-1477,ELEKTRONIK ÜRÜN 363,Elektronik,5561.45,889,100,Delta San,10,11/05/2024,E
+URN-1391,kozmetik ürün 945,Gıda,"4.170,32",1470,100,Alfa Ltd,20,16.06.2024,1
+URN-1300,Gıda Ürün 567,Kozmetik,4955.60,1235,10,N/A,10,15.03.2024,1
+URN-1182,Oyuncak Ürün 364,Oyuncak,"5.264,79",1033,50,N/A,18,08/07/2025,true
+URN-1328,kırtasiye ürün 256,Gıda,"6.892,39",39,10,Epsilon,%20,30.06.2024,evet
+URN-1029,OYUNCAK ÜRÜN 204,Mobilya,"6.688,71",401,10,Alfa Ltd,10,24.02.2026,evet
+URN-1421,Giyim Ürün 481,Elektronik,5102.88,1015,50,Beta A.Ş,10,26.03.2024,false
+URN-1178,GIDA ÜRÜN 263,Spor,"6.414,14",1078,20,Delta San,%20,2025-11-24,0
+URN-1359,gıda ürün 979,Gıda,"705,95",635,20,Beta A.Ş,%18,05.08.2024,hayır
+URN-1073,KIRTASIYE ÜRÜN 824,Elektronik,2841.13,781,100,Epsilon,10,15.10.2024,E
+URN-1025,Oyuncak Ürün 899,Elektronik,4486.35,,50,Beta A.Ş,%20,2025-11-11,H
+URN-1092,  Giyim Ürün 343 ,Kırtasiye,"6.364,78",yok,50,Beta A.Ş,18,30/12/2024,false
+URN-1103,MOBILYA ÜRÜN 373,Oyuncak,"1.154,96",1078,100,Beta A.Ş,10,2025-09-26,1
+URN-1472,Spor Ürün 282,Kırtasiye,"6.091,66",1406,100,Delta San,%18,17.05.2024,E
+URN-1460,GIDA ÜRÜN 306,Gıda,"3.138,35",543,100,Delta San,10,2026-03-22,1
+URN-1413,KOZMETIK ÜRÜN 31,Giyim,213.44,1120,20,Delta San,10,13.08.2025,E
+URN-1279,Spor Ürün 865,Gıda,"7.241,69",673,20,Delta San,%20,2025-10-27,hayır
+URN-1010,Mobilya Ürün 826,Giyim,"2.574,71",1378,20,Delta San,%18,10.02.2026,H
+URN-1091,GIDA ÜRÜN 665,Spor,"4.986,41",952,20,Alfa Ltd,8,28/11/2024,false
+URN-1186,Spor Ürün 25,Kozmetik,"7.987,42",154,10,Gama Tic,%18,05.03.2025,H
+URN-1452,spor ürün 759,Elektronik,6932.29,1074,10,Gama Tic,20,2025-06-15,evet
+URN-1176,GIDA ÜRÜN 387,Gıda,5614.04,955,50,Epsilon,%20,22.11.2025,false
+URN-1071,Giyim Ürün 166,Oyuncak,"7.966,67",368,100,Alfa Ltd,10,12.02.2024,evet
+URN-1261,Giyim Ürün 741,Kozmetik,"3.874,18",196,10,Alfa Ltd,18,12/12/2025,E
+URN-1443,Spor Ürün 485,N/A,1356.63,1210,100,-,10,13.02.2024,false
+URN-1352,MOBILYA ÜRÜN 117,Oyuncak,7501.84,1305,50,Epsilon,%18,30/05/2024,0
+URN-1446,Elektronik Ürün 673,Gıda,4542.43,951,100,Beta A.Ş,1,02/12/2024,1
+URN-1065,Mobilya Ürün 348,Kırtasiye,5789.09,791,20,Gama Tic,18,30/08/2025,false
+URN-1161,MOBILYA ÜRÜN 479,Gıda,"914,28",474,50,Gama Tic,18,2025-08-28,0
+URN-1483,SPOR ÜRÜN 986,Elektronik,2170.80,n/a,100,Alfa Ltd,10,09.02.2025,H
+URN-1247,MOBILYA ÜRÜN 151,Gıda,"2.186,59",817,10,Beta A.Ş,18,23.01.2024,evet
+URN-1069,Kırtasiye Ürün 72,N/A,4641.11,540,50,Delta San,%18,07.06.2026,hayır
+URN-1082,elektronik ürün 45,Kozmetik,5105.06,n/a,10,Delta San,8,2026-01-21,H
+URN-1373,Kozmetik Ürün 878,Kozmetik,3650.12,936,100,Alfa Ltd,18,2024-03-08,evet
+URN-1304,Mobilya Ürün 115,Elektronik,3290.02,196,20,Delta San,18,12/04/2026,false
+URN-1089,Giyim Ürün 381,Oyuncak,21.56,294,100,Alfa Ltd,20,19/10/2025,evet
+URN-1280,spor ürün 128,Giyim,"3.068,80",540,20,Epsilon,18,19.06.2025,false
+URN-1017,Kozmetik Ürün 486,Mobilya,7817.90,340,20,Alfa Ltd,1,04/08/2025,H
+URN-1177,kırtasiye ürün 549,Gıda,"914,87",256,50,Gama Tic,8,02.03.2024,true
+URN-1109,  Spor Ürün 502 ,Kozmetik,"5.817,88",395,100,N/A,20,09.10.2024,true
+URN-1438,oyuncak ürün 151,Kırtasiye,"2.317,42",110,100,Beta A.Ş,18,17.05.2024,0
+URN-1074,  Kırtasiye Ürün 476 ,Kozmetik,6407.46,860,10,Alfa Ltd,%20,06/10/2024,0
+URN-1131,gıda ürün 421,Oyuncak,"327,22",308,50,Gama Tic,8,n/a,evet
+URN-1027,Mobilya Ürün 62, ,4744.38,71,20,Delta San,20,17.06.2025,evet
+URN-1037,Spor Ürün 790,Gıda,3977.21,924,10,Delta San,18,NaN,false
+URN-1405,Kırtasiye Ürün 141,Giyim,"2.523,13",1476,100,Delta San,20,24/03/2024,true
+URN-1333,spor ürün 969,N/A,"3.710,20",361,100,Alfa Ltd,10,25/04/2024,H
+URN-1253,MOBILYA ÜRÜN 392,Kırtasiye,"2.588,52",n/a,50,Epsilon,1,2026-03-02,true
+URN-1251,Mobilya Ürün 726,yok,2426.56,896,50,Alfa Ltd,20,2024-04-14,true
+URN-1334,Elektronik Ürün 546,Kozmetik,"2.585,23",637,100,Gama Tic,%18,26.11.2025,true
+URN-1183,Spor Ürün 584,Kozmetik,"6.431,86",1346,20,Delta San,1,2024-06-09,hayır
+URN-1243,Kozmetik Ürün 404,Elektronik,"1.091,16",713,10,Delta San,20,bilinmiyor,H
+URN-1296,Oyuncak Ürün 729,Spor,"2.864,07",1396,20,n/a,8,01/04/2024,H
+URN-1049,Giyim Ürün 170,Spor,"179,42",1297,20,Epsilon,20,n/a,H
+URN-1145,Oyuncak Ürün 336,Mobilya,5054.67,378,20,Beta A.Ş,%20,31.01.2024,H
+URN-1007,KOZMETIK ÜRÜN 608,yok,"7.263,59",669,50,Alfa Ltd,10,02/12/2024,hayır
+URN-1138,giyim ürün 375,Gıda,"3.036,08",,100,N/A,10,13/03/2026,H
+URN-1156,kozmetik ürün 98,Elektronik,7526.12,709,20,Alfa Ltd,20,04.09.2024,true
+URN-1245,Giyim Ürün 17,Gıda,"2.192,06",638,100,Gama Tic,10,2026-03-12,0
+URN-1080,Kozmetik Ürün 861,Elektronik,"2.234,40",1109,100,Gama Tic,10,14.06.2026,hayır
+URN-1123,Giyim Ürün 678,Elektronik,"5.356,39",NaN,10,Gama Tic,%20,05/06/2024,1
+URN-1009,gıda ürün 413,Spor,yaklasik 1000,n/a,50,Epsilon,%20,2025-07-03,evet
+URN-1159,KIRTASIYE ÜRÜN 123,Mobilya,3733.63,1217,100,Epsilon,%20,yok,hayır
+URN-1203,MOBILYA ÜRÜN 275,N/A,"3.689,41",1364,10,Delta San,%20,19.05.2024,evet
+URN-1099,Kozmetik Ürün 692,Kırtasiye,"5.221,75",1472,100,-,10,02/10/2024,H
+URN-1128,Spor Ürün 610,Elektronik,"7.370,03",168,50,Gama Tic,%18,22.07.2025,evet
+URN-1050,Mobilya Ürün 985,Gıda,3651.90,1368,20,Epsilon,1,20/04/2025,hayır
+URN-1099,Kozmetik Ürün 692,Kırtasiye,"5.221,75",1472,100,-,10,02/10/2024,H
+URN-1262,oyuncak ürün 61,Giyim,?,980,10,Gama Tic,%18,06/01/2026,0
+URN-1433,giyim ürün 229,Spor,1078.51,1229,100,Alfa Ltd,%18,2024-11-26,0
+URN-1083,elektronik ürün 447,Gıda,5387.92,1181,10,Alfa Ltd,%20,2025-10-09,E
+URN-1012,  Gıda Ürün 620 ,Gıda,4416.52,39,100,Beta A.Ş,8,03.02.2026,E
+URN-1041,Giyim Ürün 846,Kozmetik,"6.760,64",1287,20,Beta A.Ş,8,17.02.2025,0
+URN-1184,elektronik ürün 857,Kozmetik,2758.11,603,100,Alfa Ltd,%20,2026-06-10,true
+URN-1204,Mobilya Ürün 699,Kırtasiye,"6.668,15",1405,10,Beta A.Ş,%20,2025-04-18,E
+URN-1166,kozmetik ürün 949,Mobilya,"6.513,29",851,50,Beta A.Ş,%20,-,0
+URN-1330,GIDA ÜRÜN 8,Gıda,"6.221,96",1003,50, ,10,15.03.2026,0
+URN-1382,Mobilya Ürün 775,NaN,"1.394,94",278,20,Epsilon,8,2024-02-20,evet
+URN-1124,KIRTASIYE ÜRÜN 430,Oyuncak,"1.958,57",321,20,Alfa Ltd,10,01/08/2024,true
+URN-1122,kırtasiye ürün 873,Kozmetik,5043.09,975,20,Delta San,10,08.01.2024,1
+URN-1431,Kırtasiye Ürün 477,Elektronik,7465.04,927,10,Epsilon,18,17/04/2024,1
+URN-1303,Spor Ürün 977,Oyuncak,379.66,16,10,Beta A.Ş,18,19/01/2024,false
+URN-1150,ELEKTRONIK ÜRÜN 276,Elektronik,"660,15",258,20,Alfa Ltd,20,20.05.2025,H
+URN-1030,Kozmetik Ürün 805,Gıda,4524.91,969,20,-,1,2024-02-14,evet
+URN-1178,GIDA ÜRÜN 263,Spor,"6.414,14",1078,20,Delta San,%20,2025-11-24,0
+URN-1046,Gıda Ürün 23,null,330.03,108,50,Epsilon,18,2024-03-15,true
+URN-1363,SPOR ÜRÜN 785,Elektronik,5036.37,1196,20,Delta San,10,11.10.2025,1
+URN-1038,  Spor Ürün 506 ,Kozmetik,"7.485,71",200,20,Delta San,8,22/12/2024,false
+URN-1111,OYUNCAK ÜRÜN 799,Gıda,3251.80,683,100,Beta A.Ş,1,2024-02-23,evet
+URN-1137,SPOR ÜRÜN 582,Mobilya,"1.832,00",829,10,Epsilon,20,-,false
+URN-1401,Oyuncak Ürün 289,Oyuncak,1853.48,105,50,Alfa Ltd,18,19.06.2024,evet
+URN-1066,Giyim Ürün 227,Giyim,"2.574,23",742,100,Alfa Ltd,10,18/12/2025,E
+URN-1011,spor ürün 417,Elektronik,"7.677,42",170,100,Beta A.Ş,10,02/12/2025,evet
+URN-1440,SPOR ÜRÜN 395,Giyim,"1.972,98",1357,50,Delta San,18,03/08/2025,1
+URN-1469,Gıda Ürün 68,bilinmiyor,6417.23,1048,20,yok,%20,25.08.2024,evet
+URN-1336,GIYIM ÜRÜN 678,-,"7.813,79",462,50,Epsilon,18,26.05.2024,E
+URN-1281,OYUNCAK ÜRÜN 314,Giyim,5638.05,1017,10,Beta A.Ş,20,2025-12-31,false
+URN-1112,Kozmetik Ürün 329,Kırtasiye,"3.105,70",1459,10,Beta A.Ş,10,18.04.2024,E
+URN-1487,  Kozmetik Ürün 742 ,Elektronik,7758.21,897,20,Delta San,%18,11/09/2025,1
+URN-1157,ELEKTRONIK ÜRÜN 8,Kırtasiye,5434.92,1459,20,-,10,bilinmiyor,true
+URN-1059,GIYIM ÜRÜN 327,Oyuncak,"5.296,03",965,50,Delta San,10,18.02.2025,E
+URN-1174,gıda ürün 72,Mobilya,6071.87,998,10,Epsilon,20,-,E
+URN-1289,elektronik ürün 628,Gıda,"6.431,73",1166,50,Gama Tic,10,17.07.2024,H
+URN-1213,MOBILYA ÜRÜN 322,Elektronik,644.51,702,10,Delta San,8,26.03.2026,false
+URN-1306,giyim ürün 830,Oyuncak,1497.27,1449,100,Gama Tic,8,2025-03-31,false
+URN-1418,Giyim Ürün 51,Giyim,"5.249,64",1395,100,Beta A.Ş,%18,11/11/2025,hayır
+URN-1043,Giyim Ürün 970,Mobilya,5185.01,191,10,Gama Tic,%20,28.08.2025,1
+URN-1149,Spor Ürün 926,Gıda,"5.031,00",510,20,Beta A.Ş,%18,24.01.2026,hayır
+URN-1378,KIRTASIYE ÜRÜN 290,Elektronik,"6.091,59",925,10,Delta San,%20,23.01.2026,1
+URN-1053,kozmetik ürün 634,Gıda,"7.141,10",99,100,Epsilon,%18,17.03.2025,true
+URN-1415,KOZMETIK ÜRÜN 360,Kırtasiye,"5.208,82",778,50,,%18,2024-09-27,false
+URN-1309,spor ürün 656,Gıda,"7.951,17",187,20,bilinmiyor,1,2025-03-06,E
+URN-1310,Kırtasiye Ürün 212,Giyim,4643.16,1290,50,Alfa Ltd,%18,09.03.2025,0
+URN-1101,Gıda Ürün 434,Spor,3850.93,918,10,Gama Tic,1,08.12.2025,hayır
+URN-1106,Kozmetik Ürün 919,Spor,"4.181,64",325,10,bilinmiyor,20,27/09/2024,hayır
+URN-1034,elektronik ürün 845,Mobilya,5649.32,503,10,,20,2024-12-14,evet
+URN-1041,Giyim Ürün 846,Kozmetik,"6.760,64",1287,20,Beta A.Ş,8,17.02.2025,0
+URN-1233,GIYIM ÜRÜN 611,Elektronik,"7.136,60",609,100,Beta A.Ş,8,12.07.2024,evet
+URN-1182,Oyuncak Ürün 364,Oyuncak,"5.264,79",1033,50,N/A,18,08/07/2025,true
+URN-1060,KOZMETIK ÜRÜN 969,Oyuncak,"4.328,21", ,50,Delta San,%18,2024-09-25,0
+URN-1481,Spor Ürün 768,null,"2.506,10",1245,100,Beta A.Ş,20,2024-03-12,false
+URN-1319,OYUNCAK ÜRÜN 893,Mobilya,"7.387,81",bilinmiyor,100,Beta A.Ş,8,30/12/2025,hayır
+URN-1090,Elektronik Ürün 335, ,"7.603,00",987,100,yok,8,2024-10-09,false
+URN-1129,Mobilya Ürün 44,Kırtasiye,707.58,960,100,Alfa Ltd,%20,03.11.2025,H
+URN-1222,Kozmetik Ürün 697,Oyuncak,5836.85,190,10,Delta San,18,17.02.2025,H
+URN-1278,SPOR ÜRÜN 958,Gıda,abc,168,50,Epsilon,10,12.04.2026,evet
+URN-1033,Gıda Ürün 483,Mobilya,"7.412,45",789,10,Epsilon,%20,2025-02-17,H
+URN-1294,KIRTASIYE ÜRÜN 474,yok,"5.756,73",1145,10,Gama Tic,18,23/10/2024,false
+URN-1232,Kozmetik Ürün 537,Oyuncak,441.45,1113,20,Epsilon,20,31.12.2025,1
+URN-1465,Oyuncak Ürün 704,Kırtasiye,"4.452,34",1242,10,Beta A.Ş,%20,03/06/2026,0
+URN-1230,Giyim Ürün 425,Giyim,"5.551,84",838,20,Beta A.Ş,20,23.11.2025,E
+URN-1002,kozmetik ürün 879,Kırtasiye,"4.582,32",925,10,Epsilon,20,yok,E
+URN-1142,  Gıda Ürün 523 ,Kozmetik,"327,94",1447,20,Epsilon,18,19.08.2025,0
+URN-1107,Kozmetik Ürün 682,Elektronik,3668.42,21,50,Delta San,10,,H
+URN-1181,Kırtasiye Ürün 140,Giyim,"1.085,53",1435,50,Gama Tic,1,12/04/2024,1
+URN-1490,Mobilya Ürün 544,Spor,"3.127,60",1098,50,Epsilon,8,28/04/2026,false
+URN-1120,Elektronik Ürün 709,Giyim,"7.969,14",1353,10,Beta A.Ş,18,2024-12-14,1
+URN-1164,Kozmetik Ürün 259,Spor,yaklasik 1000,1446,20,N/A,10,29.11.2024,0
+URN-1285,Spor Ürün 797,Mobilya,6570.57,1436,100,Epsilon,8,10.07.2024,E
+URN-1225,spor ürün 75,Spor,"1.996,72",957,100,Alfa Ltd,10,27.01.2024,hayır
+URN-1255,  Mobilya Ürün 33 ,Gıda,1934.74,1221,10,Beta A.Ş,10,07.03.2024,true
+URN-1464,Gıda Ürün 718,Kırtasiye,"2.860,45",693,50,Epsilon,%18,09/05/2024,1
+URN-1316,Spor Ürün 652,Oyuncak,3870.48,385,20,Gama Tic,1,09/07/2024,0
+URN-1191,Giyim Ürün 579,Spor,"6.935,92",141,50,Gama Tic,10,25.04.2024,false
+URN-1020,Spor Ürün 392,Kozmetik,"2.542,61",1146,20,Alfa Ltd,18,25.04.2025,E
+URN-1195,Oyuncak Ürün 82,Kozmetik,"5.189,61",1047,10,Gama Tic,%20,2024-02-18,evet
+URN-1172,oyuncak ürün 705,Kırtasiye,"1.807,20", ,50,null,%18,14/07/2024,true
+URN-1500,giyim ürün 220,Kozmetik,"7.536,69",708,20,Beta A.Ş,18,2025-02-16,evet
+URN-1068,Elektronik Ürün 26,Gıda,759.28,381,10,Delta San,1,2025-03-16,H
+URN-1237,Mobilya Ürün 868,Gıda,6519.82,352,20,Epsilon,18,2026-01-26,1
+URN-1023,Mobilya Ürün 762,Giyim,3729.25,569,10,Beta A.Ş,%20,04/03/2024,E
+URN-1329,Elektronik Ürün 638,Spor,3192.66,1210,20,Gama Tic,18,2026-04-17,H
+URN-1154,spor ürün 320,Spor,"7.852,88",128,20,Beta A.Ş,%20,2025-07-07,true
+URN-1447,Kozmetik Ürün 940,Oyuncak,6336.22,296,100,Delta San,%20,24.03.2024,E
+URN-1335,GIDA ÜRÜN 70, ,2789.83,692,20,-,20,18.08.2025,E
+URN-1467,Mobilya Ürün 493,Kırtasiye,"447,21", ,10,Delta San,20,05.08.2025,1
+URN-1226,Kırtasiye Ürün 230,Gıda,"2.773,94",bilinmiyor,20,Beta A.Ş,18,09.02.2024,hayır
+URN-1209,oyuncak ürün 662,Mobilya,"3.698,28",565,50,Gama Tic,18,2025-11-11,hayır
+URN-1482,Elektronik Ürün 857,Gıda,3942.34,140,20,Epsilon,18,26/03/2026,hayır
+URN-1366,Gıda Ürün 387,Elektronik,"6.426,91",358,20,Alfa Ltd,8,21/05/2024,H
+URN-1324,Kozmetik Ürün 183,Oyuncak,7593.00,541,10,Alfa Ltd,10,29.11.2024,E
+URN-1358,Oyuncak Ürün 899,Spor,3328.26,366,100,Epsilon,1,2024-03-08,hayır
+URN-1498,MOBILYA ÜRÜN 74,Spor,1312.81,4,10,Gama Tic,20,22.01.2024,evet
+URN-1313,gıda ürün 980,Mobilya,4350.58,482,50,,%20,31.12.2024,1
+URN-1250,Kırtasiye Ürün 535,Elektronik,"7.672,66",366,100,Alfa Ltd,%20,2025-02-11,false
+URN-1263,ELEKTRONIK ÜRÜN 448,Kozmetik,2845.54,995,50,Beta A.Ş,%18,21/01/2025,H
+URN-1094,Mobilya Ürün 400,Mobilya,1056.91,883,10,Gama Tic,20,18.07.2025,0
+URN-1264,  Gıda Ürün 151 ,Kırtasiye,"6.897,57",989,100,Beta A.Ş,10,03/07/2024,hayır
+URN-1286,  Kırtasiye Ürün 258 ,Gıda,6179.88,950,50,N/A,%20,01.07.2025,false
+URN-1221,oyuncak ürün 577,Kozmetik,4026.30,1174,50,Delta San,8,2025-03-09,E
+URN-1240,Spor Ürün 193,yok,7745.31,877,50,Gama Tic,8,bilinmiyor,1
+URN-1449,Oyuncak Ürün 534,Elektronik,"95,93",222,50,Alfa Ltd,1,01.11.2025,1
+URN-1488,SPOR ÜRÜN 698,Mobilya,4818.66,133,20,Epsilon,18,05.05.2026,hayır
+URN-1372,kozmetik ürün 577,Gıda,6332.02,null,10,Gama Tic,10,01.02.2025,hayır
+URN-1287,Giyim Ürün 942,Oyuncak,7031.53,1015,100,Beta A.Ş,10,2024-10-09,hayır
+URN-1463,Kırtasiye Ürün 862,Elektronik,yaklasik 1000,1172,50,Gama Tic,%20,bilinmiyor,false
+URN-1383,ELEKTRONIK ÜRÜN 480,Kırtasiye,2468.90,bilinmiyor,100,Gama Tic,8,2024-07-09,evet
+URN-1395,Mobilya Ürün 315,Mobilya,3453.85,413,100,Gama Tic,%18,06.12.2025,hayır
+URN-1161,MOBILYA ÜRÜN 479,Gıda,"914,28",474,50,Gama Tic,18,2025-08-28,0
+URN-1015,giyim ürün 45,Spor,3094.14,41,100, ,%20,10/10/2024,true
+URN-1429,Gıda Ürün 385,Elektronik,4819.21,1006,50,Alfa Ltd,%20,04/02/2024,1
+URN-1379,kırtasiye ürün 346,yok,6480.06,357,100,Delta San,20,11.01.2026,E
+URN-1389,elektronik ürün 57,Kırtasiye,1952.71,1005,20,Alfa Ltd,18,04.03.2026,hayır
+URN-1340,Kırtasiye Ürün 483,Spor,2831.27,710,20,Epsilon,%18,,E
+URN-1407,SPOR ÜRÜN 886,Oyuncak,"2.183,18",1437,10,Epsilon,10,2026-01-20,0
+URN-1432,elektronik ürün 727,Oyuncak,"481,54",861,50,Alfa Ltd,%18,09.08.2025,H
+URN-1475,giyim ürün 117,Kozmetik,"5.650,97",157,50,Delta San,8,2024-07-23,H
+URN-1474,GIDA ÜRÜN 328,Spor,975.65,188,20,Delta San,8,2025-02-04,H
+URN-1070,spor ürün 566,Kırtasiye,1153.74,345,50,Alfa Ltd,1,01.01.2024,true
+URN-1210,Gıda Ürün 945,Giyim,5200.50,823,10,Delta San,10,21.07.2024,false
+URN-1314,Gıda Ürün 587,Kırtasiye,"1.284,17",1361,50,Epsilon,20,30/06/2024,hayır
+URN-1291,Gıda Ürün 467,Kırtasiye,6422.92,1131,50,Beta A.Ş,10,14.10.2024,true
+URN-1486,Gıda Ürün 602,Elektronik,"2.752,48",936,50,Beta A.Ş,18,23/01/2025,evet
+URN-1201,kırtasiye ürün 535,Elektronik,973.76,507,100,Alfa Ltd,1,08.04.2024,1
+URN-1136,elektronik ürün 998,Mobilya,"6.008,24",1120,100,Gama Tic,10,23/04/2025,true
+URN-1052,giyim ürün 922,Elektronik,3635.85,891,20,Gama Tic,%18,2025-12-22,true
+URN-1398,  Elektronik Ürün 856 ,Oyuncak,abc,1349,50,Beta A.Ş,10,2025-03-04,false
+URN-1400,KOZMETIK ÜRÜN 42,Giyim,"1.730,25",157,20,Delta San,1,07/04/2024,hayır
+URN-1194,oyuncak ürün 399,Kozmetik,"6.785,54",848,50,Gama Tic,18,18.02.2026,evet
+URN-1320,Giyim Ürün 193,yok,1070.62,694,50,Gama Tic,8,12.05.2025,E
+URN-1301,OYUNCAK ÜRÜN 670,null,2223.31,514,10,Delta San,8,2024-12-25,true
+URN-1010,Mobilya Ürün 826,Giyim,"2.574,71",1378,20,Delta San,%18,10.02.2026,H
+URN-1173,kırtasiye ürün 971,Gıda,4753.30,1500,10,NaN,20,18.01.2025,hayır
+URN-1380,SPOR ÜRÜN 144,Mobilya,2630.46,yok,100,Gama Tic,10,06/03/2025,hayır
+URN-1450,GIYIM ÜRÜN 629,Kozmetik,"6.458,60",321,50,Beta A.Ş,1,19.10.2024,false
+URN-1377,kırtasiye ürün 180,Oyuncak,4544.89,607,100,Epsilon,18,2025-10-30,1
+URN-1349,Elektronik Ürün 469,-,3464.82,1419,100,Gama Tic,8,08.01.2026,H
+URN-1444,ELEKTRONIK ÜRÜN 548,Kırtasiye,4685.96,160,50,Alfa Ltd,%18,2024-07-18,H
+URN-1455,  Oyuncak Ürün 263 ,,"6.464,29",559,10,Gama Tic,%20,23.09.2025,1
+URN-1492,KOZMETIK ÜRÜN 884,,"4.380,36",462,10,Alfa Ltd,%18,2025-08-13,0
+URN-1216,gıda ürün 710,Giyim,4299.20,971,100,N/A,10,2025-05-10,true
+URN-1143,  Elektronik Ürün 98 ,Mobilya,"5.777,15",917,20,Beta A.Ş,%18,18.10.2025,H
+URN-1040,KOZMETIK ÜRÜN 974,Giyim,2940.18,261,20,Beta A.Ş,%18,2024-12-12,hayır
+URN-1035,oyuncak ürün 709,Kozmetik,"5.643,96",885,20,Delta San,10,28/02/2024,H
+URN-1044,Oyuncak Ürün 768,Spor,"2.065,62",1409,100,Delta San,18,01.01.2024,H
+URN-1479,giyim ürün 841,Mobilya,"3.548,93",1447,10,Epsilon,10,2024-02-25,true
+URN-1121,SPOR ÜRÜN 964,Elektronik,2010.14,1190,10,Beta A.Ş,18,2026-05-08,H
+URN-1205,  Elektronik Ürün 465 ,Gıda,"1.134,11",bilinmiyor,50,Delta San,%20,08.08.2024,0
+URN-1126,Gıda Ürün 597,Gıda,"3.342,70",68,20,Epsilon,%20,2024-01-18,hayır
+URN-1048,Giyim Ürün 253,Oyuncak,"3.415,14",1439,20,Beta A.Ş,%20,21/02/2026,E
+URN-1451,Mobilya Ürün 755,yok,"2.041,60",1262,50,Alfa Ltd,8,14/04/2025,E
+URN-1302,Giyim Ürün 221,n/a,4639.04,580,50,Epsilon,20,15.02.2024,H
+URN-1290,Kırtasiye Ürün 74,Kozmetik,"3.654,61",1090,10,Delta San,10,02/03/2026,E
+URN-1132,Elektronik Ürün 300,Elektronik,4852.49,bilinmiyor,50,,18,09.07.2025,H
+URN-1458,Gıda Ürün 395,Mobilya,6032.87,1109,20,Delta San,%20,09.09.2024,hayır
+URN-1484,  Elektronik Ürün 267 ,Elektronik,27.66,779,50,n/a,18,2025-01-17,evet
+URN-1133,MOBILYA ÜRÜN 494,Gıda,5133.90,418,10,Epsilon,20,02.05.2024,0
+URN-1408,Giyim Ürün 616,Giyim,"4.436,71",418,100,Epsilon,8,2026-03-03,false
+URN-1057,Kozmetik Ürün 962,Mobilya,4644.49,872,10,Gama Tic,1,07.05.2026,hayır
+URN-1208,gıda ürün 892,Mobilya,yaklasik 1000,307,50,Alfa Ltd,%20,2025-10-28,1
+URN-1112,Kozmetik Ürün 329,Kırtasiye,"3.105,70",1459,10,Beta A.Ş,10,18.04.2024,E
+URN-1434,Elektronik Ürün 23,Kırtasiye,7014.12,1000,100,Alfa Ltd,20,22.12.2025,true
+URN-1417,oyuncak ürün 645,Mobilya,"3.064,90",462,100,Beta A.Ş,20,2024-08-13,1
+URN-1414,GIDA ÜRÜN 364,Elektronik,3009.94,1332,100,Gama Tic,%20,31.03.2025,H
+URN-1018,  Kırtasiye Ürün 145 ,Gıda,yaklasik 1000,325,100,Alfa Ltd,%18,2025-03-31,1
+URN-1470,SPOR ÜRÜN 482,Oyuncak,3083.34,578,10,Gama Tic,%18,12/10/2024,false
+URN-1088,Gıda Ürün 71,Kozmetik,"5.535,81",946,100,-,8,2024-03-17,false
+URN-1152,elektronik ürün 566,Gıda,"4.756,25",1346,50,Alfa Ltd,18,19.05.2025,0
+URN-1146,Mobilya Ürün 875,Giyim,7303.78,986,20,Delta San,18,03.09.2024,true
+URN-1115,giyim ürün 461,Spor,"3.962,71",190,20,Epsilon,20,2025-05-13,evet
+URN-1234,kırtasiye ürün 842,Oyuncak,"2.660,44",904,100,Epsilon,%18,02/03/2026,0
+URN-1006,elektronik ürün 289,Kırtasiye,5167.35,939,10,Beta A.Ş,1,07/01/2025,evet
+URN-1085,Spor Ürün 47,Oyuncak,abc,1015,50,Gama Tic,8,26.05.2024,true
