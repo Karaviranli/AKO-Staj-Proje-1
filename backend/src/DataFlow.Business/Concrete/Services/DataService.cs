@@ -3,6 +3,7 @@ using System.Text;
 using CsvHelper;
 using DataFlow.Business.Abstract;
 using DataFlow.Business.Common;
+using DataFlow.Business.Concrete.Rules;
 using DataFlow.Business.Dtos.Data;
 using DataFlow.Business.Dtos.Rules;
 using DataFlow.DataAccess.Context;
@@ -180,6 +181,22 @@ public class DataService : IDataService
         await _db.SaveChangesAsync();
         await _audit.LogAsync(userId, "-", "DELETE", $"Dosya #{fileId} silindi");
         return true;
+    }
+
+    public async Task<List<RuleSuggestionDto>?> SuggestRulesAsync(int fileId, int userId)
+    {
+        var file = await _db.UploadedFiles.AsNoTracking()
+            .FirstOrDefaultAsync(f => f.Id == fileId && f.UserId == userId);
+
+        if (file is null) return null;
+
+        var dataset = new DatasetModel
+        {
+            Columns = JsonDefaults.Deserialize<List<string>>(file.ColumnsJson) ?? new List<string>(),
+            Rows = JsonDefaults.DeserializeRows(file.RawDataJson)
+        };
+
+        return RuleSuggester.Suggest(dataset);
     }
 
     // ---------------------------------------------------------------- İŞLEME

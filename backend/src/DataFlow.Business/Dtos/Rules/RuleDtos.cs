@@ -203,3 +203,21 @@ public class RuleExecutionLogDto
     public bool Skipped { get; set; }
     public string? Warning { get; set; }
 }
+
+/// <summary>
+/// Sistemin veri kalitesi analizine bakarak ürettiği "akıllı temizlik" önerisi.
+/// Kullanıcı bunları toptan ya da tek tek kural zincirine ekleyebilir.
+/// </summary>
+public class RuleSuggestionDto
+{
+    public RuleDto Rule { get; set; } = new();
+
+    /// <summary>Bu kuralın neden önerildiğinin insan-okur açıklaması.</summary>
+    public string Reason { get; set; } = string.Empty;
+
+    /// <summary>temizlik | tip | eksik | tekrar | kolon</summary>
+    public string Category { get; set; } = "temizlik";
+
+    /// <summary>Kaç hücre/satırın etkileneceğine dair tahmin (öncelik sıralaması için).</summary>
+    public int Impact { get; set; }
+}

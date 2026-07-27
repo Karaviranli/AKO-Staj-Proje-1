@@ -1,6 +1,7 @@
 using DataFlow.Business.Abstract;
 using DataFlow.Business.Dtos.Common;
 using DataFlow.Business.Dtos.Data;
+using DataFlow.Business.Dtos.Rules;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -81,6 +82,22 @@ public class DataController : BaseApiController
         return deleted
             ? Ok(ApiResponse<bool>.Ok(true, "Veri seti silindi."))
             : NotFound(ApiResponse<bool>.Fail("Veri seti bulunamadı."));
+    }
+
+    /// <summary>
+    /// Veri setini inceleyip otomatik temizlik kuralları önerir. Kullanıcı bunları
+    /// toptan uygulayabilir ya da tek tek kural zincirine ekleyip düzenleyebilir.
+    /// </summary>
+    [HttpGet("files/{id:int}/suggestions")]
+    public async Task<ActionResult<ApiResponse<List<RuleSuggestionDto>>>> Suggestions(int id)
+    {
+        var result = await _data.SuggestRulesAsync(id, CurrentUserId);
+        return result is null
+            ? NotFound(ApiResponse<List<RuleSuggestionDto>>.Fail("Veri seti bulunamadı."))
+            : Ok(ApiResponse<List<RuleSuggestionDto>>.Ok(result,
+                result.Count == 0
+                    ? "Veri temiz görünüyor — önerilecek bir düzeltme bulunamadı."
+                    : $"{result.Count} temizlik önerisi bulundu."));
     }
 
     // ---------------------------------------------------------------- İŞLEME

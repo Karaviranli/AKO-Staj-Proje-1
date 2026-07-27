@@ -89,6 +89,13 @@ export type RuleCatalog = {
   actions: CatalogAction[];
 };
 
+export type RuleSuggestion = {
+  rule: Rule;
+  reason: string;
+  category: "temizlik" | "tip" | "eksik" | "tekrar" | "kolon";
+  impact: number;
+};
+
 export type RulePreset = {
   id: number;
   name: string;

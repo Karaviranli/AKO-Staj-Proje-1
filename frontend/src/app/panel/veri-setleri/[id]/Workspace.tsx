@@ -10,6 +10,7 @@ import type {
   Rule,
   RuleCatalog,
   RulePreset,
+  RuleSuggestion,
 } from "@/lib/types";
 import {
   Alert,
@@ -25,6 +26,7 @@ import {
 import { DataTable } from "@/components/DataTable";
 import { RuleBuilder, emptyRule } from "@/components/RuleBuilder";
 import { ExecutionReport } from "@/components/ExecutionReport";
+import { SuggestionsPanel } from "@/components/SuggestionsPanel";
 
 /**
  * Kural Stüdyosu — projenin ana ekranı.
@@ -46,6 +48,11 @@ export function Workspace({ fileId }: { fileId: number }) {
   const [notice, setNotice] = useState<string | null>(null);
   const [tab, setTab] = useState<"source" | "result">("source");
 
+  // Kural kurma modu: "elle" = sıfırdan kendin kur; "otomatik" = sistemin önerileri.
+  const [mode, setMode] = useState<"elle" | "otomatik">("elle");
+  const [suggestions, setSuggestions] = useState<RuleSuggestion[] | null>(null);
+  const [loadingSuggestions, setLoadingSuggestions] = useState(false);
+
   useEffect(() => {
     Promise.all([
       api.get<PagedData>(`/data/files/${fileId}?page=1&pageSize=200`),
@@ -61,9 +68,11 @@ export function Workspace({ fileId }: { fileId: number }) {
       .finally(() => setLoading(false));
   }, [fileId]);
 
+  // Belirli bir kural listesini çalıştırır. Verilmezse mevcut zinciri kullanır.
   const run = useCallback(
-    async (dryRun: boolean) => {
-      if (rules.length === 0) {
+    async (dryRun: boolean, override?: Rule[]) => {
+      const toRun = override ?? rules;
+      if (toRun.length === 0) {
         setError("Çalıştırmak için en az bir kural tanımlayın.");
         return;
       }
@@ -78,7 +87,7 @@ export function Workspace({ fileId }: { fileId: number }) {
           name: name || undefined,
           dryRun,
           // Sıra numaraları listedeki konuma göre yeniden yazılır.
-          rules: rules.map((r, i) => ({ ...r, order: i + 1 })),
+          rules: toRun.map((r, i) => ({ ...r, order: i + 1 })),
         });
 
         setResult(data);
@@ -96,6 +105,47 @@ export function Workspace({ fileId }: { fileId: number }) {
     },
     [fileId, name, rules],
   );
+
+  // Sistemden otomatik temizlik önerilerini çeker.
+  const loadSuggestions = useCallback(async () => {
+    setLoadingSuggestions(true);
+    setError(null);
+    try {
+      const data = await api.get<RuleSuggestion[]>(
+        `/data/files/${fileId}/suggestions`,
+      );
+      setSuggestions(data);
+    } catch (e) {
+      setError(e instanceof Error ? e.message : "Öneriler alınamadı.");
+    } finally {
+      setLoadingSuggestions(false);
+    }
+  }, [fileId]);
+
+  // Önerilen kuralları mevcut zincire ekler (elle kurulanlarla harmanlanır).
+  function addRules(incoming: Rule[]) {
+    setRules((prev) => {
+      const merged = [...prev, ...incoming];
+      return merged.map((r, i) => ({ ...r, order: i + 1 }));
+    });
+    setNotice(
+      `${incoming.length} kural zincire eklendi. Düzenleyip "Önizle" ile sonucu görebilirsin.`,
+    );
+  }
+
+  // "Uygula ve kaydet": önerileri zincire ekler VE hemen çalıştırıp kaydeder.
+  function applyAll(incoming: Rule[]) {
+    const merged = [...rules, ...incoming].map((r, i) => ({ ...r, order: i + 1 }));
+    setRules(merged);
+    void run(false, merged);
+  }
+
+  function switchMode(next: "elle" | "otomatik") {
+    setMode(next);
+    if (next === "otomatik" && suggestions === null && !loadingSuggestions) {
+      void loadSuggestions();
+    }
+  }
 
   function applyPreset(id: string) {
     const preset = presets.find((p) => String(p.id) === id);
@@ -164,7 +214,47 @@ export function Workspace({ fileId }: { fileId: number }) {
       {error && <Alert tone="error">{error}</Alert>}
       {notice && <Alert tone={result?.dryRun ? "info" : "success"}>{notice}</Alert>}
 
-      {/* --- Kural kurgusu --- */}
+      {/* --- Mod seçici: Elle mi, Otomatik mi? --- */}
+      <div className="inline-flex rounded-lg border border-ink-300 bg-white p-1">
+        {(
+          [
+            ["elle", "✍️ Elle kural kur"],
+            ["otomatik", "🪄 Otomatik öneriler"],
+          ] as const
+        ).map(([value, label]) => (
+          <button
+            key={value}
+            onClick={() => switchMode(value)}
+            className={cx(
+              "rounded-md px-4 py-1.5 text-sm font-medium transition-colors",
+              mode === value
+                ? "bg-brand-600 text-white"
+                : "text-ink-600 hover:text-ink-900",
+            )}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
+
+      {/* --- Otomatik mod: sistemin önerileri --- */}
+      {mode === "otomatik" &&
+        (loadingSuggestions ? (
+          <Card>
+            <div className="px-5 py-8">
+              <Spinner label="Sistem veriyi inceliyor…" />
+            </div>
+          </Card>
+        ) : suggestions ? (
+          <SuggestionsPanel
+            suggestions={suggestions}
+            onAdd={addRules}
+            onApplyAll={applyAll}
+            running={running}
+          />
+        ) : null)}
+
+      {/* --- Kural kurgusu (her iki modda da görünür; otomatik öneriler buraya eklenir) --- */}
       <Card>
         <CardHeader
           title="Kural Zinciri"

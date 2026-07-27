@@ -92,6 +92,17 @@ public static class ValueHelper
 
         if (v is not string raw) return false;
 
+        // Harf içeren değer sayı SAYILMAZ. Aksi halde "URN-1001" gibi kodlar
+        // harfleri silinerek yanlışlıkla -1001 olarak okunurdu (veri bozulması).
+        // Yalnızca binlik/ondalık ayıraç, işaret, %, boşluk ve para simgeleri hoş görülür.
+        foreach (var c in raw)
+        {
+            var ok = char.IsDigit(c)
+                     || c is '.' or ',' or '-' or '+' or '%' or ' '
+                     || c is '₺' or '$' or '€' or '£';
+            if (!ok) return false;
+        }
+
         var cleaned = new string(raw.Where(c => char.IsDigit(c) || c is '.' or ',' or '-' or '+').ToArray());
         if (cleaned.Length == 0) return false;
 
