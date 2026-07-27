@@ -10,6 +10,9 @@ etkisini raporlayan tam yığın (full-stack) uygulama.
 | Uygulama | .NET 9 Web API, katmanlı mimari, JWT Bearer |
 | Veri | Entity Framework Core 9 (Code-First) + SQLite |
 
+> **Sıfırdan kuruyorsan** (yeni bilgisayar, hiçbir şey kurulu değil):
+> adım adım **[KURULUM.md](KURULUM.md)** rehberini takip et.
+
 ---
 
 ## Hızlı başlangıç
