@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "SicilNo": 5001, "Ad": "  Kemal Aydın ", "Departman": "Üretim", "Maas": "18.500,00", "IseGirisTarihi": "2019-03-15", "Yas": 41, "Sehir": "Kocaeli" },
+    { "SicilNo": 5002, "Ad": "SELİN KARA", "Departman": null, "Maas": "24500", "IseGirisTarihi": "15.07.2021", "Yas": 29, "Sehir": "istanbul" },
+    { "SicilNo": 5003, "Ad": "emre şahin", "Departman": "Kalite", "Maas": "15.900,50", "IseGirisTarihi": "2020-11-02", "Yas": 35, "Sehir": "İSTANBUL" },
+    { "SicilNo": 5004, "Ad": "Deniz Yıldız", "Departman": "", "Maas": "bilinmiyor", "IseGirisTarihi": "2018-01-09", "Yas": null, "Sehir": "Ankara" },
+    { "SicilNo": 5005, "Ad": "MERVE ÇETİN", "Departman": "Muhasebe", "Maas": "31.200,00", "IseGirisTarihi": "2022-05-30", "Yas": 33, "Sehir": "İzmir" },
+    { "SicilNo": 5006, "Ad": "onur BAL", "Departman": "Üretim", "Maas": "17.250,00", "IseGirisTarihi": "2023-02-14", "Yas": 26, "Sehir": "kocaeli" },
+    { "SicilNo": 5007, "Ad": "Gizem Uçar", "Departman": "n/a", "Maas": "19.800,00", "IseGirisTarihi": "2017-09-21", "Yas": 44, "Sehir": "Bursa" },
+    { "SicilNo": 5008, "Ad": "  HAKAN TOPAL", "Departman": "Lojistik", "Maas": "22.000", "IseGirisTarihi": "2021-12-06", "Yas": 38, "Sehir": "BURSA" },
+    { "SicilNo": 5009, "Ad": "pınar Gül", "Departman": "Kalite", "Maas": "16.400,75", "IseGirisTarihi": "2024-04-18", "Yas": 24, "Sehir": "Ankara" },
+    { "SicilNo": 5010, "Ad": "Serkan Ateş", "Departman": "Üretim", "Maas": "28.900,00", "IseGirisTarihi": "2016-06-11", "Yas": 52, "Sehir": "Kocaeli" },
+    { "SicilNo": 5011, "Ad": "  Kemal Aydın ", "Departman": "Üretim", "Maas": "18.500,00", "IseGirisTarihi": "2019-03-15", "Yas": 41, "Sehir": "Kocaeli" },
+    { "SicilNo": 5012, "Ad": "AYLİN SOY", "Departman": "İnsan Kaynakları", "Maas": "26.700,00", "IseGirisTarihi": "2020-08-25", "Yas": 36, "Sehir": "İstanbul" }
+  ]
+}
