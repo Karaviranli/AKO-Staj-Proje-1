@@ -67,10 +67,10 @@ public static class ConditionEvaluator
 
         return condition.Operator switch
         {
-            ConditionOperators.Equals =>
+            ConditionOperators.Equal =>
                 ValueHelper.Compare(cell, target, condition.CaseSensitive) == 0,
 
-            ConditionOperators.NotEquals =>
+            ConditionOperators.NotEqual =>
                 ValueHelper.Compare(cell, target, condition.CaseSensitive) != 0,
 
             // Sayısal/tarihsel karşılaştırmalarda boş hücre asla eşleşmez.

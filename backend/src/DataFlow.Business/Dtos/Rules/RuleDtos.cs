@@ -41,7 +41,7 @@ public class ConditionDto
     public string Column { get; set; } = string.Empty;
 
     /// <summary><see cref="ConditionOperators"/> içindeki değerlerden biri.</summary>
-    public string Operator { get; set; } = ConditionOperators.Equals;
+    public string Operator { get; set; } = ConditionOperators.Equal;
 
     public string? Value { get; set; }
 
@@ -68,8 +68,10 @@ public class RuleActionDto
 
 public static class ConditionOperators
 {
-    public const string Equals = "eq";
-    public const string NotEquals = "neq";
+    // "Equals" adı object.Equals'i gizlediği için (CS0108) tekil biçim kullanıldı.
+    // Dışarıya giden değerler ("eq"/"neq") değişmedi.
+    public const string Equal = "eq";
+    public const string NotEqual = "neq";
     public const string GreaterThan = "gt";
     public const string GreaterOrEqual = "gte";
     public const string LessThan = "lt";
@@ -91,8 +93,8 @@ public static class ConditionOperators
 
     public static readonly IReadOnlyDictionary<string, string> Labels = new Dictionary<string, string>
     {
-        [Equals] = "eşittir",
-        [NotEquals] = "eşit değildir",
+        [Equal] = "eşittir",
+        [NotEqual] = "eşit değildir",
         [GreaterThan] = "büyüktür",
         [GreaterOrEqual] = "büyük veya eşittir",
         [LessThan] = "küçüktür",
