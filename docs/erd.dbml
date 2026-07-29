@@ -1,0 +1,212 @@
+// DataFlow — hedef veri modeli (ETL)
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table Users {
+  Id integer [primary key]
+  Username varchar
+  Email varchar
+  PasswordHash varchar
+  Role varchar [note: 'Admin, Analyst, Viewer']
+  FullName varchar
+  IsActive boolean
+  CreatedAt timestamp
+  LastLoginAt timestamp
+
+  Note: 'Kimlik & kaynak'
+}
+
+Table UploadedFiles {
+  Id integer [primary key]
+  FileName varchar
+  FileType varchar [note: 'csv, xlsx, json, api']
+  FilePath varchar
+  FileSizeBytes integer
+  UploadedByUserId integer [not null]
+  RowCount integer
+  ColumnCount integer
+  Status varchar [note: 'Received, Analyzing, Ready, Failed']
+  CreatedAt timestamp
+
+  Note: 'Kimlik & kaynak'
+}
+
+Table FileColumns {
+  Id integer [primary key]
+  FileId integer [not null]
+  ColumnName varchar
+  Position integer
+  DetectedDataType varchar [note: 'text, number, date, boolean']
+  NullCount integer
+  DistinctCount integer
+  SampleValue varchar
+
+  Note: 'Kimlik & kaynak'
+}
+
+Table DataQualityIssues {
+  Id integer [primary key]
+  FileId integer [not null]
+  ColumnName varchar
+  IssueType varchar [note: 'MissingValue, TypeMismatch, DuplicateRow, FormatInconsistency']
+  AffectedRowCount integer
+  Severity varchar [note: 'Low, Medium, High']
+  DetectedAt timestamp
+
+  Note: 'Kimlik & kaynak'
+}
+
+Table RulePipelines {
+  Id integer [primary key]
+  PipelineName varchar
+  Description text
+  CreatedByUserId integer [not null]
+  Category varchar [note: 'satis, calisan, genel']
+  IsActive boolean
+  CreatedAt timestamp
+
+  Note: 'Kural motoru'
+}
+
+Table Rules {
+  Id integer [primary key]
+  PipelineId integer [not null]
+  RuleName varchar
+  TargetField varchar [note: 'orn: Yas, Maas, Departman']
+  ActionType varchar [note: 'setValue, fillNull, castNumber, deleteRow']
+  ExecutionOrder integer
+  IsActive boolean
+
+  Note: 'Kural motoru'
+}
+
+Table RuleConditions {
+  Id integer [primary key]
+  RuleId integer [not null]
+  Column varchar
+  Operator varchar [note: 'eq, gt, contains, isNull']
+  Value varchar
+  LogicOperator varchar [note: 'AND, OR']
+  GroupIndex integer
+
+  Note: 'Kural motoru'
+}
+
+Table EtlJobExecutions {
+  Id integer [primary key]
+  FileId integer [not null]
+  PipelineId integer [not null]
+  TriggeredByUserId integer [not null]
+  Status varchar [note: 'Queued, Running, Completed, Failed']
+  RowsBefore integer
+  RowsAfter integer
+  CellsModified integer
+  StartTime timestamp
+  EndTime timestamp
+
+  Note: 'Çalıştırma & sonuç'
+}
+
+Table RuleExecutionResults {
+  Id integer [primary key]
+  JobExecutionId integer [not null]
+  RuleId integer [not null]
+  RowsMatched integer
+  RowsModified integer
+  DurationMs integer
+  Skipped boolean
+  Warning varchar
+
+  Note: 'Çalıştırma & sonuç'
+}
+
+Table DataRecords {
+  Id integer [primary key]
+  SourceFileId integer [not null]
+  JobExecutionId integer
+  RowIndex integer
+  DataJson text [note: 'satır verisi']
+  DataQualityStatus varchar [note: 'Clean, Corrupted, Modified']
+
+  Note: 'Çalıştırma & sonuç'
+}
+
+Table EtlLogs {
+  Id integer [primary key]
+  JobExecutionId integer [not null]
+  StepName varchar
+  LogLevel varchar [note: 'Info, Warning, Error']
+  Message text
+  Timestamp timestamp
+
+  Note: 'Çalıştırma & sonuç'
+}
+
+Table ExportHistory {
+  Id integer [primary key]
+  JobExecutionId integer [not null]
+  ExportedByUserId integer [not null]
+  Format varchar [note: 'CSV, XLSX, JSON']
+  FileSizeBytes integer
+  ExportedAt timestamp
+
+  Note: 'Çıktı & izlenebilirlik'
+}
+
+Table AuditLogs {
+  Id integer [primary key]
+  UserId integer
+  Action varchar [note: 'LOGIN, UPLOAD, PROCESS, DELETE, EXPORT']
+  Detail text
+  IpAddress varchar
+  CreatedAt timestamp
+
+  Note: 'Çıktı & izlenebilirlik'
+}
+
+// --- İlişkiler ---
+
+Ref: UploadedFiles.UploadedByUserId > Users.Id       // yükler
+Ref: RulePipelines.CreatedByUserId > Users.Id        // oluşturur
+Ref: EtlJobExecutions.TriggeredByUserId > Users.Id   // başlatır
+Ref: ExportHistory.ExportedByUserId > Users.Id       // dışa aktarır
+Ref: AuditLogs.UserId > Users.Id                     // eylem yapar
+
+Ref: FileColumns.FileId > UploadedFiles.Id           // içerir
+Ref: DataQualityIssues.FileId > UploadedFiles.Id     // tespit edilir
+Ref: DataRecords.SourceFileId > UploadedFiles.Id     // kaynaklık eder
+Ref: EtlJobExecutions.FileId > UploadedFiles.Id      // işlenir
+
+Ref: Rules.PipelineId > RulePipelines.Id             // içerir
+Ref: EtlJobExecutions.PipelineId > RulePipelines.Id  // uygulanır
+Ref: RuleConditions.RuleId > Rules.Id                // koşulları var
+Ref: RuleExecutionResults.RuleId > Rules.Id          // çalışır
+
+Ref: DataRecords.JobExecutionId > EtlJobExecutions.Id        // üretir
+Ref: EtlLogs.JobExecutionId > EtlJobExecutions.Id             // üretir
+Ref: RuleExecutionResults.JobExecutionId > EtlJobExecutions.Id // detaylandırılır
+Ref: ExportHistory.JobExecutionId > EtlJobExecutions.Id       // dışa aktarılır
+
+// --- Örnek veri (demo hesabıyla tutarlı) ---
+
+Records Users(Id, Username, Role) {
+  1, 'admin', 'Admin'
+  2, 'ayse.analist', 'Analyst'
+  3, 'okur', 'Viewer'
+}
+
+Records UploadedFiles(Id, FileName, FileType, UploadedByUserId, RowCount, Status) {
+  1, '01-satis-musteri.csv', 'csv', 1, 515, 'Ready'
+  2, '02-calisan-ik.json', 'json', 1, 512, 'Ready'
+  3, '05-ogrenci-sinav.xlsx', 'xlsx', 2, 510, 'Ready'
+}
+
+Records RulePipelines(Id, PipelineName, CreatedByUserId, Category, IsActive) {
+  1, 'Satış - Yaş segmentasyonu', 1, 'satis', true
+  2, 'Çalışan - Eksik veri temizliği', 2, 'calisan', true
+}
+
+Records Rules(Id, PipelineId, RuleName, TargetField, ActionType, ExecutionOrder) {
+  1, 1, 'Boşsa Belirsiz yaz', 'DogumYeri', 'fillNull', 1
+  2, 1, 'Sayıya çevir', 'ToplamHarcama', 'castNumber', 2
+  3, 1, 'Tekrarları sil', '', 'deduplicate', 3
+}
