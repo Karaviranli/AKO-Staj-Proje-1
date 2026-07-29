@@ -1,0 +1,200 @@
+{
+  "diagramName": "DataFlow - Hedef Veri Modeli (ETL)",
+  "description": "Dosya yukleme -> kalite analizi -> kural motoru -> calistirma -> disa aktarim ve denetim akisini modelleyen hedef/kavramsal ER semasi.",
+  "tables": [
+    {
+      "name": "Users",
+      "group": "Kimlik & kaynak",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "Username", "type": "TEXT" },
+        { "name": "Email", "type": "TEXT" },
+        { "name": "PasswordHash", "type": "TEXT" },
+        { "name": "Role", "type": "TEXT", "note": "Admin, Analyst, Viewer" },
+        { "name": "FullName", "type": "TEXT" },
+        { "name": "IsActive", "type": "BOOLEAN" },
+        { "name": "CreatedAt", "type": "TEXT" },
+        { "name": "LastLoginAt", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "UploadedFiles",
+      "group": "Kimlik & kaynak",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "FileName", "type": "TEXT" },
+        { "name": "FileType", "type": "TEXT", "note": "csv, xlsx, json, api" },
+        { "name": "FilePath", "type": "TEXT" },
+        { "name": "FileSizeBytes", "type": "INTEGER" },
+        { "name": "UploadedByUserId", "type": "INTEGER", "fk": { "table": "Users", "column": "Id" } },
+        { "name": "RowCount", "type": "INTEGER" },
+        { "name": "ColumnCount", "type": "INTEGER" },
+        { "name": "Status", "type": "TEXT", "note": "Received, Analyzing, Ready, Failed" },
+        { "name": "CreatedAt", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "FileColumns",
+      "group": "Kimlik & kaynak",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "FileId", "type": "INTEGER", "fk": { "table": "UploadedFiles", "column": "Id" } },
+        { "name": "ColumnName", "type": "TEXT" },
+        { "name": "Position", "type": "INTEGER" },
+        { "name": "DetectedDataType", "type": "TEXT", "note": "text, number, date, boolean" },
+        { "name": "NullCount", "type": "INTEGER" },
+        { "name": "DistinctCount", "type": "INTEGER" },
+        { "name": "SampleValue", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "DataQualityIssues",
+      "group": "Kimlik & kaynak",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "FileId", "type": "INTEGER", "fk": { "table": "UploadedFiles", "column": "Id" } },
+        { "name": "ColumnName", "type": "TEXT" },
+        { "name": "IssueType", "type": "TEXT", "note": "MissingValue, TypeMismatch, DuplicateRow, FormatInconsistency" },
+        { "name": "AffectedRowCount", "type": "INTEGER" },
+        { "name": "Severity", "type": "TEXT", "note": "Low, Medium, High" },
+        { "name": "DetectedAt", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "RulePipelines",
+      "group": "Kural motoru",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "PipelineName", "type": "TEXT" },
+        { "name": "Description", "type": "TEXT" },
+        { "name": "CreatedByUserId", "type": "INTEGER", "fk": { "table": "Users", "column": "Id" } },
+        { "name": "Category", "type": "TEXT", "note": "satis, calisan, genel" },
+        { "name": "IsActive", "type": "BOOLEAN" },
+        { "name": "CreatedAt", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "Rules",
+      "group": "Kural motoru",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "PipelineId", "type": "INTEGER", "fk": { "table": "RulePipelines", "column": "Id" } },
+        { "name": "RuleName", "type": "TEXT" },
+        { "name": "TargetField", "type": "TEXT", "note": "orn: Yas, Maas, Departman" },
+        { "name": "ActionType", "type": "TEXT", "note": "setValue, fillNull, castNumber, deleteRow" },
+        { "name": "ExecutionOrder", "type": "INTEGER" },
+        { "name": "IsActive", "type": "BOOLEAN" }
+      ]
+    },
+    {
+      "name": "RuleConditions",
+      "group": "Kural motoru",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "RuleId", "type": "INTEGER", "fk": { "table": "Rules", "column": "Id" } },
+        { "name": "Column", "type": "TEXT" },
+        { "name": "Operator", "type": "TEXT", "note": "eq, gt, contains, isNull" },
+        { "name": "Value", "type": "TEXT" },
+        { "name": "LogicOperator", "type": "TEXT", "note": "AND, OR" },
+        { "name": "GroupIndex", "type": "INTEGER" }
+      ]
+    },
+    {
+      "name": "EtlJobExecutions",
+      "group": "Çalıştırma & sonuç",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "FileId", "type": "INTEGER", "fk": { "table": "UploadedFiles", "column": "Id" } },
+        { "name": "PipelineId", "type": "INTEGER", "fk": { "table": "RulePipelines", "column": "Id" } },
+        { "name": "TriggeredByUserId", "type": "INTEGER", "fk": { "table": "Users", "column": "Id" } },
+        { "name": "Status", "type": "TEXT", "note": "Queued, Running, Completed, Failed" },
+        { "name": "RowsBefore", "type": "INTEGER" },
+        { "name": "RowsAfter", "type": "INTEGER" },
+        { "name": "CellsModified", "type": "INTEGER" },
+        { "name": "StartTime", "type": "TEXT" },
+        { "name": "EndTime", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "RuleExecutionResults",
+      "group": "Çalıştırma & sonuç",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "JobExecutionId", "type": "INTEGER", "fk": { "table": "EtlJobExecutions", "column": "Id" } },
+        { "name": "RuleId", "type": "INTEGER", "fk": { "table": "Rules", "column": "Id" } },
+        { "name": "RowsMatched", "type": "INTEGER" },
+        { "name": "RowsModified", "type": "INTEGER" },
+        { "name": "DurationMs", "type": "INTEGER" },
+        { "name": "Skipped", "type": "BOOLEAN" },
+        { "name": "Warning", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "DataRecords",
+      "group": "Çalıştırma & sonuç",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "SourceFileId", "type": "INTEGER", "fk": { "table": "UploadedFiles", "column": "Id" } },
+        { "name": "JobExecutionId", "type": "INTEGER", "fk": { "table": "EtlJobExecutions", "column": "Id" } },
+        { "name": "RowIndex", "type": "INTEGER" },
+        { "name": "DataJson", "type": "TEXT", "note": "satir verisi" },
+        { "name": "DataQualityStatus", "type": "TEXT", "note": "Clean, Corrupted, Modified" }
+      ]
+    },
+    {
+      "name": "EtlLogs",
+      "group": "Çalıştırma & sonuç",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "JobExecutionId", "type": "INTEGER", "fk": { "table": "EtlJobExecutions", "column": "Id" } },
+        { "name": "StepName", "type": "TEXT" },
+        { "name": "LogLevel", "type": "TEXT", "note": "Info, Warning, Error" },
+        { "name": "Message", "type": "TEXT" },
+        { "name": "Timestamp", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "ExportHistory",
+      "group": "Çıktı & izlenebilirlik",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "JobExecutionId", "type": "INTEGER", "fk": { "table": "EtlJobExecutions", "column": "Id" } },
+        { "name": "ExportedByUserId", "type": "INTEGER", "fk": { "table": "Users", "column": "Id" } },
+        { "name": "Format", "type": "TEXT", "note": "CSV, XLSX, JSON" },
+        { "name": "FileSizeBytes", "type": "INTEGER" },
+        { "name": "ExportedAt", "type": "TEXT" }
+      ]
+    },
+    {
+      "name": "AuditLogs",
+      "group": "Çıktı & izlenebilirlik",
+      "columns": [
+        { "name": "Id", "type": "INTEGER", "pk": true },
+        { "name": "UserId", "type": "INTEGER", "fk": { "table": "Users", "column": "Id" } },
+        { "name": "Action", "type": "TEXT", "note": "LOGIN, UPLOAD, PROCESS, DELETE, EXPORT" },
+        { "name": "Detail", "type": "TEXT" },
+        { "name": "IpAddress", "type": "TEXT" },
+        { "name": "CreatedAt", "type": "TEXT" }
+      ]
+    }
+  ],
+  "relationships": [
+    { "from": "Users", "to": "UploadedFiles", "type": "one-to-many", "label": "yukler" },
+    { "from": "Users", "to": "RulePipelines", "type": "one-to-many", "label": "olusturur" },
+    { "from": "Users", "to": "EtlJobExecutions", "type": "one-to-many", "label": "baslatir" },
+    { "from": "Users", "to": "ExportHistory", "type": "one-to-many", "label": "disa_aktarir" },
+    { "from": "Users", "to": "AuditLogs", "type": "one-to-many", "label": "eylem_yapar" },
+    { "from": "UploadedFiles", "to": "FileColumns", "type": "one-to-many", "label": "icerir" },
+    { "from": "UploadedFiles", "to": "DataQualityIssues", "type": "one-to-many", "label": "tespit_edilir" },
+    { "from": "UploadedFiles", "to": "DataRecords", "type": "one-to-many", "label": "kaynaklik_eder" },
+    { "from": "UploadedFiles", "to": "EtlJobExecutions", "type": "one-to-many", "label": "islenir" },
+    { "from": "RulePipelines", "to": "Rules", "type": "one-to-many", "label": "icerir" },
+    { "from": "RulePipelines", "to": "EtlJobExecutions", "type": "one-to-many", "label": "uygulanir" },
+    { "from": "Rules", "to": "RuleConditions", "type": "one-to-many", "label": "kosullari_var" },
+    { "from": "Rules", "to": "RuleExecutionResults", "type": "one-to-many", "label": "calisir" },
+    { "from": "EtlJobExecutions", "to": "DataRecords", "type": "one-to-many", "label": "uretir" },
+    { "from": "EtlJobExecutions", "to": "EtlLogs", "type": "one-to-many", "label": "uretir" },
+    { "from": "EtlJobExecutions", "to": "RuleExecutionResults", "type": "one-to-many", "label": "detaylandirilir" },
+    { "from": "EtlJobExecutions", "to": "ExportHistory", "type": "one-to-many", "label": "disa_aktarilir" }
+  ]
+}

@@ -1,0 +1,98 @@
+Table,Group,Column,Type,PK,FK_Table,FK_Column,Note
+Users,Kimlik & kaynak,Id,INTEGER,TRUE,,,
+Users,Kimlik & kaynak,Username,TEXT,,,,
+Users,Kimlik & kaynak,Email,TEXT,,,,
+Users,Kimlik & kaynak,PasswordHash,TEXT,,,,
+Users,Kimlik & kaynak,Role,TEXT,,,,"Admin, Analyst, Viewer"
+Users,Kimlik & kaynak,FullName,TEXT,,,,
+Users,Kimlik & kaynak,IsActive,BOOLEAN,,,,
+Users,Kimlik & kaynak,CreatedAt,TEXT,,,,
+Users,Kimlik & kaynak,LastLoginAt,TEXT,,,,
+UploadedFiles,Kimlik & kaynak,Id,INTEGER,TRUE,,,
+UploadedFiles,Kimlik & kaynak,FileName,TEXT,,,,
+UploadedFiles,Kimlik & kaynak,FileType,TEXT,,,,"csv, xlsx, json, api"
+UploadedFiles,Kimlik & kaynak,FilePath,TEXT,,,,
+UploadedFiles,Kimlik & kaynak,FileSizeBytes,INTEGER,,,,
+UploadedFiles,Kimlik & kaynak,UploadedByUserId,INTEGER,,Users,Id,
+UploadedFiles,Kimlik & kaynak,RowCount,INTEGER,,,,
+UploadedFiles,Kimlik & kaynak,ColumnCount,INTEGER,,,,
+UploadedFiles,Kimlik & kaynak,Status,TEXT,,,,"Received, Analyzing, Ready, Failed"
+UploadedFiles,Kimlik & kaynak,CreatedAt,TEXT,,,,
+FileColumns,Kimlik & kaynak,Id,INTEGER,TRUE,,,
+FileColumns,Kimlik & kaynak,FileId,INTEGER,,UploadedFiles,Id,
+FileColumns,Kimlik & kaynak,ColumnName,TEXT,,,,
+FileColumns,Kimlik & kaynak,Position,INTEGER,,,,
+FileColumns,Kimlik & kaynak,DetectedDataType,TEXT,,,,"text, number, date, boolean"
+FileColumns,Kimlik & kaynak,NullCount,INTEGER,,,,
+FileColumns,Kimlik & kaynak,DistinctCount,INTEGER,,,,
+FileColumns,Kimlik & kaynak,SampleValue,TEXT,,,,
+DataQualityIssues,Kimlik & kaynak,Id,INTEGER,TRUE,,,
+DataQualityIssues,Kimlik & kaynak,FileId,INTEGER,,UploadedFiles,Id,
+DataQualityIssues,Kimlik & kaynak,ColumnName,TEXT,,,,
+DataQualityIssues,Kimlik & kaynak,IssueType,TEXT,,,,"MissingValue, TypeMismatch, DuplicateRow, FormatInconsistency"
+DataQualityIssues,Kimlik & kaynak,AffectedRowCount,INTEGER,,,,
+DataQualityIssues,Kimlik & kaynak,Severity,TEXT,,,,"Low, Medium, High"
+DataQualityIssues,Kimlik & kaynak,DetectedAt,TEXT,,,,
+RulePipelines,Kural motoru,Id,INTEGER,TRUE,,,
+RulePipelines,Kural motoru,PipelineName,TEXT,,,,
+RulePipelines,Kural motoru,Description,TEXT,,,,
+RulePipelines,Kural motoru,CreatedByUserId,INTEGER,,Users,Id,
+RulePipelines,Kural motoru,Category,TEXT,,,,"satis, calisan, genel"
+RulePipelines,Kural motoru,IsActive,BOOLEAN,,,,
+RulePipelines,Kural motoru,CreatedAt,TEXT,,,,
+Rules,Kural motoru,Id,INTEGER,TRUE,,,
+Rules,Kural motoru,PipelineId,INTEGER,,RulePipelines,Id,
+Rules,Kural motoru,RuleName,TEXT,,,,
+Rules,Kural motoru,TargetField,TEXT,,,,"orn: Yas, Maas, Departman"
+Rules,Kural motoru,ActionType,TEXT,,,,"setValue, fillNull, castNumber, deleteRow"
+Rules,Kural motoru,ExecutionOrder,INTEGER,,,,
+Rules,Kural motoru,IsActive,BOOLEAN,,,,
+RuleConditions,Kural motoru,Id,INTEGER,TRUE,,,
+RuleConditions,Kural motoru,RuleId,INTEGER,,Rules,Id,
+RuleConditions,Kural motoru,Column,TEXT,,,,
+RuleConditions,Kural motoru,Operator,TEXT,,,,"eq, gt, contains, isNull"
+RuleConditions,Kural motoru,Value,TEXT,,,,
+RuleConditions,Kural motoru,LogicOperator,TEXT,,,,"AND, OR"
+RuleConditions,Kural motoru,GroupIndex,INTEGER,,,,
+EtlJobExecutions,Çalıştırma & sonuç,Id,INTEGER,TRUE,,,
+EtlJobExecutions,Çalıştırma & sonuç,FileId,INTEGER,,UploadedFiles,Id,
+EtlJobExecutions,Çalıştırma & sonuç,PipelineId,INTEGER,,RulePipelines,Id,
+EtlJobExecutions,Çalıştırma & sonuç,TriggeredByUserId,INTEGER,,Users,Id,
+EtlJobExecutions,Çalıştırma & sonuç,Status,TEXT,,,,"Queued, Running, Completed, Failed"
+EtlJobExecutions,Çalıştırma & sonuç,RowsBefore,INTEGER,,,,
+EtlJobExecutions,Çalıştırma & sonuç,RowsAfter,INTEGER,,,,
+EtlJobExecutions,Çalıştırma & sonuç,CellsModified,INTEGER,,,,
+EtlJobExecutions,Çalıştırma & sonuç,StartTime,TEXT,,,,
+EtlJobExecutions,Çalıştırma & sonuç,EndTime,TEXT,,,,
+RuleExecutionResults,Çalıştırma & sonuç,Id,INTEGER,TRUE,,,
+RuleExecutionResults,Çalıştırma & sonuç,JobExecutionId,INTEGER,,EtlJobExecutions,Id,
+RuleExecutionResults,Çalıştırma & sonuç,RuleId,INTEGER,,Rules,Id,
+RuleExecutionResults,Çalıştırma & sonuç,RowsMatched,INTEGER,,,,
+RuleExecutionResults,Çalıştırma & sonuç,RowsModified,INTEGER,,,,
+RuleExecutionResults,Çalıştırma & sonuç,DurationMs,INTEGER,,,,
+RuleExecutionResults,Çalıştırma & sonuç,Skipped,BOOLEAN,,,,
+RuleExecutionResults,Çalıştırma & sonuç,Warning,TEXT,,,,
+DataRecords,Çalıştırma & sonuç,Id,INTEGER,TRUE,,,
+DataRecords,Çalıştırma & sonuç,SourceFileId,INTEGER,,UploadedFiles,Id,
+DataRecords,Çalıştırma & sonuç,JobExecutionId,INTEGER,,EtlJobExecutions,Id,
+DataRecords,Çalıştırma & sonuç,RowIndex,INTEGER,,,,
+DataRecords,Çalıştırma & sonuç,DataJson,TEXT,,,,satir verisi
+DataRecords,Çalıştırma & sonuç,DataQualityStatus,TEXT,,,,"Clean, Corrupted, Modified"
+EtlLogs,Çalıştırma & sonuç,Id,INTEGER,TRUE,,,
+EtlLogs,Çalıştırma & sonuç,JobExecutionId,INTEGER,,EtlJobExecutions,Id,
+EtlLogs,Çalıştırma & sonuç,StepName,TEXT,,,,
+EtlLogs,Çalıştırma & sonuç,LogLevel,TEXT,,,,"Info, Warning, Error"
+EtlLogs,Çalıştırma & sonuç,Message,TEXT,,,,
+EtlLogs,Çalıştırma & sonuç,Timestamp,TEXT,,,,
+ExportHistory,Çıktı & izlenebilirlik,Id,INTEGER,TRUE,,,
+ExportHistory,Çıktı & izlenebilirlik,JobExecutionId,INTEGER,,EtlJobExecutions,Id,
+ExportHistory,Çıktı & izlenebilirlik,ExportedByUserId,INTEGER,,Users,Id,
+ExportHistory,Çıktı & izlenebilirlik,Format,TEXT,,,,"CSV, XLSX, JSON"
+ExportHistory,Çıktı & izlenebilirlik,FileSizeBytes,INTEGER,,,,
+ExportHistory,Çıktı & izlenebilirlik,ExportedAt,TEXT,,,,
+AuditLogs,Çıktı & izlenebilirlik,Id,INTEGER,TRUE,,,
+AuditLogs,Çıktı & izlenebilirlik,UserId,INTEGER,,Users,Id,
+AuditLogs,Çıktı & izlenebilirlik,Action,TEXT,,,,"LOGIN, UPLOAD, PROCESS, DELETE, EXPORT"
+AuditLogs,Çıktı & izlenebilirlik,Detail,TEXT,,,,
+AuditLogs,Çıktı & izlenebilirlik,IpAddress,TEXT,,,,
+AuditLogs,Çıktı & izlenebilirlik,CreatedAt,TEXT,,,,
